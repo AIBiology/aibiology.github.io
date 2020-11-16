@@ -21,12 +21,12 @@ Classes will have some lecture, though most classes will consist of live coding 
 The course assumes a basic understanding of computer programming, and Python in particular.
 If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course:
 
-* Programming Foundations: Fundamentals
+* [Programming Foundations: Fundamentals](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-fundamentals-3%3Ftrk%3Dshare_ent_url&account=41282748)
   * This course is best for people with no coding experience.
   * Most of the hands-on examples are in Python
-* Python Essential Training
+* [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome?u=41282748)
   * A good review or introduction for people who know some programming but not Python
-* Learning Python
+* [Learning Python](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python%3Ftrk%3Dshare_ent_url&account=41282748)
   *Another option for those with some coding experience 
 Note, you do not need to do all of these. Any one would get you at a good place to start the semester. We will review the basics of Python in the first weeks. 
 
@@ -40,9 +40,9 @@ Students will be required to apply for a (free) Github.com account for coursewor
 
 If you have technical difficulties with Canvas, please contact the UF Helpdesk at:
 
-*	http://helpdesk.ufl.edu
-*	(352) 392-HELP (4357)
-*	Walk-in: HUB 132
+* http://helpdesk.ufl.edu
+* (352) 392-HELP (4357)
+* Walk-in: HUB 132
 
 Any requests for make-ups due to technical issues should be accompanied by the ticket number received from the Help Desk when the problem was reported to them. The ticket number will document the time and date of the problem. Please e-mail the instructor within 24 hours of the technical difficulty if you wish to request a make-up.
 
