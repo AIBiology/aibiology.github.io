@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title></title>
+        <description>Site for Matt Gitzendanner's UF course, Computational Tools for Research in Biology (BSC 4452)</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 16 Nov 2020 13:43:53 -0500</pubDate>
+        <lastBuildDate>Mon, 16 Nov 2020 13:43:53 -0500</lastBuildDate>
+        <generator>Jekyll v4.1.1</generator>
+        
+        <item>
+            <title>Class Starts Monday!</title>
+            <description>&lt;p&gt;Hi All,&lt;/p&gt;
+
+&lt;p&gt;Class starts on Monday, May 11, 2020 at 11:00am.&lt;/p&gt;
+
+&lt;p&gt;Here is the information from the welcome email registered and auditing students should have received today:&lt;/p&gt;
+
+&lt;p&gt;Hi everyone&lt;/p&gt;
+
+&lt;p&gt;This is Matt Gitzendanner, the professor for BSC4452 and BOT6935, Computational Tools for Research. The class will begin at 11:00 a.m. on Monday, May 11. Zoom information is located in Canvas, but here is the link for the class meetings (M,W,F 11:00-12:15):&lt;/p&gt;
+
+&lt;p&gt;Zoom information redacted, email Matt for details.&lt;/p&gt;
+
+&lt;p&gt;I encourage you to log into Canvas, but the main course website (which is the syllabus) is at: https://comptoolsres.github.io/&lt;/p&gt;
+
+&lt;p&gt;It would be great to go ahead and download the free textbooks (or order print copies if you want them) and install the software before class starts on Monday. Summer A is a fast-paced semester and we will jump right in.&lt;/p&gt;
+
+&lt;p&gt;If you have trouble logging into the e-Learning system, contact the HelpDesk: helpdesk@ufl.edu or call (352) 392-4357 (352-392-HELP).&lt;/p&gt;
+
+&lt;p&gt;I look forward to seeing you all on Monday!&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;br /&gt;
+Matt Gitzendanner&lt;/p&gt;
+</description>
+            <pubDate>Thu, 07 May 2020 00:00:00 -0400</pubDate>
+            <link>http://localhost:4000/2020-05-07_ClassStarts.html</link>
+            <guid isPermaLink="true">http://localhost:4000/2020-05-07_ClassStarts.html</guid>
+            
+            <category>news</category>
+            
+            
+        </item>
+        
+    </channel>
+</rss>
