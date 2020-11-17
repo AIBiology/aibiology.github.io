@@ -28,7 +28,77 @@ If you have not taken a programming course or are new to Python, there are sever
   * A good review or introduction for people who know some programming but not Python
 * [Learning Python](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python%3Ftrk%3Dshare_ent_url&account=41282748)
   *Another option for those with some coding experience 
-Note, you do not need to do all of these. Any one would get you at a good place to start the semester. We will review the basics of Python in the first weeks. 
+Note, you do not need to do all of these. Any one would get you at a good place to start the semester. We will review the basics of Python in the first weeks.
+
+## Course Calendar
+
+{% include image.html file='calendar.png' alt="calendar icon" position="right" max-width=75 %}
+
+{% include important.html content="This is subject to change, please check back frequently." %}
+
+For readings, there may be links to pages with my notes and additional explanations on the content from the texts.
+
+Week | Date | Reading/Assignment |Topic |
+-----|------|--------------------|------|
+[1](Week_01.html) | Mon, Jan 11 |  | Course introduction <BR> What is AI, what is intelligence, what AI isn’t
+[1](Week_01.html) | Wed, Jan 13 | [Take the HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0)| Historical Context<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
+[1](Week_01.html) | Fri, Jan 15 |  | The scope of AI (subdisciplines)<br>How smart are today’s machines, really?  (We’ll come back to this throughout the semester.)
+|||
+[2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
+[2](Week_02.html) | Wed, Jan 20 |  | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
+[2](Week_02.html) | Fri, Jan 22 |  | Python Introduction<br>* Statements, variables, operations, etc.
+|||
+[3](Week_03.html) | Mon, Jan 25 |  | Python Functions, Good programming practices (DRY, avoid globals, etc.).
+[3](Week_03.html) | Wed, Jan 27 |  | Python Pandas, numpy
+[3](Week_03.html) | Fri, Jan 29 |  |Python sklearn, pytorch, keras, etc.
+|||
+[4](Week_04.html) | Mon, Feb 1 |  | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
+[4](Week_04.html) | Wed, Feb 3 |  | Hands on data
+[4](Week_04.html) | Fri, Feb 5 |  | Hands on prediction, loss, optimization
+|||
+[5](Week_05.html) | Mon, Feb 8 |  | Classical statistics revisited<br>* Statistical models as ML<br>* Bias/variance tradeoff and regularization<br>* Logistic regression and classification (including classification metrics)
+[5](Week_05.html) | Wed, Feb 10 |  | Hands on regression analysis
+[5](Week_05.html) | Fri, Feb 12 |  | Hands on
+|||
+[6](Week_06.html) | Mon, Feb 15 |  | Tree-Based Models
+[6](Week_06.html) | Wed, Feb 17 |  | Hands on Tree-Based Models
+[6](Week_06.html) | Fri, Feb 19 |  | Hands on Tree-Based Models
+|||
+[7](Week_07.html) | Mon, Feb 22 |  | Support vector machines
+[7](Week_07.html) | Wed, Feb 24 |  | Hands on Support vector machines
+[7](Week_07.html) | Fri, Feb 26 |  | Hands on Support vector machines
+|||
+[8](Week_08.html) | Mon, Mar 1 |  | Supervised vs. unsupervised learning
+[8](Week_08.html) | Wed, Mar 2 |  | Intro. to unsupervised methods
+[8](Week_08.html) | Fri, Mar 5 |  | Intro. to unsupervised methods
+|||
+[9](Week_09.html) | Mon, Mar 8 |  | Neural Networks
+[9](Week_09.html) | Wed, Mar 10 |  | Neural Networks
+[9](Week_09.html) | Fri, Mar 12 |  | Neural Networks
+|||
+[10](Week_10.html) | Mon, Mar 15 |  | CNNs for medical image analysis
+[10](Week_10.html) | Wed, Mar 17 |  | CNNs for image segmentation
+[10](Week_10.html) | Fri, Mar 19 |  | Additional hands on with CNNs
+|||
+[11](Week_11.html) | Mon, Mar 22 |  | Symbolic AI
+[11](Week_11.html) | Wed, Mar 24 |  | Symbolic AI
+[11](Week_11.html) | Fri, Mar 26 |  | Symbolic AI
+|||
+[12](Week_12.html) | Mon, Mar 29 |  | Symbolic AI
+[12](Week_12.html) | Wed, Mar 31 |  | Symbolic AI
+[12](Week_12.html) | Fri, Apr 2 |  | Symbolic AI
+|||
+[13](Week_13.html) | Mon, Apr 5 |  | Topics TBD
+[13](Week_13.html) | Wed, Apr 7 |  | Topics TBD
+[13](Week_13.html) | Fri, Apr 9 |  | Topics TBD
+|||
+[14](Week_14.html) | Mon, Apr 12 |  | Topics TBD
+[14](Week_14.html) | Wed, Apr 14 |  | Topics TBD
+[14](Week_14.html) | Fri, Apr 16 |  | Topics TBD
+|||
+[15](Week_14.html) | Mon, Apr 19 |  | Topics TBD
+[15](Week_14.html) | Wed, Apr 21 |  | Last day of class
+|||
 
 ## Software and Hardware
 
