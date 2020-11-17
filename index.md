@@ -10,6 +10,8 @@ toc: false
 
 ## Course Description
 
+{% include image.html file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
+
 Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter, with limited progress or research for decades. Modern GPU technology and advances in algorithms has renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in Biology. We will address the question of what is AI, how intelligent computers really are and may become, where limitations still exist, and if AI is here to stay or the latest trend.
 
 The course will attempt to provide sufficient background and foundations so that students understand the detailed workings of the AI algorithms, but will not focus on the mathematical details. This is not a computer science or mathematics course. Calculus and Linear algebra are foundational to AI, but we will gloss over the details as much as possible and students are not expected to have background knowledge of these fields.
