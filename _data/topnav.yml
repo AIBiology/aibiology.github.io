@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/comptoolsres
+      external_url: https://github.com/AIBiology
     - title: About
       url: /about.html
 
