@@ -10,7 +10,7 @@ toc: false
 
 ## Course Description
 
-{% include image.html max-width=500 file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
+{% include image.html max-width=400 file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
 
 Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter, with limited progress or research for decades. Modern GPU technology and advances in algorithms has renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in Biology. We will address the question of what is AI, how intelligent computers really are and may become, where limitations still exist, and if AI is here to stay or the latest trend.
 
@@ -32,6 +32,38 @@ If you have not taken a programming course or are new to Python, there are sever
   *Another option for those with some coding experience 
 Note, you do not need to do all of these. Any one would get you at a good place to start the semester. We will review the basics of Python in the first weeks.
 
+## Meeting Times
+
+### In-person and Synchronous meetings
+
+* **Mon, Wed, Fri 1:55pm - 2:45pm Bartram 211 and online**
+* In-person sections:
+  * Only those registered for the in-person sections may attend in-person
+  * If you do not attend regularly, you will be asked to change to the online section to allow others to attend in-person
+  * If you know you will be absent for a class, please notify the instructors so that they can offer your seat to an online participant.
+* Online sections:
+  * It is expected that you will attend class synchronously
+  * If possible, please have your camera on during class
+
+* Zoom links for class and recordings of class will be posted in Canvas.
+
+ {% include important.html content="You should make every effort to attend class synchronously. While we will post information ahead of time and will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
+
+* We understand that with all that is going on, some students will need to miss classes sometimes. That is fine and we will do our best to help you catch up, but regular attendance is the best way to learn.
+
+{% include custom/office_hours.html %}
+
+ {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. **We expect that you will need help. You should expect that you will need help.** We want to help you! We cannot always help if you do not ask for the help you need. Please ask for help." %}
+
+## Course Textbooks
+
+{% include image.html file='textbook.png' alt="textbook icon" position="right" max-width=75 %}
+While we will not use any one text for the course, we will use sections of these books and other resources. All will be free, open-source texts.
+
+* [{% include inline_image.html file='PDSH-cover-small.png' alt="PDSH textbook icon" %} Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+* [{% include inline_image.html file='D2DL_cover.png' alt="D2DL textbook icon"  %} Dive into Deep Learning by Aston Zhang, Zachary Lipton, Mu Li and Alexander Smola](https://d2l.ai/)
+
 ## Course Calendar
 
 {% include image.html file='calendar.png' alt="calendar icon" position="right" max-width=75 %}
@@ -47,11 +79,11 @@ Week | Date | Reading/Assignment |Topic |
 [1](Week_01.html) | Fri, Jan 15 |  | The scope of AI (subdisciplines)<br>How smart are today’s machines, really?  (We’ll come back to this throughout the semester.)
 |||
 [2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
-[2](Week_02.html) | Wed, Jan 20 |  | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
+[2](Week_02.html) | Wed, Jan 20 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
 [2](Week_02.html) | Fri, Jan 22 |  | Python Introduction<br>* Statements, variables, operations, etc.
 |||
 [3](Week_03.html) | Mon, Jan 25 |  | Python Functions, Good programming practices (DRY, avoid globals, etc.).
-[3](Week_03.html) | Wed, Jan 27 |  | Python Pandas, numpy
+[3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy <br>Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Pandas, numpy
 [3](Week_03.html) | Fri, Jan 29 |  |Python sklearn, pytorch, keras, etc.
 |||
 [4](Week_04.html) | Mon, Feb 1 |  | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
@@ -59,7 +91,7 @@ Week | Date | Reading/Assignment |Topic |
 [4](Week_04.html) | Fri, Feb 5 |  | Hands on prediction, loss, optimization
 |||
 [5](Week_05.html) | Mon, Feb 8 |  | Classical statistics revisited<br>* Statistical models as ML<br>* Bias/variance tradeoff and regularization<br>* Logistic regression and classification (including classification metrics)
-[5](Week_05.html) | Wed, Feb 10 |  | Hands on regression analysis
+[5](Week_05.html) | Wed, Feb 10 |  | [Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)
 [5](Week_05.html) | Fri, Feb 12 |  | Hands on
 |||
 [6](Week_06.html) | Mon, Feb 15 |  | Tree-Based Models
