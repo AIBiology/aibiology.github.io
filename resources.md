@@ -9,7 +9,7 @@ toc: false
 ## Version Control and git
 
 * [![github logo](images/github_logo.jpg)](git.html) This page lists more information on git and version control and git-specific resources.
-
+ 
 ## General tutorials
 
 * [![carpentries logo](images/TheCarpentries.png)](https://carpentries.org/) Much like this course, [The Carpentries'](https://carpentries.org/) mission is "to teach foundational computational and data science skills to researchers." All of their lessons are posted and free to use. I highly recommend checking out the resources available at [carpentries.org](https://carpentries.org/).
