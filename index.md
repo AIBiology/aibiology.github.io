@@ -39,6 +39,7 @@ Note, you do not need to do all of these. Any one would get you at a good place 
 * **Mon, Wed, Fri 1:55pm - 2:45pm Bartram 211 and online**
 * In-person sections:
   * Only those registered for the in-person sections may attend in-person
+    * COVID-19 restrictions limit the capacity of the room well below the number of seats. A maximum of 10 students will be allowed to attend in-person each class.
   * If you do not attend regularly, you will be asked to change to the online section to allow others to attend in-person
   * If you know you will be absent for a class, please notify the instructors so that they can offer your seat to an online participant.
 * Online sections:
@@ -139,7 +140,7 @@ Week | Date | Reading/Assignment |Topic |
 Participants will need a computer with internet connection, webcam and microphone for all classes.
 
 Several free/open source software packages will be used throughout the course, and students will be required to install some of these.
-Students will be required to apply for a (free) Research Computing account to access HiPerGator for coursework.
+Students will use a (free) Research Computing account to access HiPerGator for coursework.
 Students will be required to apply for a (free) Github.com account for coursework.
 
 If you have technical difficulties with Canvas, please contact the UF Helpdesk at:
@@ -247,7 +248,7 @@ Grading in this class is consistent with UF policies available at: [https://cata
 
 Requirements for class attendance and makeup assignments, and other work in this course are consistent with university policies that can be found in the online catalog at: [https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/](https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/)
 
-In general, I do not take attendance. You are all adults and I assume you are taking the class the learn. The best way to learn is to regularly attend class. I am sure students will miss class for various reasons. I am happy to help you catch up. If you regularly miss class and fall behind, I may ask that you hold questions on content you have missed until after class, ask that you coordinate a time to go over the content. I will make every effort to record and post all classes to help those that miss classes.
+In general, we do not take attendance. You are all adults and we assume you are taking the class the learn. **The best way to learn is to regularly attend class.** We are sure students will miss class for various reasons. We are happy to help you catch up. If you regularly miss class and fall behind, we may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. We will make every effort to record and post all classes to help those that miss classes.
 
 ### Quiz and Assignment Policy
 
@@ -257,7 +258,7 @@ All quizzes and assignments are "open book, open internet", you may use whatever
 
 ### Makeup and Late policy
 
-Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. Without prior notification, late work will be penalized one point per day after the due date.
+Please notify the instructors of circumstances that lead to late work or missed classes. We will generally work with you and accept late work. Without prior notification, late work will be penalized one point per day after the due date.
 
 ## Students Requiring Accommodations
 
@@ -269,17 +270,15 @@ Students are expected to provide professional and respectful feedback on the qua
 
 ## Class Demeanor and Netiquette
 
-Students are expected to be in class or join the class Zoom meeting on time and behave in a manner that is respectful to the instructor and to fellow students. For remote participants, if at all possible, please have your video on during class--it is easier for me to teach and for discussion if we can see you! Please do be aware of your surroundings and ensure that content visible on your video, or shared via screen sharing, is appropriate for class.
+Students are expected to be in class or join the class Zoom meeting on time and behave in a manner that is respectful to the instructors and to fellow students. For remote participants, if at all possible, please have your video on during class--it is easier for us to teach and for discussion if we can see you! Please do be aware of your surroundings and ensure that content visible on your video, or shared via screen sharing, is appropriate for class.
 
 Opinions held by other students should be respected in discussion, and conversations that do not contribute to the discussion should be held at minimum, if at all.
-
-Please use the "Raise Hand" feature of Zoom to ask a question.
 
 Students should be working on course content during class.
 
 ### Discussion Boards and Slack Channel
 
-The Canvas discussion boards and Slack can be used to ask for and provide help by all. Students should be supportive and considerate of others at all times. Rude or inappropriate comments will be removed and the poster will be warned.
+The Canvas discussion boards and Microsoft Teams can be used to ask for and provide help by all. Students should be supportive and considerate of others at all times. Rude or inappropriate comments will be removed and the poster will be warned.
 
 ## University Honesty Policy
 
@@ -332,7 +331,7 @@ There are federal laws protecting your privacy with regards to grades earned in 
 
 ## Statement Regarding Course Recording
 
-Our class sessions may be audio visually recorded for students in the class to refer back to and for use of enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate verbally are agreeing to have their voices recorded.  If you are unwilling to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live. The chat will not be recorded or shared. As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
+Our class sessions may be audio visually recorded for students in the class to refer back to and for use of enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate verbally are agreeing to have their voices recorded.  If you are unwilling to consent to have your voice recorded during class, you will need to keep your mute button activated.  As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
