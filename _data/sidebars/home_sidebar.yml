@@ -4,5 +4,75 @@ entries:
 - title: sidebar
   product: Course Content
   folders: 
+  - title: Introduction to AI and Python
+    output: web
+    folderitems:
 
+  - title: Machine Learning
+    output: web
+    folderitems:
   
+  - title: Symbolic AI
+    output: web
+    folderitems:
+  
+  - title: Week-by-Week Pages
+    output: web
+    folderitems:
+
+    - title: Week 1 - Jan 11 - 15
+      url: /Week_01.html
+      output: web
+    - title: Week 2 - Jan 18 - 22
+      url: /Week_02.html
+      output: web
+    - title: Week 3 - Jan 25 - 29
+      url: /Week_03.html
+      output: web
+    - title: Week 4 - Feb 1 - 5
+      url: /Week_04.html
+      output: web
+    - title: Week 5 - Feb 8 - 12
+      url: /Week_05.html
+      output: web
+    - title: Week 6 - Feb 15 - 19
+      url: /Week_06.html
+      output: web
+    - title: Week 7 - Feb 22 - 26
+      url: /Week_07.html
+      output: web
+    - title: Week 8 - Mar 1 - 5
+      url: /Week_08.html
+      output: web
+    - title: Week 9 - Mar 8 - 12
+      url: /Week_09.html
+      output: web
+    - title: Week 10 - Mar 15 - 19
+      url: /Week_10.html
+      output: web
+    - title: Week 11 - Mar 22 - 26
+      url: /Week_11.html
+      output: web
+    - title: Week 12 - Mar 29 - Apr 2
+      url: /Week_12.html
+      output: web
+    - title: Week 13 - Apr 5 - 9
+      url: /Week_13.html
+      output: web
+    - title: Week 14 - Apr 12 -16
+      url: /Week_14.html
+      output: web    
+    - title: Week 15 - Apr 19 - 21
+      url: /Week_15.html
+      output: web
+
+  - title: Additional Resources
+    output: web
+    folderitems:
+
+    - title: Additional Resources
+      url: /resources.html
+      output: web
+    - title: List of Graded Work
+      url: /Grading.html
+      output: web
