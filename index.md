@@ -155,10 +155,14 @@ All faculty, staff and student of the University are required and expected to ob
 
 ## Grading
 
+<!--
 See also the [List of Graded Work page](Grading.html).
+-->
 
 ### Assignment Values
 
+Coming soon.
+<!--
 * **Quizzes**: 6 @ 20 points each: 120 points (37%)
 * **Problem Sets**: 5 @ 20 points each: 100 points (30%)
 * **Class Projects**: 2 @ 40 points each: 80 points (24%)
@@ -166,6 +170,7 @@ See also the [List of Graded Work page](Grading.html).
   * 5 points for GitHub account assignment
   * 10 points for github commits
   * 15 points for code peer review
+-->
 
 Grading in this class is consistent with UF policies available at: [https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/]( https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/)
 
