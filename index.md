@@ -43,7 +43,7 @@ A decent understanding of probability and statistics is highly recommended.
 Some understanding of calculus and linear algebra would be helpful. We won't focus on the math, but having a conceptual idea of integrals and differential equations as well as matrix math will be helpful.
 
 If you are unsure, contact the instructors.
-
+ 
 ## Meeting Times
 
 ### In-person and Synchronous meetings
