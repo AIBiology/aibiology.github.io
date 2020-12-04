@@ -14,13 +14,16 @@ toc: false
 
 Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter, with limited progress or research for decades. Modern GPU technology and advances in algorithms has renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in Biology. We will address the question of what is AI, how intelligent computers really are and may become, where limitations still exist, and if AI is here to stay or the latest trend.
 
-The course will attempt to provide sufficient background and foundations so that students understand the detailed workings of the AI algorithms, but will not focus on the mathematical details. This is not a computer science or mathematics course. Calculus and Linear algebra are foundational to AI, but we will gloss over the details as much as possible and students are not expected to have background knowledge of these fields.
+The course will attempt to provide sufficient background and foundations so that students understand the detailed workings of the AI algorithms, but will not focus on the mathematical details. This is not a computer science or mathematics course. 
 
 Classes will have some lecture, though most classes will consist of live coding demos and hands-on exercises.
 
 ## Prerequisites
 
+### Coding
+
 The course assumes a basic understanding of computer programming, and Python in particular.
+
 If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course:
 
 * [Programming Foundations: Fundamentals](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-fundamentals-3%3Ftrk%3Dshare_ent_url&account=41282748)
@@ -29,8 +32,17 @@ If you have not taken a programming course or are new to Python, there are sever
 * [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2/welcome?u=41282748)
   * A good review or introduction for people who know some programming but not Python
 * [Learning Python](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python%3Ftrk%3Dshare_ent_url&account=41282748)
-  *Another option for those with some coding experience 
+  * Another option for those with some coding experience
+
 Note, you do not need to do all of these. Any one would get you at a good place to start the semester. We will review the basics of Python in the first weeks.
+
+### Math
+
+A decent understanding of probability and statistics is highly recommended.
+
+Some understanding of calculus and linear algebra would be helpful. We won't focus on the math, but having a conceptual idea of integrals and differential equations as well as matrix math will be helpful.
+
+If you are unsure, contact the instructors.
 
 ## Meeting Times
 
