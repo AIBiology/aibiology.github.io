@@ -20,7 +20,7 @@ Classes will have some lecture, though most classes will consist of live coding 
 
 ## Prerequisites
 
-### Coding
+### Computer programming
 
 The course assumes a basic understanding of computer programming, and Python in particular.
 
@@ -38,9 +38,9 @@ Note, you do not need to do all of these. Any one would get you at a good place 
 
 ### Math
 
-A decent understanding of probability and statistics is highly recommended.
+You should have an understanding of probability and statistics at the level of a first applied statistics course.
 
-Some understanding of calculus and linear algebra would be helpful. We won't focus on the math, but having a conceptual idea of integrals and differential equations as well as matrix math will be helpful.
+Knowledge of basic calculus and, to a lesser extent, linear algebra, will also be helpful. We won't focus on the math, but having at least a conceptual understanding of derivatives, function optimization, and matrix math will be useful.
 
 If you are unsure, contact the instructors.
  
