@@ -43,7 +43,7 @@ You should have an understanding of probability and statistics at the level of a
 Knowledge of basic calculus and, to a lesser extent, linear algebra, will also be helpful. We won't focus on the math, but having at least a conceptual understanding of derivatives, function optimization, and matrix math will be useful.
 
 If you are unsure, contact the instructors.
- 
+
 ## Meeting Times
 
 ### In-person and Synchronous meetings
@@ -181,7 +181,6 @@ See also the [List of Graded Work page](Grading.html).
   * 10 points for github commits
   * 15 points for code peer review
 
-
 Grading in this class is consistent with UF policies available at: [https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/]( https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/)
 
 <div class="panel-group" id="accordion">
@@ -258,6 +257,21 @@ Grading in this class is consistent with UF policies available at: [https://cata
 <!-- /.panel-group -->
 
 ## Course Policies
+
+### Face to Face COVID-19 policies
+
+We will have face-to-face instructional sessions to accomplish the student learning objectives of this course. In response to COVID-19, the following policies and requirements are in place to maintain your learning environment and to enhance the safety of our in-classroom interactions.
+
+* You are required to wear approved face coverings at all times during class and within buildings. Following and enforcing these policies and requirements are all of our responsibility. Failure to do so will lead to a report to the Office of Student Conduct and Conflict Resolution.
+* This course has been assigned a physical classroom with enough capacity to maintain physical distancing (6 feet between individuals) requirements. Please utilize designated seats and maintain appropriate spacing between students. Please do not move desks or stations.
+* Sanitizing supplies are available in the classroom if you wish to wipe down your desks prior to sitting down and at the end of the class.
+* Follow your instructor’s guidance on how to enter and exit the classroom.  Practice physical distancing to the extent possible when entering and exiting the classroom.
+* If you are experiencing COVID-19 symptoms ([Click here for guidance from the CDC on symptoms of coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)), please use the UF Health screening system and follow the instructions on whether you are able to attend class. [Click here for UF Health guidance on what to do if you have been exposed to or are experiencing Covid-19 symptoms](https://coronavirus.ufhealth.org/screen-test-protect/covid-19-exposure-and-symptoms-who-do-i-call-if/).
+* Course materials will be provided to you with an excused absence, and you will be given a reasonable amount of time to make up work. [Find more information in the university attendance policies](https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/).
+
+## Online COVID-19 policies
+
+Our class sessions may be audio visually recorded for students in the class to refer back and for enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, be sure to keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate orally are agreeing to have their voices recorded.  If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live. Chats should be directed privately to the instructor. As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
 
 ### Class Attendance and Makeup Policy
 
