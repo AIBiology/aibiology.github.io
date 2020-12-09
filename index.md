@@ -305,9 +305,9 @@ Opinions held by other students should be respected in discussion, and conversat
 
 Students should be working on course content during class.
 
-### Discussion Boards and Slack Channel
+### Discussion Boards
 
-The Canvas discussion boards and Microsoft Teams can be used to ask for and provide help by all. Students should be supportive and considerate of others at all times. Rude or inappropriate comments will be removed and the poster will be warned.
+The [GitHub discussion boards](https://github.com/AIBiology/aibiology.github.io/discussions) can be used to ask for and provide help by all. Students should be supportive and considerate of others at all times. Rude or inappropriate comments will be removed and the poster will be warned.
 
 ## University Honesty Policy
 
