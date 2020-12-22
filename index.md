@@ -46,6 +46,8 @@ If you are unsure, contact the instructors.
 
 ## Meeting Times
 
+{% include important.html content="See additional important information on HyFlex and COVID protocols below." %}
+
 ### In-person and Synchronous meetings
 
 * **Mon, Wed, Fri 1:55pm - 2:45pm Bartram 211 and online**
@@ -258,16 +260,21 @@ Grading in this class is consistent with UF policies available at: [https://cata
 
 ## Course Policies
 
-### Face to Face COVID-19 policies
+### HyFlex information
 
-We will have face-to-face instructional sessions to accomplish the student learning objectives of this course. In response to COVID-19, the following policies and requirements are in place to maintain your learning environment and to enhance the safety of our in-classroom interactions.
+This course consists of four sections (two each for undergraduate and graduate students), online and face-to-face, which are simultaneous, i.e., they occur at the same meeting days and times. This means that some students in our class, and the instructors, will be participating from the assigned classroom, while others will be participating remotely (e.g., via Zoom) from their preferred location. 
 
-* You are required to wear approved face coverings at all times during class and within buildings. Following and enforcing these policies and requirements are all of our responsibility. Failure to do so will lead to a report to the Office of Student Conduct and Conflict Resolution.
-* This course has been assigned a physical classroom with enough capacity to maintain physical distancing (6 feet between individuals) requirements. Please utilize designated seats and maintain appropriate spacing between students. Please do not move desks or stations.
-* Sanitizing supplies are available in the classroom if you wish to wipe down your desks prior to sitting down and at the end of the class.
-* Follow your instructor’s guidance on how to enter and exit the classroom.  Practice physical distancing to the extent possible when entering and exiting the classroom.
-* If you are experiencing COVID-19 symptoms ([Click here for guidance from the CDC on symptoms of coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)), please use the UF Health screening system and follow the instructions on whether you are able to attend class. [Click here for UF Health guidance on what to do if you have been exposed to or are experiencing Covid-19 symptoms](https://coronavirus.ufhealth.org/screen-test-protect/covid-19-exposure-and-symptoms-who-do-i-call-if/).
-* Course materials will be provided to you with an excused absence, and you will be given a reasonable amount of time to make up work. [Find more information in the university attendance policies](https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/).
+As this is a new format for us, we want to ensure that you are aware of the following:
+
+* This course has been assigned a physical classroom with enough capacity to maintain physical distancing (6 feet between individuals) requirements. Please utilize designated seats and maintain appropriate spacing between students. Please do not move desks or stations. Since our rooms hold significantly fewer students than normal, the number of students in the classroom will be quite small – there will be 10 students in person, with the remaining participating online.
+* Students who have signed up for the in-person section are expected to attend class on every scheduled meeting day and time, as indicated in the course syllabus. Likewise, students who signed up for the online section are expected to attend class virtually on every scheduled meeting day and time, as indicated in the course syllabus.
+* In-person students (and faculty) are required to wear approved face coverings at all times during class and within buildings, and to maintain physical distancing of at least six feet at all times. Following and enforcing these policies and requirements are all of our responsibility. Failure to do so will lead to a report to the Office of Student Conduct and Conflict Resolution.
+* Face-to-face students and instructors are expected to clean their spaces (desks, chairs, podium) at the end of every class period. Sanitizing supplies are available in the classroom.
+* Technology in the classrooms has been updated, but is still insufficient to allow communication between face-to-face and virtual students. The instructors will be the only ones able to communicate with both populations, but will have to do so while remaining behind the podium (due to microphone placement). The instructor will have to repeat any questions or comments from face-to-face students for the benefit of the virtual students.
+* If face-to-face students wish to join the Zoom call from the classroom, they will have to provide their own computers and, crucially, headsets, in order to avoid interference from the various microphones.
+* Instructors will make every effort to incorporate both cohorts of students simultaneously, although this will require a lot of trial and error and a great deal of patience on all our parts. 
+
+This will be a different experience for all of us, but we are doing our best to comply with university mandates while still fulfilling the goals and objectives of our courses and providing you with the best possible educational experience. We appreciate your understanding.
 
 ## Online COVID-19 policies
 
@@ -276,6 +283,8 @@ Our class sessions may be audio visually recorded for students in the class to r
 ### Class Attendance and Makeup Policy
 
 Requirements for class attendance and makeup assignments, and other work in this course are consistent with university policies that can be found in the online catalog at: [https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/](https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/)
+
+If you are experiencing COVID-19 symptoms ([click here for guidance from the CDC on symptoms of coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)), please use the UF Health screening system and follow the instructions on whether you are able to attend class. [Click here for UF Health guidance on what to do if you have been exposed to or are experiencing Covid-19 symptoms](https://coronavirus.ufhealth.org/screen-test-protect/covid-19-exposure-and-symptoms-who-do-i-call-if/). Course materials will be provided to you with an excused absence, and you will be given a reasonable amount of time to make up work. Refer to the above link for more information on the university’s attendance policy.
 
 In general, we do not take attendance. You are all adults and we assume you are taking the class the learn. **The best way to learn is to regularly attend class.** We are sure students will miss class for various reasons. We are happy to help you catch up. If you regularly miss class and fall behind, we may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. We will make every effort to record and post all classes to help those that miss classes.
 
@@ -397,6 +406,8 @@ Our class sessions may be audio visually recorded for students in the class to r
                   <li><a href="https://accessibility.ufl.edu/">Accessibility</a>, including the Electronic Information Technology Accessibility Policy and ADA Compliance</li>
                   <li><a href="https://it.ufl.edu/policies/student-computing-requirements/">Student Computing Requirements</a>, including minimum and recommended technology requirements and competencies</li>
                 </ul>
+                <h3>Procedure for Conflict Resolution</h3>
+                  Any classroom issues, disagreements or grade disputes should be discussed first between the instructor and the student. If the problem cannot be resolved, please contact the (Under)Graduate Coordinator or the Department Chair. Be prepared to provide documentation of the problem, as well as all graded materials for the semester. Issues that cannot be resolved departmentally will be referred to the University Ombuds Office (<a href="http://www.ombuds.ufl.edu">http://www.ombuds.ufl.edu</a>; 392-1308) or the Dean of Students Office (<a href="http://www.dso.ufl.edu">http://www.dso.ufl.edu</a>; 392-1261). For further information refer to <a href="https://www.dso.ufl.edu/documents/UF_Complaints_policy.pdf">https://www.dso.ufl.edu/documents/UF_Complaints_policy.pdf</a> (for residential classes) or <a href=" http://www.distance.ufl.edu/student-complaintprocess">http://www.distance.ufl.edu/student-complaintprocess</a> (for online classes).
             </div>
             <!-- /.panel-body -->
         </div>
