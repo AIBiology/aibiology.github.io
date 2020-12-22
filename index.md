@@ -52,7 +52,7 @@ If you are unsure, contact the instructors.
 * In-person sections:
   * Only those registered for the in-person sections may attend in-person
     * COVID-19 restrictions limit the capacity of the room well below the number of seats. A maximum of 10 students will be allowed to attend in-person each class.
-  * If you do not attend regularly, you will be asked to change to the online section to allow others to attend in-person
+  * If you do not attend regularly, you will be asked to change to the online section to allow others to attend in-person.
   * If you know you will be absent for a class, please notify the instructors so that they can offer your seat to an online participant.
 * Online sections:
   * It is expected that you will attend class synchronously
@@ -128,7 +128,7 @@ Week | Date | Reading/Assignment |Topic |
 [10](Week_10.html) | Fri, Mar 19 |  | Additional hands on with CNNs
 |||
 [11](Week_11.html) | Mon, Mar 22 |  | Symbolic AI
-[11](Week_11.html) | Wed, Mar 24 |  | Symbolic AI
+[11](Week_11.html) | Wed, Mar 24 |  | Recharge Day, No Class
 [11](Week_11.html) | Fri, Mar 26 |  | Symbolic AI
 |||
 [12](Week_12.html) | Mon, Mar 29 |  | Symbolic AI
