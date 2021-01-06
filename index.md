@@ -97,56 +97,56 @@ Week | Date | Reading/Assignment |Topic |
 [2](Week_02.html) | Wed, Jan 20 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
 [2](Week_02.html) | Fri, Jan 22 | | Python Introduction<br>* Statements, variables, operations, etc.
 |||
-[3](Week_03.html) | Mon, Jan 25 |  | Python Functions, Good programming practices (DRY, avoid globals, etc.).
+[3](Week_03.html) | Mon, Jan 25 | Problem set 1 available, due {{site.ps_1_due}} | Python Functions, Good programming practices (DRY, avoid globals, etc.).
 [3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy <br>Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Pandas, numpy
 [3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing scikit learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) |Python sklearn, pytorch, keras, etc.
 |||
-[4](Week_04.html) | Mon, Feb 1 |  | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
+[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due** | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
 [4](Week_04.html) | Wed, Feb 3 |  | Hands on data
-[4](Week_04.html) | Fri, Feb 5 |  | Hands on prediction, loss, optimization
+[4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Hands on prediction, loss, optimization
 |||
 [5](Week_05.html) | Mon, Feb 8 |  | Classical statistics revisited<br>* Statistical models as ML<br>* Bias/variance tradeoff and regularization<br>* Logistic regression and classification (including classification metrics)
 [5](Week_05.html) | Wed, Feb 10 |  | [Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)
-[5](Week_05.html) | Fri, Feb 12 |  | Hands on
+[5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Hands on
 |||
 [6](Week_06.html) | Mon, Feb 15 |  | Tree-Based Models
 [6](Week_06.html) | Wed, Feb 17 |  | Hands on Tree-Based Models
-[6](Week_06.html) | Fri, Feb 19 |  | Hands on Tree-Based Models
+[6](Week_06.html) | Fri, Feb 19 | Problem set 3 available, due {{site.ps_3_due}} | Hands on Tree-Based Models
 |||
 [7](Week_07.html) | Mon, Feb 22 |  | Support vector machines
 [7](Week_07.html) | Wed, Feb 24 |  | Hands on Support vector machines
-[7](Week_07.html) | Fri, Feb 26 |  | Hands on Support vector machines
+[7](Week_07.html) | Fri, Feb 26 | **Problem Set 3 due** | Hands on Support vector machines
 |||
 [8](Week_08.html) | Mon, Mar 1 |  | Supervised vs. unsupervised learning
 [8](Week_08.html) | Wed, Mar 2 |  | Intro. to unsupervised methods
-[8](Week_08.html) | Fri, Mar 5 |  | Intro. to unsupervised methods
+[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Intro. to unsupervised methods
 |||
 [9](Week_09.html) | Mon, Mar 8 |  | Neural Networks
 [9](Week_09.html) | Wed, Mar 10 |  | Neural Networks
-[9](Week_09.html) | Fri, Mar 12 |  | Neural Networks
+[9](Week_09.html) | Fri, Mar 12 | **Problem Set 4 due** | Neural Networks
 |||
 [10](Week_10.html) | Mon, Mar 15 |  | CNNs for medical image analysis
 [10](Week_10.html) | Wed, Mar 17 |  | CNNs for image segmentation
-[10](Week_10.html) | Fri, Mar 19 |  | Additional hands on with CNNs
+[10](Week_10.html) | Fri, Mar 19 |  Problem set 5 available, due {{site.ps_5_due}} | Additional hands on with CNNs
 |||
 [11](Week_11.html) | Mon, Mar 22 |  | Symbolic AI
 [11](Week_11.html) | Wed, Mar 24 |  | Recharge Day, No Class
-[11](Week_11.html) | Fri, Mar 26 |  | Symbolic AI
+[11](Week_11.html) | Fri, Mar 26 | **Problem Set 5 due** | Symbolic AI
 |||
 [12](Week_12.html) | Mon, Mar 29 |  | Symbolic AI
 [12](Week_12.html) | Wed, Mar 31 |  | Symbolic AI
-[12](Week_12.html) | Fri, Apr 2 |  | Symbolic AI
+[12](Week_12.html) | Fri, Apr 2 |  Problem set 6 available, due {{site.ps_6_due}} | Symbolic AI
 |||
 [13](Week_13.html) | Mon, Apr 5 |  | Topics TBD
 [13](Week_13.html) | Wed, Apr 7 |  | Topics TBD
-[13](Week_13.html) | Fri, Apr 9 |  | Topics TBD
+[13](Week_13.html) | Fri, Apr 9 | **Problem Set 6 due** | Topics TBD
 |||
 [14](Week_14.html) | Mon, Apr 12 |  | Topics TBD
 [14](Week_14.html) | Wed, Apr 14 |  | Topics TBD
-[14](Week_14.html) | Fri, Apr 16 |  | Topics TBD
+[14](Week_14.html) | Fri, Apr 16 | **Project Due** | Topics TBD
 |||
-[15](Week_14.html) | Mon, Apr 19 |  | Topics TBD
-[15](Week_14.html) | Wed, Apr 21 |  | Last day of class
+[15](Week_14.html) | Mon, Apr 19 |  | Project Presentations
+[15](Week_14.html) | Wed, Apr 21 |  | Project Presentations
 |||
 
 ## Software and Hardware
@@ -175,13 +175,10 @@ See also the [List of Graded Work page](Grading.html).
 
 **Tentative: Final grading scheme not determined**
 
-* **Quizzes**: 6 @ 20 points each: 120 points (37%)
-* **Problem Sets**: 5 @ 20 points each: 100 points (30%)
-* **Class Projects**: 2 @ 40 points each: 80 points (24%)
-* **Class Participation** 30 points: 30 points (9%)
-  * 5 points for GitHub account assignment
-  * 10 points for github commits
-  * 15 points for code peer review
+* **Problem Sets**: 6 @ 30 points each: 180 points (75%)
+* **Class Project**: 40 points (17%)
+* **Project presentation**: 20 points (8%)
+
 
 Grading in this class is consistent with UF policies available at: [https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/]( https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/)
 

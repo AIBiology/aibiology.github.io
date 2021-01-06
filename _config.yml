@@ -119,23 +119,16 @@ github: [metadata]
 # Matt's additions
 # Due date variables. Can be included in pages using {{site.variable}}
 
-quiz_1_due: "Friday, Sept. 11"
-quiz_2_due: "Friday, Sept. 25"
-quiz_3_due: "Friday, Oct. 9"
-quiz_4_due: "Friday, Oct. 23"
-quiz_5_due: "Friday, Nov. 13"
-quiz_6_due: "Friday, Dec. 4"
+ps_1_due: "Monday, February 1"
+ps_2_due: "Friday, February 12"
+ps_3_due: "Friday, February 26"
+ps_4_due: "Friday, March 12"
+ps_5_due: "Friday, March 26"
+ps_6_due: "Friday, April 9"
 
-ps_1_due: "Friday, Sept. 18"
-ps_2_due: "Friday, Oct. 2"
-ps_3_due: "Friday, Oct. 16"
-ps_4_due: "Friday, Oct. 30"
-ps_5_due: "Friday, Dec. 4"
-
-project_1_due: "Friday, Nov. 6"
-project_2_due: "Wednesday, Dec. 9"
+project_due: "Friday, April 16"
 
 # Zoom links
 
-class_zoom_link: "<a href='https://ufl.instructure.com/courses/405769/external_tools/166364'>Zoom link in Canvas</a>"
-office_hours_zoom_link: "<a href='https://ufl.instructure.com/courses/405769/external_tools/166364'>Zoom link in Canvas</a>"
+class_zoom_link: "<a href='https://ufl.instructure.com/courses/418733/external_tools/166364'>Zoom link in Canvas</a>"
+office_hours_zoom_link: "<a href='https://ufl.instructure.com/courses/418733/external_tools/166364'>Zoom link in Canvas</a>"
