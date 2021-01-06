@@ -94,7 +94,7 @@ Week | Date | Reading/Assignment |Topic |
 [1](Week_01.html) | Fri, Jan 15 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | The scope of AI (subdisciplines)<br>How smart are today’s machines, really?  (We’ll come back to this throughout the semester.)
 |||
 [2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
-[2](Week_02.html) | Wed, Jan 20 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
+[2](Week_02.html) | Wed, Jan 20 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
 [2](Week_02.html) | Fri, Jan 22 | | Python Introduction<br>* Statements, variables, operations, etc.
 |||
 [3](Week_03.html) | Mon, Jan 25 | Problem set 1 available, due {{site.ps_1_due}} | Python Functions, Good programming practices (DRY, avoid globals, etc.).

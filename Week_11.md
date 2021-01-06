@@ -17,7 +17,7 @@ weight: 1.1
 
 ## What's due by the end of the week?
 
-* 
+* Problem Set 5 is due {{site.ps_5_due}}
 
 ## For Monday
 

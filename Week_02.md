@@ -52,7 +52,7 @@ weight: 0.2
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html">PDSH Ch 1</a></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">

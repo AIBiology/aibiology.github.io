@@ -31,12 +31,12 @@ weight: 0.1
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li></li>
+      <li>Please <a href="https://ufl.qualtrics.com/jfe/form/SV_5j6lX226iU09hD7">take this survey<a> about your programming and Python background</li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-    <li> </li>
+    <li>Welcome and overview of class.</li>
     </ol>
   </div>
 </div>
@@ -78,7 +78,7 @@ weight: 0.1
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
+        <li> Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html"PDSH Ch 5</a></li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
