@@ -12,9 +12,9 @@ toc: false
 
 {% include image.html max-width=400 file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
 
-Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter, with limited progress or research for decades. Modern GPU technology and advances in algorithms has renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in Biology. We will address the question of what is AI, how intelligent computers really are and may become, where limitations still exist, and if AI is here to stay or the latest trend.
+Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter, with limited progress or research for decades. Modern computing hardware, rapid growth in data collection and availability, and advances in algorithms have renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in Biology. We will address the topics of what AI is, how intelligent computers really are and may become, where limitations still exist, and how AI technologies can be used to advance biological research.
 
-The course will attempt to provide sufficient background and foundations so that students understand the detailed workings of the AI algorithms, but will not focus on the mathematical details. This is not a computer science or mathematics course. 
+The course will attempt to provide sufficient background and foundations so that students understand AI algorithms at a conceptual level, but will not focus on the mathematical details. This is not a computer science or mathematics course. 
 
 Classes will have some lecture, though most classes will consist of live coding demos and hands-on exercises.
 
