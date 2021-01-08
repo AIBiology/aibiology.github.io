@@ -91,7 +91,7 @@ Week | Date | Reading/Assignment |Topic |
 -----|------|--------------------|------|
 [1](Week_01.html) | Mon, Jan 11 |  | Course introduction <BR> What is AI, what is intelligence, what AI isn’t
 [1](Week_01.html) | Wed, Jan 13 | [Take the HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0)| Historical Context<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
-[1](Week_01.html) | Fri, Jan 15 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | The scope of AI (subdisciplines)<br>How smart are today’s machines, really?  (We’ll come back to this throughout the semester.)
+[1](Week_01.html) | Fri, Jan 15 | [Is AI Riding a One-Trick Pony?](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_151)<br />[Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com) | The scope of AI (subdisciplines)<br>How smart are today’s machines, really?  (We’ll come back to this throughout the semester.)
 |||
 [2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
 [2](Week_02.html) | Wed, Jan 20 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
@@ -101,7 +101,7 @@ Week | Date | Reading/Assignment |Topic |
 [3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy <br>Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Pandas, numpy
 [3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing scikit learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) |Python sklearn, pytorch, keras, etc.
 |||
-[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due** | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
+[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due**<br />[![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
 [4](Week_04.html) | Wed, Feb 3 |  | Hands on data
 [4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Hands on prediction, loss, optimization
 |||
