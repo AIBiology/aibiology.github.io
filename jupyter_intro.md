@@ -32,7 +32,7 @@ As with Python itself, there are several options for running Jupyter Notebooks. 
 
 ### Jupyter Notebooks via jupyterhub.rc.ufl.edu
 
-Perhaps the easiest method or running Jupyter notebooks on HiPerGator is to use the [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu/) server. 
+Perhaps the easiest method or running Jupyter notebooks on HiPerGator is to use the [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu/) server.
 
 {% include important.html content="You must be on the UF network to access jupyterhub.rc.ufl.edu! If you are not on campus, you can use the <a href='https://vpn.ufl.edu'>UF VPN.</a>" %}
 
@@ -42,11 +42,11 @@ After logging in with your GatorLink username and password, you should get to a 
 
 The dropdown menu allows you to select different resources, which are used in scheduling your job. [Remember](https://help.rc.ufl.edu/doc/New_user_training#Scheduling_a_Job) that the SLURM scheduler needs information about how many cores, how much memory, how many GPUs and how long you want the resources.
 
-For now, leave the "Teaching - 1 CPU core, 1GB RAM, 2h" selected and click Start. This submits a job to the scheduler, requesting those resources for 2 hours and launches the Jupyter server. While this normally only takes a few minutes, and you should get a window similar to the one below, which is annotated to show key portions of the interface.
+For now, leave the "Teaching - 1 CPU core, 1GB RAM, 2h" selected and click Start. This submits a job to the scheduler, requesting those resources for 2 hours and launches the Jupyter server. This normally only takes a few minutes, and you should get a window similar to the one below, which is annotated to show key portions of the interface.
 
 {% include image.html file='jupyter_lab_overview.png' alt="Annotated screenshot of JupyterLab interface" %}
 
-The first thing to note is that JupyterHub does not know about storage outside of your home directory. In order to navigate to different parts of the cluster, we need to add links to those other places. To do this, scroll down in the Laucher window shown above to the "Other" section and click the Terminal button: {% include inline_image.html file='terminal_button.png' alt="Screenshot of the terminal button in Jupyter Launcher" %}
+The first thing to note is that JupyterHub does not know about storage outside of your home directory. In order to navigate to different parts of the cluster, we need to add links to those other places. To do this, scroll down in the Launcher window shown above to the "Other" section and click the Terminal button: {% include inline_image.html file='terminal_button.png' alt="Screenshot of the terminal button in Jupyter Launcher" %}
 
 At the Bash prompt, type the command below to create a symbolic link (kind of like an alias on MacOS or shortcut on Windows) to the `/blue/zoo6927` folder in your home directory and name it `blue_zoo6927`. **Note:** everyone is in the *zoo6927* group whether they are undergraduates or graduates.
 
@@ -73,7 +73,7 @@ Has several plugins that add new features |
 
 ### Jupyter Notebooks via ood.rc.ufl.edu
 
-A second, somewhat more flexible, option for running Jupyter Note books on HiPerGator is using the Open On Demand service at: [ood.rc.ufl.edu](https://ood.rc.ufl.edu/).
+A second, somewhat more flexible, option for running Jupyter Notebooks on HiPerGator is using the Open On Demand service at: [ood.rc.ufl.edu](https://ood.rc.ufl.edu/).
 
 {% include important.html content="You must be on the UF network to access ood.rc.ufl.edu! If you are not on campus, you can use the <a href='https://vpn.ufl.edu'>UF VPN.</a>" %}
 
@@ -85,7 +85,7 @@ From the **Interactive Apps** menu, select Jupyter Notebook from the bottom of t
 
 That will take you to the job options form, where you can specify job resources and other things, including the SLURM Account and QOS to use. This is similar to the drop down menu when launching servers via the jupyterhub.rc.ufl.edu site, but rather than selecting from pre-set options, you have full control over resources.
 
-{% include important.html content="By specifying the SLURM Account <b>and</b> QOS, you can submit the job to a secondary group. JupyterHub is limited to using your primary group for jobs. Open On Demand provides more flexibility here and is a good option if you are in multiple groups." %}
+{% include important.html content="By specifying the SLURM Account <b>and</b> QOS, you can submit the job to a secondary group (e.g. zoo6927). JupyterHub is limited to using your primary group for jobs. Open On Demand provides more flexibility here and is a good option if you are in multiple groups." %}
 
 After specifying the options you want, click the Launch button. The page that comes up will show you your job waiting to be scheduled and then provide a Connect to Jupyter Button.
 
@@ -113,7 +113,7 @@ If you find yourself not able or wanting to use HiPerGator, you Google offers a 
 
 {% include image.html file='colab_welcome.png' alt="Screenshot of the Google Colaboratory Welcome Screen" %}
 
-From this screen you can open example notebooks, recent notebooks, locate notebooks on your Google Drive, open notebooks from GitHub repositories, upload .ipynb files, or create a new notebook.
+From this screen you can open example notebooks, recent notebooks, locate notebooks on your Google Drive, open notebooks from GitHub repositories, upload `.ipynb` files, or create a new notebook.
 
 Click on the GitHub tab and enter the URL `https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Jupyter.ipynb` Click on the `Intro_to_Jupyter.ipynb` file.
 
@@ -133,11 +133,11 @@ Again, there are several options here, I won't go into great detail because, esp
 
 #### Local Notebooks in VSCode
 
-[Microsoft VS Code](https://code.visualstudio.com/) is a very nice, free, cross platform, text editor. There is a [page with detailed instructions](https://code.visualstudio.com/docs/python/jupyter-support) on running Jupyter notebooks within VSCode, but mostly, once setup, if you open a .ipynb file or save a new file with the .ipynb extension, VSCode will run it as a Jupyter notebook right in the text editor.
+[Microsoft VS Code](https://code.visualstudio.com/) is a very nice, free, cross platform, text editor. There is a [page with detailed instructions](https://code.visualstudio.com/docs/python/jupyter-support) on running Jupyter notebooks within VSCode, but mostly, once setup, if you open a .ipynb file or save a new file with the `.ipynb` extension, VSCode will run it as a Jupyter notebook right in the text editor.
 
 #### Local Notebooks with Anaconda
 
-The other common way to run notebooks locally is with [Anaconda Python](https://www.anaconda.com/products/individual). The free version covers most uses and had a built in server that launches notebooks in your browser very similar to the Open On Demand interface. Anaconda can be a large install and can be a bit slow, especially on older computers.
+The other common way to run notebooks locally is with [Anaconda Python](https://www.anaconda.com/products/individual). The free version covers most uses and has a built in server that launches notebooks in your browser very similar to the Open On Demand interface. Anaconda can be a large install and can be a bit slow, especially on older computers.
 
 ## Running Python - Scripts
 
@@ -145,4 +145,4 @@ We likely won't spend much of the semester on writing Python scripts, but this i
 
 ## And now onto Jupyter!
 
-After all of that, we are finally ready to look at the Jupyter_Intro.ipynb notebook! return to the jhub.rc.ufl.edu, ood.rc.ufl.edu, [Google Colab]() or local copy of the notebook.
+After all of that, we are finally ready to look at the Jupyter_Intro.ipynb notebook! return to the jhub.rc.ufl.edu, ood.rc.ufl.edu, [Google Colab](https://colab.research.google.com/github/AIBiology/Jupyter_Content/blob/main/Intro_to_Jupyter.ipynb) or local copy of the notebook.
