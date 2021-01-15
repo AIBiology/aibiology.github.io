@@ -7,6 +7,9 @@ entries:
   - title: Introduction to AI and Python
     output: web
     folderitems:
+    - title: Introduction to Jupyter
+      url: /jupyter_intro.html
+      output: web
 
   - title: Machine Learning
     output: web
