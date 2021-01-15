@@ -135,6 +135,8 @@ Again, there are several options here, I won't go into great detail because, esp
 
 [Microsoft VS Code](https://code.visualstudio.com/) is a very nice, free, cross platform, text editor. There is a [page with detailed instructions](https://code.visualstudio.com/docs/python/jupyter-support) on running Jupyter notebooks within VSCode, but mostly, once setup, if you open a .ipynb file or save a new file with the `.ipynb` extension, VSCode will run it as a Jupyter notebook right in the text editor.
 
+{% include image.html file='vscode_jupyter.png' alt="Screenshot of a Jupyter Notebook running in VSCode" %}
+
 #### Local Notebooks with Anaconda
 
 The other common way to run notebooks locally is with [Anaconda Python](https://www.anaconda.com/products/individual). The free version covers most uses and has a built in server that launches notebooks in your browser very similar to the Open On Demand interface. Anaconda can be a large install and can be a bit slow, especially on older computers.
