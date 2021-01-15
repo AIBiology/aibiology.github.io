@@ -7,18 +7,18 @@ summary: Introduction to Jupyter Notebooks and using HiPerGator
 keywords: jupyter, python, notebooks, hipergator
 ---
 
-Throughout the semester we will be using Python for our hands-on AI work. While there are other languages and methods of using AI tools, our impression is that Python offers both the most robust set of tools and the most user-friendly access to general purpose tools. 
+Throughout the semester we will be using Python for our hands-on AI work. While there are other languages and methods of using AI tools, our impression is that Python offers both the most robust set of tools and the most user-friendly access to general purpose tools.
 
 One textbook source that we will use for this and other classes is Jake VanderPlas' [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). This book is freely available in several formats, including a PDF and as Jupyter Notebooks. [{% include inline_image.html file='PDSH-cover-small.png' alt="PDSH textbook icon" %}](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## Running Python - Python Shell
 
-As the text notes in the first chapter, there are several ways of running Python. Python is an incredibly flexible programming language with lots of different applications and use cases, one method is not always best for all uses.
+As the text notes in the first chapter, there are several ways of running Python. Python is an incredibly flexible programming language with lots of different applications and use cases, as such, one method is not always best for all uses.
 
 * You can run Python applications on your own computer, on various websites, and on computer clusters like HiPerGator.
 * You can run Python from a command prompt, typing commands into a shell as shown in the image below. {% include inline_image.html file='python_shell.png' alt="Screenshot of running Python in a shell on HiPerGator" %}
 
-  * Using the Python shell, you type commands one by one and each is executed as you hit enter. The shell is limited however in that it is difficult to save your work, edit errors, or work with more complex code.
+  * Using the Python shell, you type commands one-by-one and each is executed as you hit enter. The shell is limited however in that it is difficult to save your work, edit errors, or work with more complex code.
   * The shell can be helpful for quick testing, but I rarely use the shell.
   * You can, as the text notes, get a Python shell in the Jupyter environment...again, not sure we'll use it much, if at all.
 
