@@ -52,16 +52,12 @@ weight: 0.2
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html">PDSH Ch 1</a></li>
+      <li></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Intro to Python</li>
-      <ul>
-        <li>Getting Started in Jupyter</li>
-        <li>UFRC Overview</li>
-      </ul>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb">Intro to Python Notebook</a></li>
     </ol>
   </div>
 </div>
@@ -82,10 +78,7 @@ weight: 0.2
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li>Intro to Python</li>
-        <ul>
-          <li>Statements, variables, operations, etc.</li>
-        </ul>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb">Intro to Python Notebook</a></li>
       </ol>
     </div>
 </div>
@@ -100,6 +93,9 @@ weight: 0.2
   * Python syntax
   * Variables and data types
   * Mathematical operations
+  * For Loops
+  * Conditionals (if/elif/else)
+  * Functions
 
 {% include custom/office_hours.html %}
 

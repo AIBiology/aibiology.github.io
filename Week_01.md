@@ -83,8 +83,7 @@ weight: 0.1
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li>The scope of AI (subdisciplines)</li>
-        <li>How smart are today’s machines, really?  (We’ll come back to this throughout the semester.)</li>
+        <li><a href="jupyter_intro.html">Intro to Jupyter</a></li>
       </ol>
     </div>
 </div>

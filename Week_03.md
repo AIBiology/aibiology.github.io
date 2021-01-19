@@ -13,8 +13,8 @@ weight: 0.3
 
 ## Overview for Week {{page.week_num}}
 
-* Introduction to Python
-* 
+* Introduction to NumPy and Pandas
+* Review of basic Python coding and best practices
 
 ## What's due by the end of the week?
 
@@ -31,13 +31,12 @@ weight: 0.3
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li></li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html">PDSH Ch 2: Introduction to NumPy</a></li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Python functions</li>
-      <li>Programming best practices</li>
+      <li>Introduction to NymPy
     </ol>
   </div>
 </div>
@@ -53,16 +52,12 @@ weight: 0.3
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html"PDSH Ch 3: Data Manipulation with Pandas</a></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Intro to Python</li>
-      <ul>
-        <li>Pandas</li>
-        <li>NumPy</li>
-      </ul>
+      <li>Intro to Pandas</li>
     </ol>
   </div>
 </div>
@@ -85,9 +80,8 @@ weight: 0.3
       <ol>
         <li>Intro to Python</li>
         <ul>
-          <li>SciKit Learn</li>
-          <li>PyTorch</li>
-          <li>Keras</li>
+          <li>Review of basic concepts</li>
+          <li>Review of coding best practices</li>
         </ul>
       </ol>
     </div>
@@ -102,9 +96,7 @@ weight: 0.3
 * Understand the basics of:
   * Pandas
   * NumPy
-  * SciKit Learn
-  * PyTorch
-  * Keras
+  * Using functions, commenting code, best practices
 
 {% include custom/office_hours.html %}
 

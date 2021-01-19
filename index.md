@@ -94,12 +94,12 @@ Week | Date | Reading/Assignment |Topic |
 [1](Week_01.html) | Fri, Jan 15 | [Driverless cars show the limits of today’s AI](https://www.economist.com/technology-quarterly/2020/06/11/driverless-cars-show-the-limits-of-todays-ai) | [Introduction to Jupyter](jupyter_intro.md)
 |||
 [2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
-[2](Week_02.html) | Wed, Jan 20 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | Python Introduction<br>* Getting Started in Jupyter<br>* UFRC Overview
-[2](Week_02.html) | Fri, Jan 22 | | Python Introduction<br>* Statements, variables, operations, etc.
+[2](Week_02.html) | Wed, Jan 20 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
+[2](Week_02.html) | Fri, Jan 22 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
 |||
-[3](Week_03.html) | Mon, Jan 25 | Problem set 1 available, due {{site.ps_1_due}} | Python Functions, Good programming practices (DRY, avoid globals, etc.).
-[3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy <br>Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Pandas, numpy
-[3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing scikit learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) |Python sklearn, pytorch, keras, etc.
+[3](Week_03.html) | Mon, Jan 25 |[![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | Introduction to NumPy
+[3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | Introduction to Pandas
+[3](Week_03.html) | Fri, Jan 29 | |Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
 [4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due**<br />[![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
 [4](Week_04.html) | Wed, Feb 3 |  | Hands on data
