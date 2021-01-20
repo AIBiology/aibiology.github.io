@@ -10,6 +10,9 @@ entries:
     - title: Introduction to Jupyter
       url: /jupyter_intro.html
       output: web
+    - title: Introduction to Python
+      url: https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb
+      output: web
 
   - title: Machine Learning
     output: web
