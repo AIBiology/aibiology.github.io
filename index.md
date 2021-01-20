@@ -89,9 +89,9 @@ For readings, there may be links to pages with my notes and additional explanati
 
 Week | Date | Reading/Assignment |Topic |
 -----|------|--------------------|------|
-[1](Week_01.html) | Mon, Jan 11 |  | Course introduction ([slides](https://docs.google.com/presentation/d/1_o3_VOy9xAxA2GZiSQbT-QVd5wIV3Em-ta5JbJ2yS0o/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t
-[1](Week_01.html) | Wed, Jan 13 | [Take the HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0)| Historical Context<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
-[1](Week_01.html) | Fri, Jan 15 | [Driverless cars show the limits of today’s AI](https://www.economist.com/technology-quarterly/2020/06/11/driverless-cars-show-the-limits-of-todays-ai) | [Introduction to Jupyter](jupyter_intro.md)
+[1](Week_01.html) | Mon, Jan 11 |  | Course introduction ([slides](https://docs.google.com/presentation/d/1_o3_VOy9xAxA2GZiSQbT-QVd5wIV3Em-ta5JbJ2yS0o/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t ([slides](documents/intro_to_AI.pdf))
+[1](Week_01.html) | Wed, Jan 13 | [Take the HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0) <br /> [Driverless cars show the limits of today’s AI](https://www.economist.com/technology-quarterly/2020/06/11/driverless-cars-show-the-limits-of-todays-ai) | Historical Context ([slides](documents/intro_to_AI.pdf))<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
+[1](Week_01.html) | Fri, Jan 15 | | [Introduction to Jupyter](jupyter_intro.md)
 |||
 [2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
 [2](Week_02.html) | Wed, Jan 20 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
