@@ -36,7 +36,7 @@ weight: 0.3
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Introduction to NymPy
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb">Introduction to NymPy</a></li>
     </ol>
   </div>
 </div>

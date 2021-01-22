@@ -97,7 +97,7 @@ Week | Date | Reading/Assignment |Topic |
 [2](Week_02.html) | Wed, Jan 20 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
 [2](Week_02.html) | Fri, Jan 22 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
 |||
-[3](Week_03.html) | Mon, Jan 25 |[![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | Introduction to NumPy
+[3](Week_03.html) | Mon, Jan 25 |[![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb)
 [3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | Introduction to Pandas
 [3](Week_03.html) | Fri, Jan 29 | |Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
