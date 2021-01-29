@@ -98,8 +98,8 @@ Week | Date | Reading/Assignment |Topic |
 [2](Week_02.html) | Fri, Jan 22 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
 |||
 [3](Week_03.html) | Mon, Jan 25 |[![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb)
-[3](Week_03.html) | Wed, Jan 27 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | Introduction to Pandas
-[3](Week_03.html) | Fri, Jan 29 | |Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
+[3](Week_03.html) | Wed, Jan 27 |  | 
+[3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
 [4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due**<br />[![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
 [4](Week_04.html) | Wed, Feb 3 |  | Hands on data

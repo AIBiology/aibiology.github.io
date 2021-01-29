@@ -16,6 +16,12 @@ entries:
     - title: Introduction to NumPy
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb
       output: web
+    - title: Introduction to Pandas
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb
+      output: web
+    - title: Data Visualization in Pandas
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb
+      output: web
 
   - title: Machine Learning
     output: web

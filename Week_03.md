@@ -78,11 +78,8 @@ weight: 0.3
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li>Intro to Python</li>
-        <ul>
-          <li>Review of basic concepts</li>
-          <li>Review of coding best practices</li>
-        </ul>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb">Introduction to Pandas</a></li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb">Data Visualization in Pandas</a></li>
       </ol>
     </div>
 </div>
