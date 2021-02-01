@@ -12,7 +12,7 @@ toc: false
 
 {% include image.html max-width=400 file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
 
-Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter, with limited progress or research for decades. Modern computing hardware, rapid growth in data collection and availability, and advances in algorithms have renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in Biology. We will address the topics of what AI is, how intelligent computers really are and may become, where limitations still exist, and how AI technologies can be used to advance biological research.
+Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter. Modern computing hardware, rapid growth in data collection and availability, and advances in algorithms have renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in biology. We will address the topics of what AI is, how intelligent computers really are and may become, where limitations still exist, and how AI technologies can be used to advance biological research.
 
 The course will attempt to provide sufficient background and foundations so that students understand AI algorithms at a conceptual level, but will not focus on the mathematical details. This is not a computer science or mathematics course. 
 
@@ -101,31 +101,31 @@ Week | Date | Reading/Assignment |Topic |
 [3](Week_03.html) | Wed, Jan 27 |  | 
 [3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
-[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due**<br />[![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | A general framework for ML (data -> features -> prediction function -> loss -> optimization)
-[4](Week_04.html) | Wed, Feb 3 |  | Hands on data
-[4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Hands on prediction, loss, optimization
+[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due**<br />[![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | Data visualization in Python and a few other things
+[4](Week_04.html) | Wed, Feb 3 |  | Introduction to machine learning, supervised learning, and optimization
+[4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Optimization and classical statistics revisited
 |||
-[5](Week_05.html) | Mon, Feb 8 |  | Classical statistics revisited<br>* Statistical models as ML<br>* Bias/variance tradeoff and regularization<br>* Logistic regression and classification (including classification metrics)
-[5](Week_05.html) | Wed, Feb 10 |  | [Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)
-[5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Hands on
+[5](Week_05.html) | Mon, Feb 8 |  | Bias/variance tradeoff and regularization
+[5](Week_05.html) | Wed, Feb 10 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
+[5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Hands-on data analysis practice
 |||
-[6](Week_06.html) | Mon, Feb 15 |  | Tree-Based Models
-[6](Week_06.html) | Wed, Feb 17 |  | Hands on Tree-Based Models
-[6](Week_06.html) | Fri, Feb 19 | Problem set 3 available, due {{site.ps_3_due}} | Hands on Tree-Based Models
+[6](Week_06.html) | Mon, Feb 15 |  | Hands-on data analysis, problem set help
+[6](Week_06.html) | Wed, Feb 17 |  | Classification, logistic regression, classification metrics
+[6](Week_06.html) | Fri, Feb 19 | Problem set 3 available, due {{site.ps_3_due}} | Tree-based methods
 |||
-[7](Week_07.html) | Mon, Feb 22 |  | Support vector machines
-[7](Week_07.html) | Wed, Feb 24 |  | Hands on Support vector machines
-[7](Week_07.html) | Fri, Feb 26 | **Problem Set 3 due** | Hands on Support vector machines
+[7](Week_07.html) | Mon, Feb 22 |  | Introduction to ensemble methods
+[7](Week_07.html) | Wed, Feb 24 |  | Hands-on tree-based methods
+[7](Week_07.html) | Fri, Feb 26 | **Problem Set 3 due** | Support vector machines (SVMs)
 |||
-[8](Week_08.html) | Mon, Mar 1 |  | Supervised vs. unsupervised learning
-[8](Week_08.html) | Wed, Mar 2 |  | Intro. to unsupervised methods
-[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Intro. to unsupervised methods
+[8](Week_08.html) | Mon, Mar 1 |  | Support vector machines
+[8](Week_08.html) | Wed, Mar 2 |  | Hands-on SVMs
+[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Ands-on data analysis, problem set help
 |||
-[9](Week_09.html) | Mon, Mar 8 |  | Neural Networks
-[9](Week_09.html) | Wed, Mar 10 |  | Neural Networks
-[9](Week_09.html) | Fri, Mar 12 | **Problem Set 4 due** | Neural Networks
+[9](Week_09.html) | Mon, Mar 8 |  | Unsupervised learning
+[9](Week_09.html) | Wed, Mar 10 |  | Hands-on unsupervised learning
+[9](Week_09.html) | Fri, Mar 12 | **Problem Set 4 due** | Introduction to artificial neural networks (ANNs)
 |||
-[10](Week_10.html) | Mon, Mar 15 |  | CNNs for medical image analysis
+[10](Week_10.html) | Mon, Mar 15 |  | Training ANNs: gradient descent
 [10](Week_10.html) | Wed, Mar 17 |  | CNNs for image segmentation
 [10](Week_10.html) | Fri, Mar 19 |  Problem set 5 available, due {{site.ps_5_due}} | Additional hands on with CNNs
 |||
