@@ -119,7 +119,7 @@ Week | Date | Reading/Assignment |Topic |
 |||
 [8](Week_08.html) | Mon, Mar 1 |  | Support vector machines
 [8](Week_08.html) | Wed, Mar 2 |  | Hands-on SVMs
-[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Ands-on data analysis, problem set help
+[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Hands-on data analysis, problem set help
 |||
 [9](Week_09.html) | Mon, Mar 8 |  | Unsupervised learning
 [9](Week_09.html) | Wed, Mar 10 |  | Hands-on unsupervised learning
