@@ -101,8 +101,8 @@ Week | Date | Reading/Assignment |Topic |
 [3](Week_03.html) | Wed, Jan 27 |  | 
 [3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
-[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due**<br />[![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | Data visualization in Python and a few other things
-[4](Week_04.html) | Wed, Feb 3 |  | Introduction to machine learning, supervised learning, and optimization
+[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due** | Data visualization in Python and a few other things
+[4](Week_04.html) | Wed, Feb 3 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | Introduction to machine learning, supervised learning, and optimization
 [4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Optimization and classical statistics revisited
 |||
 [5](Week_05.html) | Mon, Feb 8 |  | Bias/variance tradeoff and regularization
