@@ -25,10 +25,10 @@ entries:
     - title: Data Visualization in Python with plotnine
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb
       output: web
-          - title: Introduction to supervised learning
+    - title: Introduction to supervised learning
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb
       output: web
-      
+
   - title: Machine Learning
     output: web
     folderitems:
