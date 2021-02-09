@@ -102,32 +102,32 @@ Week | Date | Reading/Assignment |Topic |
 [3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
 [4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due** | Data visualization in Python and a few other things
-[4](Week_04.html) | Wed, Feb 3 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | Introduction to machine learning, supervised learning, and optimization
-[4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Optimization and classical statistics revisited
+[4](Week_04.html) | Wed, Feb 3 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | Data visualization in Python
+[4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | Introduction to machine learning and supervised learning
 |||
-[5](Week_05.html) | Mon, Feb 8 |  | Bias/variance tradeoff and regularization
-[5](Week_05.html) | Wed, Feb 10 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
-[5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Hands-on data analysis practice
+[5](Week_05.html) | Mon, Feb 8 |  | Supervised learning, introduction to numerical optimization
+[5](Week_05.html) | Wed, Feb 10 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Supervised learning and numerical optimization, scikit-learn and regression
+[5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Bias/variance tradeoff and regularization
 |||
-[6](Week_06.html) | Mon, Feb 15 |  | Hands-on data analysis, problem set help
-[6](Week_06.html) | Wed, Feb 17 |  | Classification, logistic regression, classification metrics
-[6](Week_06.html) | Fri, Feb 19 | Problem set 3 available, due {{site.ps_3_due}} | Tree-based methods
+[6](Week_06.html) | Mon, Feb 15 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
+[6](Week_06.html) | Wed, Feb 17 |  | Hands-on data analysis practice
+[6](Week_06.html) | Fri, Feb 19 | Problem set 3 available, due {{site.ps_3_due}} | Hands-on data analysis, problem set help
 |||
-[7](Week_07.html) | Mon, Feb 22 |  | Introduction to ensemble methods
-[7](Week_07.html) | Wed, Feb 24 |  | Hands-on tree-based methods
-[7](Week_07.html) | Fri, Feb 26 | **Problem Set 3 due** | Support vector machines (SVMs)
+[7](Week_07.html) | Mon, Feb 22 |  | Classification, logistic regression, classification metrics
+[7](Week_07.html) | Wed, Feb 24 |  | Tree-based methods
+[7](Week_07.html) | Fri, Feb 26 | **Problem Set 3 due** | Introduction to ensemble methods
 |||
-[8](Week_08.html) | Mon, Mar 1 |  | Support vector machines
-[8](Week_08.html) | Wed, Mar 2 |  | Hands-on SVMs
-[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Hands-on data analysis, problem set help
+[8](Week_08.html) | Mon, Mar 1 |  | Hands-on tree-based methods
+[8](Week_08.html) | Wed, Mar 2 |  | Support vector machines (SVMs)
+[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Support vector machines
 |||
-[9](Week_09.html) | Mon, Mar 8 |  | Unsupervised learning
-[9](Week_09.html) | Wed, Mar 10 |  | Hands-on unsupervised learning
-[9](Week_09.html) | Fri, Mar 12 | **Problem Set 4 due** | Introduction to artificial neural networks (ANNs)
+[9](Week_09.html) | Mon, Mar 8 |  | Hands-on SVMs
+[9](Week_09.html) | Wed, Mar 10 |  | Hands-on data analysis, problem set help
+[9](Week_09.html) | Fri, Mar 12 | **Problem Set 4 due** | Unsupervised learning
 |||
-[10](Week_10.html) | Mon, Mar 15 |  | Training ANNs: gradient descent
-[10](Week_10.html) | Wed, Mar 17 |  | CNNs for image segmentation
-[10](Week_10.html) | Fri, Mar 19 |  Problem set 5 available, due {{site.ps_5_due}} | Additional hands on with CNNs
+[10](Week_10.html) | Mon, Mar 15 |  | Hands-on unsupervised learning
+[10](Week_10.html) | Wed, Mar 17 |  | Introduction to artificial neural networks (ANNs)
+[10](Week_10.html) | Fri, Mar 19 |  Problem set 5 available, due {{site.ps_5_due}} | Training ANNs: gradient descent
 |||
 [11](Week_11.html) | Mon, Mar 22 |  | Symbolic AI
 [11](Week_11.html) | Wed, Mar 24 |  | Recharge Day, No Class
@@ -210,7 +210,9 @@ Grading in this class is consistent with UF policies available at: [https://cata
         <!-- /.panel-heading--> 
         <div id="collapseB" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <table>
+                <tHighlights
+
+Arctic Code Vaulable>
                   <thead>
                     <tr>
                       <th>A</th>
