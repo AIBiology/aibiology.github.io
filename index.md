@@ -106,7 +106,7 @@ Week | Date | Reading/Assignment |Topic |
 [4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
 |||
 [5](Week_05.html) | Mon, Feb 8 |  | Supervised learning, introduction to numerical optimization
-[5](Week_05.html) | Wed, Feb 10 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Supervised learning and numerical optimization, scikit-learn and regression
+[5](Week_05.html) | Wed, Feb 10 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Supervised learning and numerical optimization, scikit-learn and regression
 [5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Bias/variance tradeoff and regularization
 |||
 [6](Week_06.html) | Mon, Feb 15 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
