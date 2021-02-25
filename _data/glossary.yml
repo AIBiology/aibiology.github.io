@@ -1,8 +1,12 @@
+autoencoder : "AN unsupervised learning method that uses neural networks to identify correlations among input data, reducing dimensionality. "
+
 append : "To add after or at the end of a list"
 
 API : "Application Programming Interface: a method to programmatically interact with another program or website."
 
 branch : "A named, track version of a git repository that is derived from the main code when it is created. Editing files in a branch leave the main code untouched. Branches can be merged back into the main code to update the main code."
+
+cross_entropy : "A common loss function when optimizing classification models. Cross entropy of 0 means predicted class probabilities are identical to those on the training data."
 
 compiled_language : "A programming language where an entire program is converted into machine code before it can be run. Contrast with interpreted languages."
 
@@ -22,6 +26,8 @@ local_variable : "A variable that is only accessible within the function in whic
 
 merge : "The process of bringing changes made on a git branch back into the main branch to update the main codebase."
 
+MSE : "Mean Squared Error: The sum of the squared differences between actual and predicted values."
+
 OOP : "Objected Oriented Programming: a programming paradigm that employs classes to abstract and encapsulate data and the methods that operate on the data."
 
 parse : "The process of processing a file or string of text into constituent information"
@@ -34,9 +40,13 @@ regex : "Regular Expression"
 
 repository : "A collection of files and folders being tracked in git as a project. Also called a 'repo' for short."
 
+RMSE : "Root Mean Squared Error, the square root of the MSE."
+
 scope : "Refers to the visibility of variables, functions and methods in one part of a program to another part of that program. The main scopes are local and global."
 
 stub : "An empty function used as a placeholder to be filled in later."
+
+softmax_classifier : "A generalization of the logistic function for multiple dimensions which produces a probability. Softmax classifiers are often used as the last layer in neural networks to normalize the output to a probability distribution over predicted output classes."
 
 syntax : "Syntax refers to the spelling and grammar of a programming language. Each language defines its own syntactical rules that control which words the computer understands, which combinations of words are meaningful, and what punctuation is necessary to be a correctly structured document."
 
