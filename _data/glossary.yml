@@ -6,11 +6,7 @@ branch : "A named, track version of a git repository that is derived from the ma
 
 compiled_language : "A programming language where an entire program is converted into machine code before it can be run. Contrast with interpreted languages."
 
-DBMS : "DataBase Management System"
-
 environment_variable : "A named value (variable), generally associated with the operating system, that can affect the way running processes will behave on a computer. Programs can set and get the value of environment variables, but the idea is that they are external to the program itself"
-
-foreign_key : "A set of attributes in a table that refers to the primary key of another table in a relational database."
 
 function : "A block of reusable code that is performs a single task. Functions provide modularity, reuse and maintainability."
 
@@ -26,31 +22,19 @@ local_variable : "A variable that is only accessible within the function in whic
 
 merge : "The process of bringing changes made on a git branch back into the main branch to update the main codebase."
 
-NoSQL : "Referring to databases that are either Non-SQL databases, or more recently, Not Only-SQL databases."
-
 OOP : "Objected Oriented Programming: a programming paradigm that employs classes to abstract and encapsulate data and the methods that operate on the data."
 
 parse : "The process of processing a file or string of text into constituent information"
 
-posix : "Portable Operating System Interface: a set of standards that define how Unix (and Unix-like) systems perform"
-
 prepend : "To add before or at the start of a list"
 
-primary_key : "A column containing unique values to uniquely identify each record in a database table."
-
 pseudocode: "Notation resembling a simplified programming language, usually describing the goal in words, used in program design."
-
-referential_integrity : "The property that all references are valid. e.g. If a value in one table references a value in another table, that referenced value must exist."
 
 regex : "Regular Expression"
 
 repository : "A collection of files and folders being tracked in git as a project. Also called a 'repo' for short."
 
-schema : "The structure of tables in a database, typically including descriptions of the tables, fields and relationships in the database."
-
 scope : "Refers to the visibility of variables, functions and methods in one part of a program to another part of that program. The main scopes are local and global."
-
-SQL : "Structured Query Language"
 
 stub : "An empty function used as a placeholder to be filled in later."
 
