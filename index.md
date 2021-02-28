@@ -111,19 +111,19 @@ Week | Date | Reading/Assignment |Topic |
 |||
 [6](Week_06.html) | Mon, Feb 15 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
 [6](Week_06.html) | Wed, Feb 17 |  | Hands-on data analysis practice
-[6](Week_06.html) | Fri, Feb 19 | Problem set 3 available, due {{site.ps_3_due}} | Hands-on data analysis, problem set help
+[6](Week_06.html) | Fri, Feb 19 | | Hands-on data analysis, problem set help
 |||
-[7](Week_07.html) | Mon, Feb 22 |  | Classification, logistic regression, classification metrics
-[7](Week_07.html) | Wed, Feb 24 |  | Tree-based methods
-[7](Week_07.html) | Fri, Feb 26 | **Problem Set 3 due** | Introduction to ensemble methods
+[7](Week_07.html) | Mon, Feb 22 |  | Estimating Test Error
+[7](Week_07.html) | Wed, Feb 24 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression
+[7](Week_07.html) | Fri, Feb 26 |  | Lasso and Ridge Regression
 |||
-[8](Week_08.html) | Mon, Mar 1 |  | Hands-on tree-based methods
-[8](Week_08.html) | Wed, Mar 2 |  | Support vector machines (SVMs)
-[8](Week_08.html) | Fri, Mar 5 |  Problem set 4 available, due {{site.ps_4_due}} | Support vector machines
+[8](Week_08.html) | Mon, Mar 1 |  Problem set 3 available, due {{site.ps_3_due}} | Hands-on Linear Regression
+[8](Week_08.html) | Wed, Mar 2 |  | Classification, logistic regression
+[8](Week_08.html) | Fri, Mar 5 |  | Support vector machines
 |||
-[9](Week_09.html) | Mon, Mar 8 |  | Hands-on SVMs
+[9](Week_09.html) | Mon, Mar 8 | **Problem Set 3 due** | Hands-on SVMs
 [9](Week_09.html) | Wed, Mar 10 |  | Hands-on data analysis, problem set help
-[9](Week_09.html) | Fri, Mar 12 | **Problem Set 4 due** | Unsupervised learning
+[9](Week_09.html) | Fri, Mar 12 |  | Unsupervised learning
 |||
 [10](Week_10.html) | Mon, Mar 15 |  | Hands-on unsupervised learning
 [10](Week_10.html) | Wed, Mar 17 |  | Introduction to artificial neural networks (ANNs)
