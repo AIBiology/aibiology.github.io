@@ -32,7 +32,7 @@ entries:
   - title: Machine Learning
     output: web
     folderitems:
-     - title: Classification and Logistic Regression
+    - title: Classification and Logistic Regression
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb
       output: web
 
