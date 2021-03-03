@@ -118,7 +118,7 @@ Week | Date | Reading/Assignment |Topic |
 [7](Week_07.html) | Fri, Feb 26 |  | Lasso and Ridge Regression
 |||
 [8](Week_08.html) | Mon, Mar 1 |  Problem set 3 available, due {{site.ps_3_due}} | Hands-on Linear Regression
-[8](Week_08.html) | Wed, Mar 2 |  | Classification, logistic regression
+[8](Week_08.html) | Wed, Mar 2 |  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
 [8](Week_08.html) | Fri, Mar 5 |  | Support vector machines
 |||
 [9](Week_09.html) | Mon, Mar 8 | **Problem Set 3 due** | Hands-on SVMs
