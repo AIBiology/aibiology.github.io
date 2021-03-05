@@ -119,7 +119,7 @@ Week | Date | Reading/Assignment |Topic |
 |||
 [8](Week_08.html) | Mon, Mar 1 |  Problem set 3 available, due {{site.ps_3_due}} | Hands-on Linear Regression
 [8](Week_08.html) | Wed, Mar 2 |  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
-[8](Week_08.html) | Fri, Mar 5 |  | Support vector machines
+[8](Week_08.html) | Fri, Mar 5 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) | [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb)
 |||
 [9](Week_09.html) | Mon, Mar 8 | **Problem Set 3 due** | Hands-on SVMs
 [9](Week_09.html) | Wed, Mar 10 |  | Hands-on data analysis, problem set help

@@ -35,7 +35,9 @@ entries:
     - title: Classification and Logistic Regression
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb
       output: web
-
+    - title: Support Vector Machines
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb
+      output: web
   - title: Symbolic AI
     output: web
     folderitems:
