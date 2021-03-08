@@ -121,17 +121,17 @@ Week | Date | Reading/Assignment |Topic |
 [8](Week_08.html) | Wed, Mar 2 |  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
 [8](Week_08.html) | Fri, Mar 5 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) | [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb)
 |||
-[9](Week_09.html) | Mon, Mar 8 | **Problem Set 3 due** | Hands-on SVMs
-[9](Week_09.html) | Wed, Mar 10 |  | Hands-on data analysis, problem set help
-[9](Week_09.html) | Fri, Mar 12 |  | Unsupervised learning
+[9](Week_09.html) | Mon, Mar 8 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)
+[9](Week_09.html) | Wed, Mar 10 |  | Decision Trees
+[9](Week_09.html) | Fri, Mar 12 |  | Random Forests
 |||
-[10](Week_10.html) | Mon, Mar 15 |  | Hands-on unsupervised learning
-[10](Week_10.html) | Wed, Mar 17 |  | Introduction to artificial neural networks (ANNs)
-[10](Week_10.html) | Fri, Mar 19 |  Problem set 5 available, due {{site.ps_5_due}} | Training ANNs: gradient descent
+[10](Week_10.html) | Mon, Mar 15 |  | TBD
+[10](Week_10.html) | Wed, Mar 17 | **Problem Set 3 due**  | TBD
+[10](Week_10.html) | Fri, Mar 19 |  | Lab day
 |||
 [11](Week_11.html) | Mon, Mar 22 |  | Symbolic AI
 [11](Week_11.html) | Wed, Mar 24 |  | Recharge Day, No Class
-[11](Week_11.html) | Fri, Mar 26 | **Problem Set 5 due** | Symbolic AI
+[11](Week_11.html) | Fri, Mar 26 || Symbolic AI
 |||
 [12](Week_12.html) | Mon, Mar 29 |  | Symbolic AI
 [12](Week_12.html) | Wed, Mar 31 |  | Symbolic AI
