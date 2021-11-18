@@ -22,7 +22,7 @@ Classes will have some lecture, though most classes will consist of live coding 
 
 ### Computer programming
 
-The course assumes a basic understanding of computer programming, and Python in particular.
+The course assumes a basic understanding of computer programming in general, and Python in particular.
 
 If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course:
 
@@ -42,38 +42,24 @@ You should have an understanding of probability and statistics at the level of a
 
 Knowledge of basic calculus and, to a lesser extent, linear algebra, will also be helpful. We won't focus on the math, but having at least a conceptual understanding of derivatives, function optimization, and matrix math will be useful.
 
-If you are unsure, contact the instructors.
+If you are unsure, contact the instructor.
 
 ## Meeting Times
 
-{% include important.html content="See additional important information on HyFlex and COVID protocols below." %}
+* **Mon, Wed, Fri 1:55pm - 2:45pm Bartram 211**
 
-### In-person and Synchronous meetings
+ {% include important.html content="You should make every effort to attend class synchronously. While I will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
 
-* **Mon, Wed, Fri 1:55pm - 2:45pm Bartram 211 and online**
-* In-person sections:
-  * Only those registered for the in-person sections may attend in-person
-    * COVID-19 restrictions limit the capacity of the room well below the number of seats. A maximum of 10 students will be allowed to attend in-person each class.
-  * If you do not attend regularly, you will be asked to change to the online section to allow others to attend in-person.
-  * If you know you will be absent for a class, please notify the instructors so that they can offer your seat to an online participant.
-* Online sections:
-  * It is expected that you will attend class synchronously
-  * If possible, please have your camera on during class
-
-* Zoom links for class and recordings of class will be posted in Canvas.
-
- {% include important.html content="You should make every effort to attend class synchronously. While we will post information ahead of time and will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
-
-* We understand that with all that is going on, some students will need to miss classes sometimes. That is fine and we will do our best to help you catch up, but regular attendance is the best way to learn.
+* I understand that some students will need to miss classes sometimes. That is fine and I will do my best to help you catch up, but regular attendance is the best way to learn.
 
 {% include custom/office_hours.html %}
 
- {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. **We expect that you will need help. You should expect that you will need help.** We want to help you! We cannot always help if you do not ask for the help you need. Please ask for help." %}
+ {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. **I expect that you will need help. You should expect that you will need help.** I want to help you! I cannot always help if you do not ask for the help you need. *Please ask for help!*" %}
 
 ## Course Textbooks
 
 {% include image.html file='textbook.png' alt="textbook icon" position="right" max-width=75 %}
-While we will not use any one text for the course, we will use sections of these books and other resources. All will be free, open-source texts.
+While we will not use any one text for the course, we will use sections of these books and other free resources. All will be free online resources.
 
 * [{% include inline_image.html file='PDSH-cover-small.png' alt="PDSH textbook icon" %} Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
@@ -89,65 +75,67 @@ For readings, there may be links to pages with my notes and additional explanati
 
 Week | Date | Reading/Assignment |Topic |
 -----|------|--------------------|------|
-[1](Week_01.html) | Mon, Jan 11 |  | Course introduction ([slides](https://docs.google.com/presentation/d/1_o3_VOy9xAxA2GZiSQbT-QVd5wIV3Em-ta5JbJ2yS0o/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t ([slides](documents/intro_to_AI.pdf))
-[1](Week_01.html) | Wed, Jan 13 | [Take the HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0) <br /> [Driverless cars show the limits of today’s AI](https://www.economist.com/technology-quarterly/2020/06/11/driverless-cars-show-the-limits-of-todays-ai) | Historical Context ([slides](documents/intro_to_AI.pdf))<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
-[1](Week_01.html) | Fri, Jan 15 | | [Introduction to Jupyter](jupyter_intro.md)
+[1](Week_01.html) | Wed, Jan 5 |  | Course introduction ([slides](https://docs.google.com/presentation/d/1_o3_VOy9xAxA2GZiSQbT-QVd5wIV3Em-ta5JbJ2yS0o/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t ([slides](documents/intro_to_AI.pdf))
+[1](Week_01.html) | Fri, Jan 7 | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) <br /> [Driverless cars show the limits of today’s AI](https://www.economist.com/technology-quarterly/2020/06/11/driverless-cars-show-the-limits-of-todays-ai) | Historical Context ([slides](documents/intro_to_AI.pdf))<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
 |||
-[2](Week_02.html) | Mon, Jan 18 |  | MLK: No Class
-[2](Week_02.html) | Wed, Jan 20 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
-[2](Week_02.html) | Fri, Jan 22 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
+[2](Week_02.html) | Mon, Jan 10 | | [Introduction to Jupyter](jupyter_intro.md)
+[2](Week_02.html) | Wed, Jan 12 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
+[2](Week_02.html) | Fri, Jan 14 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
 |||
-[3](Week_03.html) | Mon, Jan 25 |[![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb)
-[3](Week_03.html) | Wed, Jan 27 |  | 
-[3](Week_03.html) | Fri, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
+[3](Week_03.html) | Mon, Jan 17 | | MLK: No Class
+[3](Week_03.html) | Wed, Jan 19 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb)
+[3](Week_03.html) | Fri, Jan 21 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
-[4](Week_04.html) | Mon, Feb 1 | **Problem Set 1 due** | [Writing readable code, numpy array arithmetic, data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
-[4](Week_04.html) | Wed, Feb 3 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [Data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
-[4](Week_04.html) | Fri, Feb 5 | Problem Set 2 available, due {{site.ps_2_due}} | [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
+[4](Week_04.html) | Mon, Jan 24 | **Problem Set 1 due** | [Writing readable code, numpy array arithmetic, data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
+[4](Week_04.html) | Wed, Jan 26 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [Data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
+[4](Week_04.html) | Fri, Jan 28 | Problem Set 2 available, due {{site.ps_2_due}} | [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
 |||
-[5](Week_05.html) | Mon, Feb 8 |  | Supervised learning, introduction to numerical optimization
-[5](Week_05.html) | Wed, Feb 10 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Supervised learning and numerical optimization, scikit-learn and regression
-[5](Week_05.html) | Fri, Feb 12 | **Problem Set 2 due** | Bias/variance tradeoff and regularization
+[5](Week_05.html) | Mon, Jan 31 |  | Supervised learning, introduction to numerical optimization
+[5](Week_05.html) | Wed, Feb 2 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Supervised learning and numerical optimization, scikit-learn and regression
+[5](Week_05.html) | Fri, Feb 4 | **Problem Set 2 due** | Bias/variance tradeoff and regularization
 |||
-[6](Week_06.html) | Mon, Feb 15 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
-[6](Week_06.html) | Wed, Feb 17 |  | Hands-on data analysis practice
-[6](Week_06.html) | Fri, Feb 19 | | Hands-on data analysis, problem set help
+[6](Week_06.html) | Mon, Feb 7 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
+[6](Week_06.html) | Wed, Feb 9 |  | Hands-on data analysis practice
+[6](Week_06.html) | Fri, Feb 11 | | Hands-on data analysis, problem set help
 |||
-[7](Week_07.html) | Mon, Feb 22 |  | Estimating Test Error
-[7](Week_07.html) | Wed, Feb 24 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression
-[7](Week_07.html) | Fri, Feb 26 |  | Lasso and Ridge Regression
+[7](Week_07.html) | Mon, Feb 14 |  | Estimating Test Error
+[7](Week_07.html) | Wed, Feb 16 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression
+[7](Week_07.html) | Fri, Feb 18 |  | Lasso and Ridge Regression
 |||
-[8](Week_08.html) | Mon, Mar 1 |  Problem set 3 available, due {{site.ps_3_due}} | Hands-on Linear Regression
-[8](Week_08.html) | Wed, Mar 2 |  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
-[8](Week_08.html) | Fri, Mar 5 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) | [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb)
+[8](Week_08.html) | Mon, Feb 21 |  Problem set 3 available, due {{site.ps_3_due}} | Hands-on Linear Regression
+[8](Week_08.html) | Wed, Feb 23|  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
+[8](Week_08.html) | Fri, Feb 25 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) | [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb)
 |||
-[9](Week_09.html) | Mon, Mar 8 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)
-[9](Week_09.html) | Wed, Mar 10 |  | Decision Trees
-[9](Week_09.html) | Fri, Mar 12 |  | Random Forests
+[9](Week_09.html) | Mon, Feb 28 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)
+[9](Week_09.html) | Wed, Mar 2 |  | Decision Trees
+[9](Week_09.html) | Fri, Mar 4 | **Problem Set 3 due**  | Random Forests
 |||
-[10](Week_10.html) | Mon, Mar 15 |  | TBD
-[10](Week_10.html) | Wed, Mar 17 | **Problem Set 3 due**  | TBD
-[10](Week_10.html) | Fri, Mar 19 |  | Lab day
+[10](Week_10.html) | Mon, Mar 7|  | No Class: Spring Break
+[10](Week_10.html) | Wed, Mar 9 |  |  No Class: Spring Break
+[10](Week_10.html) | Fri, Mar 11 |  | No Class: Spring Break
 |||
-[11](Week_11.html) | Mon, Mar 22 |  | Symbolic AI
-[11](Week_11.html) | Wed, Mar 24 |  | Recharge Day, No Class
-[11](Week_11.html) | Fri, Mar 26 || Symbolic AI
+[11](Week_11.html) | Mon, Mar 14 |  |
+[11](Week_11.html) | Wed, Mar 16 |  | 
+[11](Week_11.html) | Fri, Mar 18 ||
 |||
-[12](Week_12.html) | Mon, Mar 29 |  | Symbolic AI
-[12](Week_12.html) | Wed, Mar 31 |  | Symbolic AI
-[12](Week_12.html) | Fri, Apr 2 |  Problem set 6 available, due {{site.ps_6_due}} | Symbolic AI
+[12](Week_12.html) | Mon, Mar 21 |  | 
+[12](Week_12.html) | Wed, Mar 23 |  | 
+[12](Week_12.html) | Fri, Mar 25 |  Problem set 6 available, due {{site.ps_6_due}} | 
 |||
-[13](Week_13.html) | Mon, Apr 5 |  | Topics TBD
-[13](Week_13.html) | Wed, Apr 7 |  | Topics TBD
-[13](Week_13.html) | Fri, Apr 9 | **Problem Set 6 due** | Topics TBD
+[13](Week_13.html) | Mon, Mar 28 |  | Topics TBD
+[13](Week_13.html) | Wed, Mar 30 |  | Topics TBD
+[13](Week_13.html) | Fri, Apr 1 | **Problem Set 6 due** | Topics TBD
 |||
-[14](Week_14.html) | Mon, Apr 12 |  | Topics TBD
-[14](Week_14.html) | Wed, Apr 14 |  | Topics TBD
-[14](Week_14.html) | Fri, Apr 16 | **Project Due** | Topics TBD
+[14](Week_14.html) | Mon, Apr 4 |  | Topics TBD
+[14](Week_14.html) | Wed, Apr 6 |  | Topics TBD
+[14](Week_14.html) | Fri, Apr 8 |  | Topics TBD
 |||
-[15](Week_14.html) | Mon, Apr 19 |  | Project Presentations
-[15](Week_14.html) | Wed, Apr 21 |  | Project Presentations
+[15](Week_15.html) | Mon, Apr 11 |  | Topics TBD
+[15](Week_15.html) | Wed, Apr 13 |  | Topics TBD
+[15](Week_15.html) | Fri, Apr 15 |**Project Due** | 
 |||
+[16](Week_16.html) | Mon, Apr 18 |  | Project Presentations
+[16](Week_16.html) | Wed, Apr 20 |  | Project Presentations
 
 ## Software and Hardware
 
@@ -259,33 +247,11 @@ Arctic Code Vaulable>
 
 ## Course Policies
 
-### HyFlex information
-
-This course consists of four sections (two each for undergraduate and graduate students), online and face-to-face, which are simultaneous, i.e., they occur at the same meeting days and times. This means that some students in our class, and the instructors, will be participating from the assigned classroom, while others will be participating remotely (e.g., via Zoom) from their preferred location. 
-
-As this is a new format for us, we want to ensure that you are aware of the following:
-
-* This course has been assigned a physical classroom with enough capacity to maintain physical distancing (6 feet between individuals) requirements. Please utilize designated seats and maintain appropriate spacing between students. Please do not move desks or stations. Since our rooms hold significantly fewer students than normal, the number of students in the classroom will be quite small – there will be 10 students in person, with the remaining participating online.
-* Students who have signed up for the in-person section are expected to attend class on every scheduled meeting day and time, as indicated in the course syllabus. Likewise, students who signed up for the online section are expected to attend class virtually on every scheduled meeting day and time, as indicated in the course syllabus.
-* In-person students (and faculty) are required to wear approved face coverings at all times during class and within buildings, and to maintain physical distancing of at least six feet at all times. Following and enforcing these policies and requirements are all of our responsibility. Failure to do so will lead to a report to the Office of Student Conduct and Conflict Resolution.
-* Face-to-face students and instructors are expected to clean their spaces (desks, chairs, podium) at the end of every class period. Sanitizing supplies are available in the classroom.
-* Technology in the classrooms has been updated, but is still insufficient to allow communication between face-to-face and virtual students. The instructors will be the only ones able to communicate with both populations, but will have to do so while remaining behind the podium (due to microphone placement). The instructor will have to repeat any questions or comments from face-to-face students for the benefit of the virtual students.
-* If face-to-face students wish to join the Zoom call from the classroom, they will have to provide their own computers and, crucially, headsets, in order to avoid interference from the various microphones.
-* Instructors will make every effort to incorporate both cohorts of students simultaneously, although this will require a lot of trial and error and a great deal of patience on all our parts. 
-
-This will be a different experience for all of us, but we are doing our best to comply with university mandates while still fulfilling the goals and objectives of our courses and providing you with the best possible educational experience. We appreciate your understanding.
-
-## Online COVID-19 policies
-
-Our class sessions may be audio visually recorded for students in the class to refer back and for enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, be sure to keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate orally are agreeing to have their voices recorded.  If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live. Chats should be directed privately to the instructor. As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
-
 ### Class Attendance and Makeup Policy
 
 Requirements for class attendance and makeup assignments, and other work in this course are consistent with university policies that can be found in the online catalog at: [https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/](https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/)
 
-If you are experiencing COVID-19 symptoms ([click here for guidance from the CDC on symptoms of coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)), please use the UF Health screening system and follow the instructions on whether you are able to attend class. [Click here for UF Health guidance on what to do if you have been exposed to or are experiencing Covid-19 symptoms](https://coronavirus.ufhealth.org/screen-test-protect/covid-19-exposure-and-symptoms-who-do-i-call-if/). Course materials will be provided to you with an excused absence, and you will be given a reasonable amount of time to make up work. Refer to the above link for more information on the university’s attendance policy.
-
-In general, we do not take attendance. You are all adults and we assume you are taking the class the learn. **The best way to learn is to regularly attend class.** We are sure students will miss class for various reasons. We are happy to help you catch up. If you regularly miss class and fall behind, we may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. We will make every effort to record and post all classes to help those that miss classes.
+In general, I do not take attendance. You are all adults and I assume you are taking the class the learn. **The best way to learn is to regularly attend class.** I are sure students will miss class for various reasons. I am happy to help you catch up. If you regularly miss class and fall behind, I may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. I will make every effort to record and post all classes to help those that miss classes.
 
 ### Quiz and Assignment Policy
 
@@ -295,7 +261,7 @@ All quizzes and assignments are "open book, open internet", you may use whatever
 
 ### Makeup and Late policy
 
-Please notify the instructors of circumstances that lead to late work or missed classes. We will generally work with you and accept late work. Without prior notification, late work will be penalized one point per day after the due date.
+Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. Without prior notification, late work will be penalized one point per day after the due date.
 
 ## Students Requiring Accommodations
 
@@ -307,7 +273,7 @@ Students are expected to provide professional and respectful feedback on the qua
 
 ## Class Demeanor and Netiquette
 
-Students are expected to be in class or join the class Zoom meeting on time and behave in a manner that is respectful to the instructors and to fellow students. For remote participants, if at all possible, please have your video on during class--it is easier for us to teach and for discussion if we can see you! Please do be aware of your surroundings and ensure that content visible on your video, or shared via screen sharing, is appropriate for class.
+Students are expected to be in class on time and behave in a manner that is respectful to the instructors and to fellow students.
 
 Opinions held by other students should be respected in discussion, and conversations that do not contribute to the discussion should be held at minimum, if at all.
 
