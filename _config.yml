@@ -119,8 +119,8 @@ github: [metadata]
 # Matt's additions
 # Due date variables. Can be included in pages using {{site.variable}}
 
-ps_1_due: "Monday, February 1"
-ps_2_due: "Friday, February 12"
+ps_1_due: "Monday, January 24"
+ps_2_due: "Friday, February 4"
 ps_3_due: "Monday, March 8"
 ps_4_due: "Friday, March 12"
 ps_5_due: "Friday, March 26"

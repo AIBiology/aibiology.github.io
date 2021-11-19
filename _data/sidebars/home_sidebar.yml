@@ -38,59 +38,59 @@ entries:
     - title: Support Vector Machines
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb
       output: web
-  - title: Symbolic AI
-    output: web
-    folderitems:
+  
   
   - title: Week-by-Week Pages
     output: web
     folderitems:
 
-    - title: Week 1 - Jan 11 - 15
+    - title: Week 1 - Jan 5 - 7
       url: /Week_01.html
       output: web
-    - title: Week 2 - Jan 18 - 22
+    - title: Week 2 - Jan 10 - 14
       url: /Week_02.html
       output: web
-    - title: Week 3 - Jan 25 - 29
+    - title: Week 3 - Jan 17 - 21
       url: /Week_03.html
       output: web
-    - title: Week 4 - Feb 1 - 5
+    - title: Week 4 - Jan 24 - 28
       url: /Week_04.html
       output: web
-    - title: Week 5 - Feb 8 - 12
+    - title: Week 5 -Jan 31 - Feb 4
       url: /Week_05.html
       output: web
-    - title: Week 6 - Feb 15 - 19
+    - title: Week 6 - Feb 7 - 11
       url: /Week_06.html
       output: web
-    - title: Week 7 - Feb 22 - 26
+    - title: Week 7 - Feb 14 - 18
       url: /Week_07.html
       output: web
-    - title: Week 8 - Mar 1 - 5
+    - title: Week 8 - Feb 21 - 25
       url: /Week_08.html
       output: web
-    - title: Week 9 - Mar 8 - 12
+    - title: Week 9 - Feb 28 - Mar 4
       url: /Week_09.html
       output: web
-    - title: Week 10 - Mar 15 - 19
-      url: /Week_10.html
-      output: web
-    - title: Week 11 - Mar 22 - 26
+    - title: Week 10 - Spring Break
+    - title: Week 11 - Mar 14 - 18
       url: /Week_11.html
       output: web
-    - title: Week 12 - Mar 29 - Apr 2
+    - title: Week 12 - Mar 21 - 25
       url: /Week_12.html
       output: web
-    - title: Week 13 - Apr 5 - 9
+    - title: Week 13 - Mar 28 - Apr 1
       url: /Week_13.html
       output: web
-    - title: Week 14 - Apr 12 -16
+    - title: Week 14 - Apr 4 - 8
       url: /Week_14.html
       output: web    
-    - title: Week 15 - Apr 19 - 21
+    - title: Week 15 - Apr 11 - 15
       url: /Week_15.html
       output: web
+    - title: Week 16 - Apr 18 - 20
+      url: /Week_16.html
+      output: web
+
 
   - title: Additional Resources
     output: web

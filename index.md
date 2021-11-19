@@ -4,9 +4,11 @@ keywords: syllabus
 tags: 
 sidebar: home_sidebar
 permalink: index.html
-summary: Applications of AI in Biology
+summary: Course website for the Spring 2022 edition of Zoo4926 (section 4G55) / Zoo6927 (section 5F55), AI in Biology. Covering applications of AI in Biology.
 toc: false
 ---
+
+{% include warning.html content="I am in the process of updating this site for Spring 2022. The course goals and overall structure are there, but dates, assignments, details are still being updated." %}
 
 ## Course Description
 
@@ -18,13 +20,34 @@ The course will attempt to provide sufficient background and foundations so that
 
 Classes will have some lecture, though most classes will consist of live coding demos and hands-on exercises.
 
+___
+## Instructor
+
+**Matt Gitzendanner**<br>
+**Email:** <a href="mailto:magitz@ufl.edu">magitz@ufl.edu</a><br>
+**Office:** Dickinson Hall, stop at front desk and they will call me
+ 
+**About:**  Dr Gitzendanner's background is in plant evolutionary genetics and genomics where he uses genetic tools to study the conservation, evolution, and diversity of plants. The field is generally computationally intensive, and Matt has worked for 10 years training users how to use HiPerGator and other high-performance computing systems to do the amazing research that is done across the University of Florida campus.
+
+The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb).
+
+In addition to this course, Matt teaches
+  * [Computational Tools for Research in Biology (BSC4452/6451)](https://comptoolsres.github.io/)
+  * Frontiers in AI (EGN1935, Fall 2021. Will likely be offered in Fall 2022 as a IDS class!)
+  * [Practicum AI](https://practicumai.org/)
+  * [Research Computing Trainings](https://help.rc.ufl.edu/doc/Training)
+  * [NVIDIA DLI Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) certified instructor
+
+Matt enjoys spending time outdoors, hiking, backpacking and kayaking.
+
+___
 ## Prerequisites
 
 ### Computer programming
 
-The course assumes a basic understanding of computer programming in general, and Python in particular.
+The course assumes a **basic understanding of computer programming** in general, and Python in particular.
 
-If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course:
+If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course (these are free for UF Students):
 
 * [Programming Foundations: Fundamentals](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-fundamentals-3%3Ftrk%3Dshare_ent_url&account=41282748)
   * This course is best for people with no coding experience.
@@ -34,28 +57,32 @@ If you have not taken a programming course or are new to Python, there are sever
 * [Learning Python](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python%3Ftrk%3Dshare_ent_url&account=41282748)
   * Another option for those with some coding experience
 
-Note, you do not need to do all of these. Any one would get you at a good place to start the semester. We will review the basics of Python in the first weeks.
+
+ {% include note.html content="Note, you do not need to do all of these. Any **one** would get you at a good place to start the semester. We will review the basics of Python in the first weeks." %}
 
 ### Math
 
-You should have an understanding of probability and statistics at the level of a first applied statistics course.
+You should have a **general understanding of probability and statistics** at the level of a first applied statistics course.
 
-Knowledge of basic calculus and, to a lesser extent, linear algebra, will also be helpful. We won't focus on the math, but having at least a conceptual understanding of derivatives, function optimization, and matrix math will be useful.
+Knowledge of basic calculus and, to a lesser extent, linear algebra, can be helpful. We won't focus on the math, but having a conceptual understanding of derivatives, function optimization, and matrix math will be useful. 
 
 If you are unsure, contact the instructor.
 
+___
 ## Meeting Times
 
-* **Mon, Wed, Fri 1:55pm - 2:45pm Bartram 211**
+* **Mon, Wed, Fri from 1:55pm - 2:45pm in Bartram 211**
 
  {% include important.html content="You should make every effort to attend class synchronously. While I will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
 
 * I understand that some students will need to miss classes sometimes. That is fine and I will do my best to help you catch up, but regular attendance is the best way to learn.
 
+___
 {% include custom/office_hours.html %}
 
  {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. **I expect that you will need help. You should expect that you will need help.** I want to help you! I cannot always help if you do not ask for the help you need. *Please ask for help!*" %}
 
+___
 ## Course Textbooks
 
 {% include image.html file='textbook.png' alt="textbook icon" position="right" max-width=75 %}
@@ -65,6 +92,7 @@ While we will not use any one text for the course, we will use sections of these
 
 * [{% include inline_image.html file='D2DL_cover.png' alt="D2DL textbook icon"  %} Dive into Deep Learning by Aston Zhang, Zachary Lipton, Mu Li and Alexander Smola](https://d2l.ai/)
 
+___
 ## Course Calendar
 
 {% include image.html file='calendar.png' alt="calendar icon" position="right" max-width=75 %}
@@ -75,8 +103,8 @@ For readings, there may be links to pages with my notes and additional explanati
 
 Week | Date | Reading/Assignment |Topic |
 -----|------|--------------------|------|
-[1](Week_01.html) | Wed, Jan 5 |  | Course introduction ([slides](https://docs.google.com/presentation/d/1_o3_VOy9xAxA2GZiSQbT-QVd5wIV3Em-ta5JbJ2yS0o/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t ([slides](documents/intro_to_AI.pdf))
-[1](Week_01.html) | Fri, Jan 7 | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) <br /> [Driverless cars show the limits of today’s AI](https://www.economist.com/technology-quarterly/2020/06/11/driverless-cars-show-the-limits-of-todays-ai) | Historical Context ([slides](documents/intro_to_AI.pdf))<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
+[1](Week_01.html) | Wed, Jan 5 |  | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t ([slides](documents/intro_to_AI.pdf))
+[1](Week_01.html) | Fri, Jan 7 | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Historical Context ([slides](documents/intro_to_AI.pdf))<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
 |||
 [2](Week_02.html) | Mon, Jan 10 | | [Introduction to Jupyter](jupyter_intro.md)
 [2](Week_02.html) | Wed, Jan 12 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
@@ -87,56 +115,56 @@ Week | Date | Reading/Assignment |Topic |
 [3](Week_03.html) | Fri, Jan 21 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
 [4](Week_04.html) | Mon, Jan 24 | **Problem Set 1 due** | [Writing readable code, numpy array arithmetic, data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
-[4](Week_04.html) | Wed, Jan 26 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | [Data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
-[4](Week_04.html) | Fri, Jan 28 | Problem Set 2 available, due {{site.ps_2_due}} | [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
+[4](Week_04.html) | Wed, Jan 26 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) |  [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
+[4](Week_04.html) | Fri, Jan 28 | Problem Set 2 available, due {{site.ps_2_due}} | Supervised learning, introduction to numerical optimization
 |||
-[5](Week_05.html) | Mon, Jan 31 |  | Supervised learning, introduction to numerical optimization
-[5](Week_05.html) | Wed, Feb 2 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Supervised learning and numerical optimization, scikit-learn and regression
-[5](Week_05.html) | Fri, Feb 4 | **Problem Set 2 due** | Bias/variance tradeoff and regularization
+[5](Week_05.html) | Mon, Jan 31 |  | Supervised learning and numerical optimization, scikit-learn and regression
+[5](Week_05.html) | Wed, Feb 2 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Bias/variance tradeoff and regularization
+[5](Week_05.html) | Fri, Feb 4 | **Problem Set 2 due** |  Model validation, cross-validation, and hyperparameters
 |||
-[6](Week_06.html) | Mon, Feb 7 |  | Model validation, cross-validation, and hyperparameters<!--[Hands on regression analysis](https://github.com/UFResearchComputing/Understanding_PyTorch)-->
-[6](Week_06.html) | Wed, Feb 9 |  | Hands-on data analysis practice
-[6](Week_06.html) | Fri, Feb 11 | | Hands-on data analysis, problem set help
+[6](Week_06.html) | Mon, Feb 7 |  |Hands-on data analysis practice
+[6](Week_06.html) | Wed, Feb 9 |  | Hands-on data analysis, problem set help
+[6](Week_06.html) | Fri, Feb 11 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression 
+|||Es
+[7](Week_07.html) | Mon, Feb 14 |Problem set 3 available, due {{site.ps_3_due}}   | Hands-on Linear Regression
+[7](Week_07.html) | Wed, Feb 16 | | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
+[7](Week_07.html) | Fri, Feb 18 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb) 
+[8](Week_08.html) | Mon, Feb 21 |  | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
+[8](Week_08.html) | Wed, Feb 23|    | Intro to Artificial Neural Networks
+[8](Week_08.html) | Fri, Feb 25 | Intro to Artificial Neural Networks
 |||
-[7](Week_07.html) | Mon, Feb 14 |  | Estimating Test Error
-[7](Week_07.html) | Wed, Feb 16 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression
-[7](Week_07.html) | Fri, Feb 18 |  | Lasso and Ridge Regression
-|||
-[8](Week_08.html) | Mon, Feb 21 |  Problem set 3 available, due {{site.ps_3_due}} | Hands-on Linear Regression
-[8](Week_08.html) | Wed, Feb 23|  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
-[8](Week_08.html) | Fri, Feb 25 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) | [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb)
-|||
-[9](Week_09.html) | Mon, Feb 28 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)
-[9](Week_09.html) | Wed, Mar 2 |  | Decision Trees
-[9](Week_09.html) | Fri, Mar 4 | **Problem Set 3 due**  | Random Forests
+[9](Week_09.html) | Mon, Feb 28 | | Convolutional Neural Networks
+[9](Week_09.html) | Wed, Mar 2 |  | Convolutional Neural Networks
+[9](Week_09.html) | Fri, Mar 4 | **Problem Set 3 due**  | Convolutional Neural Networks
 |||
 [10](Week_10.html) | Mon, Mar 7|  | No Class: Spring Break
 [10](Week_10.html) | Wed, Mar 9 |  |  No Class: Spring Break
 [10](Week_10.html) | Fri, Mar 11 |  | No Class: Spring Break
 |||
-[11](Week_11.html) | Mon, Mar 14 |  |
-[11](Week_11.html) | Wed, Mar 16 |  | 
-[11](Week_11.html) | Fri, Mar 18 ||
+[11](Week_11.html) | Mon, Mar 14 |  | Transfer Learning
+[11](Week_11.html) | Wed, Mar 16 |  | Time Series Analysis with RNNs
+[11](Week_11.html) | Fri, Mar 18 |  | Time Series Analysis with RNNs
 |||
-[12](Week_12.html) | Mon, Mar 21 |  | 
-[12](Week_12.html) | Wed, Mar 23 |  | 
-[12](Week_12.html) | Fri, Mar 25 |  Problem set 6 available, due {{site.ps_6_due}} | 
+[12](Week_12.html) | Mon, Mar 21 |  | Time Series Analysis with RNNs
+[12](Week_12.html) | Wed, Mar 23 |  | Natural Language Processing
+[12](Week_12.html) | Fri, Mar 25 |  Problem set 6 available, due {{site.ps_6_due}} | Natural Language Processing
 |||
-[13](Week_13.html) | Mon, Mar 28 |  | Topics TBD
-[13](Week_13.html) | Wed, Mar 30 |  | Topics TBD
-[13](Week_13.html) | Fri, Apr 1 | **Problem Set 6 due** | Topics TBD
+[13](Week_13.html) | Mon, Mar 28 |  | NLP and Transformers
+[13](Week_13.html) | Wed, Mar 30 |  | Transformers
+[13](Week_13.html) | Fri, Apr 1 | **Problem Set 6 due** | Transformers
 |||
-[14](Week_14.html) | Mon, Apr 4 |  | Topics TBD
-[14](Week_14.html) | Wed, Apr 6 |  | Topics TBD
+[14](Week_14.html) | Mon, Apr 4 |  | Medical Image Analysis
+[14](Week_14.html) | Wed, Apr 6 |  | Medical Image Analysis
 [14](Week_14.html) | Fri, Apr 8 |  | Topics TBD
 |||
-[15](Week_15.html) | Mon, Apr 11 |  | Topics TBD
-[15](Week_15.html) | Wed, Apr 13 |  | Topics TBD
-[15](Week_15.html) | Fri, Apr 15 |**Project Due** | 
+[15](Week_15.html) | Mon, Apr 11 |  | Project time
+[15](Week_15.html) | Wed, Apr 13 |  | Project time
+[15](Week_15.html) | Fri, Apr 15 |**Project Due** | Project time
 |||
 [16](Week_16.html) | Mon, Apr 18 |  | Project Presentations
 [16](Week_16.html) | Wed, Apr 20 |  | Project Presentations
 
+___
 ## Software and Hardware
 
 Participants will need a computer with internet connection, webcam and microphone for all classes.
@@ -155,6 +183,7 @@ Any requests for make-ups due to technical issues should be accompanied by the t
 
 All faculty, staff and student of the University are required and expected to obey the laws and legal agreements governing software use. Failure to do so can lead to monetary damages and/or criminal penalties for the individual violator. Because such violations are also against University policies and rules, disciplinary action will be taken as appropriate.
 
+___
 ## Grading
 
 See also the [List of Graded Work page](Grading.html).
@@ -198,9 +227,7 @@ Grading in this class is consistent with UF policies available at: [https://cata
         <!-- /.panel-heading--> 
         <div id="collapseB" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <tHighlights
-
-Arctic Code Vaulable>
+                <table>
                   <thead>
                     <tr>
                       <th>A</th>
@@ -245,6 +272,7 @@ Arctic Code Vaulable>
 </div>
 <!-- /.panel-group -->
 
+___
 ## Course Policies
 
 ### Class Attendance and Makeup Policy
@@ -263,14 +291,17 @@ All quizzes and assignments are "open book, open internet", you may use whatever
 
 Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. Without prior notification, late work will be penalized one point per day after the due date.
 
+___
 ## Students Requiring Accommodations
 
 Students with disabilities requesting accommodations should first register with the Disability Resource Center (352-392-8565, [https://disability.ufl.edu/students/get-started/](https://disability.ufl.edu/students/get-started/)) by providing appropriate documentation. Once registered, students will receive an accommodation letter which must be presented to the instructor when requesting accommodation. Students with disabilities should follow this procedure as early as possible in the semester.
 
+___
 ## Course Evaluation
 
 Students are expected to provide professional and respectful feedback on the quality of instruction in this course by completing course evaluations online via GatorEvals. Guidance on how to give feedback in a professional and respectful manner is available at [gatorevals.aa.ufl.edu/students/](https://gatorevals.aa.ufl.edu/students/). Students will be notified when the evaluation period opens, and can complete evaluations through the email they receive from GatorEvals, in their Canvas course menu under GatorEvals, or via [ufl.bluera.com/ufl/](https://ufl.bluera.com/ufl/). Summaries of course evaluation results are available to students at [gatorevals.aa.ufl.edu/public-results/](https://gatorevals.aa.ufl.edu/public-results/).
 
+___
 ## Class Demeanor and Netiquette
 
 Students are expected to be in class on time and behave in a manner that is respectful to the instructors and to fellow students.
@@ -283,6 +314,7 @@ Students should be working on course content during class.
 
 The [GitHub discussion boards](https://github.com/AIBiology/aibiology.github.io/discussions) can be used to ask for and provide help by all. Students should be supportive and considerate of others at all times. Rude or inappropriate comments will be removed and the poster will be warned.
 
+___
 ## University Honesty Policy
 
 UF students are bound by The Honor Pledge which states:
@@ -290,6 +322,7 @@ UF students are bound by The Honor Pledge which states:
 
 [The Honor Code](https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/) specifies a number of behaviors that are in violation of this code and the possible sanctions. Furthermore, you are obligated to report any condition that facilitates academic misconduct to appropriate personnel. If you have any questions or concerns, please consult with the instructor or TAs in this class
 
+___
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -321,6 +354,7 @@ UF students are bound by The Honor Pledge which states:
 </div>
 <!-- /.panel-group -->
 
+___
 ## Inclusive Learning Environment
 
 This course embraces the University of Florida’s Non-Discrimination Policy, which reads:
@@ -328,14 +362,17 @@ This course embraces the University of Florida’s Non-Discrimination Policy, wh
 
 If you have questions or concerns about your rights and responsibilities for inclusive learning environment, please see the instructor or refer to the Office of Multicultural & Diversity Affairs website: [http://multicultural.ufl.edu](http://multicultural.ufl.edu).
 
+___
 ## Privacy
 
 There are federal laws protecting your privacy with regards to grades earned in courses and on individual assignments. For more information, please see: [https://registrar.ufl.edu/ferpa.html](https://registrar.ufl.edu/ferpa.html)
 
+___
 ## Statement Regarding Course Recording
 
 Our class sessions may be audio visually recorded for students in the class to refer back to and for use of enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate verbally are agreeing to have their voices recorded.  If you are unwilling to consent to have your voice recorded during class, you will need to keep your mute button activated.  As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
 
+___
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
