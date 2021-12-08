@@ -108,56 +108,56 @@ Week | Date | Reading/Assignment |Topic |
 |||
 [2](Week_02.html) | Mon, Jan 10 | | [Introduction to Jupyter](jupyter_intro.md)
 [2](Week_02.html) | Wed, Jan 12 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
-[2](Week_02.html) | Fri, Jan 14 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
+[2](Week_02.html) | Fri, Jan 14 |  Problem set 1 available, due {{site.ps_1_due}} | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
 |||
 [3](Week_03.html) | Mon, Jan 17 | | MLK: No Class
-[3](Week_03.html) | Wed, Jan 19 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) <br> Problem set 1 available, due {{site.ps_1_due}} | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb)
-[3](Week_03.html) | Fri, Jan 21 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
+[3](Week_03.html) | Wed, Jan 19 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)  | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb)
+[3](Week_03.html) | Fri, Jan 21 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) <br>  **Problem Set 1 due** | [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb)<br>Review of general Python: Functions, Good programming practices (DRY, avoid globals, etc.).
 |||
-[4](Week_04.html) | Mon, Jan 24 | **Problem Set 1 due** | [Writing readable code, numpy array arithmetic, data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
+[4](Week_04.html) | Mon, Jan 24 | Problem Set 2 available, due {{site.ps_2_due}} | [Writing readable code, numpy array arithmetic, data visualization in Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Python_data_visualization.ipynb)
 [4](Week_04.html) | Wed, Jan 26 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) |  [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
-[4](Week_04.html) | Fri, Jan 28 | Problem Set 2 available, due {{site.ps_2_due}} | Supervised learning, introduction to numerical optimization
+[4](Week_04.html) | Fri, Jan 28 |  | Supervised learning, introduction to numerical optimization
 |||
-[5](Week_05.html) | Mon, Jan 31 |  | Supervised learning and numerical optimization, scikit-learn and regression
+[5](Week_05.html) | Mon, Jan 31 |  **Problem Set 2 due** | Supervised learning and numerical optimization, scikit-learn and regression
 [5](Week_05.html) | Wed, Feb 2 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn (read through _Basics of the API_)](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Bias/variance tradeoff and regularization
-[5](Week_05.html) | Fri, Feb 4 | **Problem Set 2 due** |  Model validation, cross-validation, and hyperparameters
+[5](Week_05.html) | Fri, Feb 4 | |  Model validation, cross-validation, and hyperparameters
 |||
-[6](Week_06.html) | Mon, Feb 7 |  |Hands-on data analysis practice
+[6](Week_06.html) | Mon, Feb 7 | Problem set 3 available, due {{site.ps_3_due}} |Hands-on data analysis practice
 [6](Week_06.html) | Wed, Feb 9 |  | Hands-on data analysis, problem set help
 [6](Week_06.html) | Fri, Feb 11 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression 
 |||Es
-[7](Week_07.html) | Mon, Feb 14 |Problem set 3 available, due {{site.ps_3_due}}   | Hands-on Linear Regression
+[7](Week_07.html) | Mon, Feb 14 | **Problem Set 3 due**   | Hands-on Linear Regression
 [7](Week_07.html) | Wed, Feb 16 | | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
 [7](Week_07.html) | Fri, Feb 18 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb) 
-[8](Week_08.html) | Mon, Feb 21 |  | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
-[8](Week_08.html) | Wed, Feb 23|    | Intro to Artificial Neural Networks
-[8](Week_08.html) | Fri, Feb 25 | Intro to Artificial Neural Networks
+[8](Week_08.html) | Mon, Feb 21 |  Problem set 4 available, due {{site.ps_4_due}} | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
+[8](Week_08.html) | Wed, Feb 23 | | Intro to Artificial Neural Networks
+[8](Week_08.html) | Fri, Feb 25 | | Intro to Artificial Neural Networks
 |||
-[9](Week_09.html) | Mon, Feb 28 | | Convolutional Neural Networks
+[9](Week_09.html) | Mon, Feb 28 | **Problem Set 4 due**  | Convolutional Neural Networks
 [9](Week_09.html) | Wed, Mar 2 |  | Convolutional Neural Networks
-[9](Week_09.html) | Fri, Mar 4 | **Problem Set 3 due**  | Convolutional Neural Networks
+[9](Week_09.html) | Fri, Mar 4 |  | Convolutional Neural Networks
 |||
 [10](Week_10.html) | Mon, Mar 7|  | No Class: Spring Break
 [10](Week_10.html) | Wed, Mar 9 |  |  No Class: Spring Break
 [10](Week_10.html) | Fri, Mar 11 |  | No Class: Spring Break
 |||
-[11](Week_11.html) | Mon, Mar 14 |  | Transfer Learning
+[11](Week_11.html) | Mon, Mar 14 | Problem set 5 available, due {{site.ps_5_due}} | Transfer Learning
 [11](Week_11.html) | Wed, Mar 16 |  | Time Series Analysis with RNNs
 [11](Week_11.html) | Fri, Mar 18 |  | Time Series Analysis with RNNs
 |||
-[12](Week_12.html) | Mon, Mar 21 |  | Time Series Analysis with RNNs
+[12](Week_12.html) | Mon, Mar 21 | **Problem Set 5 due** | Time Series Analysis with RNNs
 [12](Week_12.html) | Wed, Mar 23 |  | Natural Language Processing
-[12](Week_12.html) | Fri, Mar 25 |  Problem set 6 available, due {{site.ps_6_due}} | Natural Language Processing
+[12](Week_12.html) | Fri, Mar 25 |   | Natural Language Processing
 |||
 [13](Week_13.html) | Mon, Mar 28 |  | NLP and Transformers
 [13](Week_13.html) | Wed, Mar 30 |  | Transformers
-[13](Week_13.html) | Fri, Apr 1 | **Problem Set 6 due** | Transformers
+[13](Week_13.html) | Fri, Apr 1 |  | Transformers
 |||
-[14](Week_14.html) | Mon, Apr 4 |  | Medical Image Analysis
+[14](Week_14.html) | Mon, Apr 4 | Problem set 6 available, due {{site.ps_6_due}} | Medical Image Analysis
 [14](Week_14.html) | Wed, Apr 6 |  | Medical Image Analysis
 [14](Week_14.html) | Fri, Apr 8 |  | Topics TBD
 |||
-[15](Week_15.html) | Mon, Apr 11 |  | Project time
+[15](Week_15.html) | Mon, Apr 11 | **Problem Set 6 due**  | Project time
 [15](Week_15.html) | Wed, Apr 13 |  | Project time
 [15](Week_15.html) | Fri, Apr 15 |**Project Due** | Project time
 |||
@@ -202,7 +202,7 @@ Grading in this class is consistent with UF policies available at: [https://cata
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseA"> <H3>Grade Disputes</H3></a>
+            <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseA"> <H3>Grade Disputes and Revisions</H3></a>
         </div>
         <!-- /.panel-heading--> 
         <div id="collapseA" class="panel-collapse collapse noCrossRef">
@@ -210,6 +210,8 @@ Grading in this class is consistent with UF policies available at: [https://cata
                 Should a student wish to dispute any grade received in this class (other than simple addition errors), the dispute must be in writing (via email) and be submitted to the instructor within a week of receiving the grade.
                 <BR><BR>
                 The dispute should clearly set out the grade that the student believes the assignment should have received as well as why they believe that they should have received such a grade.
+                <BR><BR>
+                Some assignments may be resubmitted for revision. I may suggest a resubmission, or a student may ask for the opportunity to resubmit. My goal in allowing resubmission is to give students a chance to learn the material. As meeting to discuss the material is generally expected prior to resubmission.
             </div>
             <!-- /.panel-body -->
         </div>
@@ -289,7 +291,7 @@ All quizzes and assignments are "open book, open internet", you may use whatever
 
 ### Makeup and Late policy
 
-Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. Without prior notification, late work will be penalized one point per day after the due date.
+Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. All assignments are designed for both your own learning and my assessment of your efforts. Much of the course builds on previous sections and falling behind on assignments will make it harder to keep up. If you need help, please ask! **My goal is for all students to learn the material** and I understand that some students will need more help than others. The grade is based on the end product, not the amount of time and help needed to get there.
 
 ___
 ## Students Requiring Accommodations

@@ -22,15 +22,11 @@ E-mail: <magitz@ufl.edu><br>
 Twitter: [@m_gitz](https://twitter.com/m_gitz)
 " type="info" %}
 
+
+### Previous co-instructor who helped get this course started!
+
 {% include callout.html content="
 Dr. Brian Stucky<br>
-Assistant Scientist<br>
-University of Florida<br>
-Florida Museum of Natural History<br>
-PO Box 117800<br>
-Gainesville, FL 32611-7800<br>
-Phone: 352-294-2086<br>
-E-mail: <stuckyb@ufl.edu><br>
 " type="info" %}
 
 ## About the site
