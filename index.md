@@ -125,7 +125,7 @@ Week | Date | Reading/Assignment |Topic |
 [6](Week_06.html) | Mon, Feb 7 | Problem set 3 available, due {{site.ps_3_due}} |Hands-on data analysis practice
 [6](Week_06.html) | Wed, Feb 9 |  | Hands-on data analysis, problem set help
 [6](Week_06.html) | Fri, Feb 11 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) | Linear Regression--Lasso and Ridge Regression 
-|||Es
+|||
 [7](Week_07.html) | Mon, Feb 14 | **Problem Set 3 due**   | Hands-on Linear Regression
 [7](Week_07.html) | Wed, Feb 16 | | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
 [7](Week_07.html) | Fri, Feb 18 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb) 
@@ -186,12 +186,9 @@ All faculty, staff and student of the University are required and expected to ob
 ___
 ## Grading
 
-See also the [List of Graded Work page](Grading.html).
-
 ### Assignment Values
 
-**Tentative: Final grading scheme not determined**
-
+See also the [List of Graded Work page](Grading.html).
 * **Problem Sets**: 6 @ 30 points each: 180 points (75%)
 * **Class Project**: 40 points (17%)
 * **Project presentation**: 20 points (8%)
@@ -283,11 +280,11 @@ Requirements for class attendance and makeup assignments, and other work in this
 
 In general, I do not take attendance. You are all adults and I assume you are taking the class the learn. **The best way to learn is to regularly attend class.** I are sure students will miss class for various reasons. I am happy to help you catch up. If you regularly miss class and fall behind, I may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. I will make every effort to record and post all classes to help those that miss classes.
 
-### Quiz and Assignment Policy
+### Assignment Policy
 
-Quiz and assignment dates will be announced at least one week in advance and students will have at least three days to complete the quiz or assignment. Each quiz or assignment will clearly state if it is an individual or group assignment.  Individual assignments must be the student’s own work, completed without the assistance of others.
+Assignment dates will be announced at least one week in advance and students will have at least three days to complete the assignment. Each assignment will clearly state if it is an individual or group assignment.  Individual assignments must be the student’s own work, completed without the assistance of others.
 
-All quizzes and assignments are "open book, open internet", you may use whatever resources you desire to complete the quiz/assignment. Though only assignments specifically noted as group assignments should be worked on with other people.
+All assignments are "open book, open internet", you may use whatever resources you desire to complete the assignment. Though only assignments specifically noted as group assignments should be worked on with other people.
 
 ### Makeup and Late policy
 
