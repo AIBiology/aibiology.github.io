@@ -8,8 +8,6 @@ summary: Course website for the Spring 2022 edition of Zoo4926 (section 4G55) / 
 toc: false
 ---
 
-{% include warning.html content="I am in the process of updating this site for Spring 2022. The course goals and overall structure are there, but dates, assignments, details are still being updated." %}
-
 ## Course Description
 
 {% include image.html max-width=400 file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
