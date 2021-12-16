@@ -32,7 +32,7 @@ weight: 0.1
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li> Nothing, just come to class! 😁 </li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
@@ -52,12 +52,18 @@ weight: 0.1
 </ul>
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
-      <ol>
-        <li>Historical Context</li>
+    <ol>
+      <li> Nothing, just come to class! 😁 </li>
+    </ol>
+  </div>
+  <div role="tabpanel" class="tab-pane" id="FriDuring">
+    <ol>
+      <li>Historical Context</li>
       <ul>
         <li>Origins of AI as an academic discipline.</li>
         <li>A repeating pattern: major hype and enthusiasm followed by an AI “winter”</li>
-        </li>Where are we now?</li>\
+        <li>Where are we now?</li>
+        <li>Constant need to question!</li>
       </ul>
       </ol>
     </div>
