@@ -31,7 +31,7 @@ The initial version of this course, taught in Spring 2021, was co-developed with
 
 In addition to this course, Matt teaches
   * [Computational Tools for Research in Biology (BSC4452/6451)](https://comptoolsres.github.io/)
-  * Frontiers in AI (EGN1935, Fall 2021. Will likely be offered in Fall 2022 as a IDS class!)
+  * Frontiers in AI (EGN1935, Fall 2021. Will likely be offered in Fall 2022 as an IDS class!)
   * [Practicum AI](https://practicumai.org/)
   * [Research Computing Trainings](https://help.rc.ufl.edu/doc/Training)
   * [NVIDIA DLI Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) certified instructor
@@ -46,7 +46,7 @@ ___
 The course assumes a **basic understanding of computer programming** in general, and Python in particular.
 
 If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course (these are free for UF Students):
-
+  {% include note.html content="Note, you do not need to do all of these. Any **one** would get you at a good place to start the semester. We will review the basics of Python in the first weeks." %}
 * [Programming Foundations: Fundamentals](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-fundamentals-3%3Ftrk%3Dshare_ent_url&account=41282748)
   * This course is best for people with no coding experience.
   * Most of the hands-on examples are in Python
@@ -56,7 +56,7 @@ If you have not taken a programming course or are new to Python, there are sever
   * Another option for those with some coding experience
 
 
- {% include note.html content="Note, you do not need to do all of these. Any **one** would get you at a good place to start the semester. We will review the basics of Python in the first weeks." %}
+
 
 ### Math
 
@@ -71,14 +71,14 @@ ___
 
 * **Mon, Wed, Fri from 1:55pm - 2:45pm in Bartram 211**
 
- {% include important.html content="You should make every effort to attend class synchronously. While I will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
+    {% include important.html content="You should make every effort to attend class synchronously. While I will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
 
 * I understand that some students will need to miss classes sometimes. That is fine and I will do my best to help you catch up, but regular attendance is the best way to learn.
 
 ___
 {% include custom/office_hours.html %}
 
- {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. **I expect that you will need help. You should expect that you will need help.** I want to help you! I cannot always help if you do not ask for the help you need. *Please ask for help!*" %}
+ {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. <br>**I expect that you will need help. You should expect that you will need help.** <br>I want to help you! I cannot always help if you do not ask for the help you need. ***Please ask for help!***" %}
 
 ___
 ## Course Textbooks
@@ -101,8 +101,8 @@ For readings, there may be links to pages with my notes and additional explanati
 
 Week | Date | Reading/Assignment |Topic |
 -----|------|--------------------|------|
-[1](Week_01.html) | Wed, Jan 5 |  | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))<BR> What is AI, what is intelligence, what AI isn’t ([slides](documents/intro_to_AI.pdf))
-[1](Week_01.html) | Fri, Jan 7 | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Historical Context ([slides](documents/intro_to_AI.pdf))<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>
+[1](Week_01.html) | Wed, Jan 5 | **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))
+[1](Week_01.html) | Fri, Jan 7 | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
 |||
 [2](Week_02.html) | Mon, Jan 10 | | [Introduction to Jupyter](jupyter_intro.md)
 [2](Week_02.html) | Wed, Jan 12 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb)
