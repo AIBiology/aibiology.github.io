@@ -14,11 +14,11 @@ weight: 0.2
 ## Overview for Week {{page.week_num}}
 
 * Introduction to Python
-* 
+
 
 ## What's due by the end of the week?
 
-* 
+* Nothing! 👍
 
 ## For Monday
 
@@ -42,6 +42,7 @@ weight: 0.2
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
         <li><a href="jupyter_intro.html">Intro to Jupyter</a></li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Jupyter.ipynb">Intro to Jupyter Notebook</a></li>
     </ol>
   </div>
 </div>
@@ -57,7 +58,7 @@ weight: 0.2
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li></li>
+      <li>Nothing, just come to class! 😁</li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
