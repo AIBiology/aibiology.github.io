@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Jan 18-22"
+title: "Week 2: Jan 10-14"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_02.html
@@ -31,12 +31,17 @@ weight: 0.2
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li>MLK Holiday, No class</li>
+      <li></li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-    <li>MLK Holiday, No class</li>
+    <li> Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html"PDSH Ch 5</a></li>
+      </ol>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="FriDuring">
+      <ol>
+        <li><a href="jupyter_intro.html">Intro to Jupyter</a></li>
     </ol>
   </div>
 </div>
@@ -73,7 +78,7 @@ weight: 0.2
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
+        <li>Review and be ready to ask questions about anything you are unsure of.</li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
@@ -87,8 +92,8 @@ weight: 0.2
 
 {% include image.html file='checkmark.png' alt="Check mark icon" position="right" max-width=75 %}
 
-* Be able to log into [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu) (requires UF network or VPN)
-* Be able to use Jupyter notebooks for code and markdown blocks
+* Be able to log into [ood.rc.ufl.edu](https://ood.rc.ufl.edu) or [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu) (requires UF network or VPN)
+* Be able to use Jupyter notebooks to write an execute code and markdown blocks
 * Understand the basics of Python including:
   * Python syntax
   * Variables and data types
@@ -96,6 +101,8 @@ weight: 0.2
   * For Loops
   * Conditionals (if/elif/else)
   * Functions
+* Problem Set 1 will be available in Canvas. It is due {{site.ps_1_due}}.
+
 
 {% include custom/office_hours.html %}
 

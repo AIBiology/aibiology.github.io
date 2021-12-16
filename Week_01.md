@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Jan 11-15"
+title: "Week 1: Jan 5-7"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_01.html
@@ -14,32 +14,12 @@ weight: 0.1
 ## Overview for Week {{page.week_num}}
 
 * Introduction to the class
-* 
+* A brief introduction and history of AI
 
 ## What's due by the end of the week?
 
-* [Take the HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0)
+* [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training)
 
-## For Monday
-
-{% include image.html file='monday.png' alt="Calendar icon with Monday" position="right" max-width=75 %}
-
-<ul id="MondayTabs" class="nav nav-tabs">
-    <li class="active"><a href="#MonBefore" data-toggle="tab">Before Class</a></li>
-    <li><a href="#MonDuring" data-toggle="tab">During Class</a></li>
-</ul>
-<div class="tab-content">
-  <div role="tabpanel" class="tab-pane active" id="MonBefore">
-    <ul>
-      <li>Please <a href="https://ufl.qualtrics.com/jfe/form/SV_5j6lX226iU09hD7">take this survey<a> about your programming and Python background</li>
-    </ul>
-  </div>
-  <div role="tabpanel" class="tab-pane" id="MonDuring">
-    <ol>
-    <li>Welcome and overview of class.</li>
-    </ol>
-  </div>
-</div>
 
 ## For Wednesday
 
@@ -57,12 +37,7 @@ weight: 0.1
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Historical Context</li>
-      <ul>
-        <li>Origins of AI as an academic discipline.</li>
-        <li>A repeating pattern: major hype and enthusiasm followed by an AI “winter”</li>
-        </li>Where are we now?</li>\
-      </ul>
+      <li>Intro to the Class</li>
     </ol>
   </div>
 </div>
@@ -78,12 +53,12 @@ weight: 0.1
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html"PDSH Ch 5</a></li>
-      </ol>
-    </div>
-    <div role="tabpanel" class="tab-pane" id="FriDuring">
-      <ol>
-        <li><a href="jupyter_intro.html">Intro to Jupyter</a></li>
+        <li>Historical Context</li>
+      <ul>
+        <li>Origins of AI as an academic discipline.</li>
+        <li>A repeating pattern: major hype and enthusiasm followed by an AI “winter”</li>
+        </li>Where are we now?</li>\
+      </ul>
       </ol>
     </div>
 </div>

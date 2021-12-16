@@ -7,7 +7,7 @@ summary: Introduction to Jupyter Notebooks and using HiPerGator
 keywords: jupyter, python, notebooks, hipergator
 ---
 
-Throughout the semester we will be using Python for our hands-on AI work. While there are other languages and methods of using AI tools, our impression is that Python offers both the most robust set of tools and the most user-friendly access to general purpose tools.
+Throughout the semester we will be using Python for our hands-on AI work. While there are other languages and methods of using AI tools, my impression is that Python offers both the most robust set of tools and the most user-friendly access to general purpose tools.
 
 One textbook source that we will use for this and other classes is Jake VanderPlas' [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). This book is freely available in several formats, including a PDF and as Jupyter Notebooks. [{% include inline_image.html file='PDSH-cover-small.png' alt="PDSH textbook icon" %}](https://github.com/jakevdp/PythonDataScienceHandbook)
 
@@ -24,7 +24,7 @@ As the text notes in the first chapter, there are several ways of running Python
 
 ## Running Python - Jupyter / IPython Notebooks
 
-Notebooks are part of what is often referred to as "literate programming". They allow you to mix code, output, richly formatted text and images all on one page, usually viewed in a web browser. The idea is that you can cleanly document, using formatted text (headers, bold, lists, images, etc.) what blocks of code do, explaining each block's purpose, functionality, etc. This enables you to tell a story with your code and data.
+Notebooks are part of what is often referred to as "literate programming". They allow you to mix code, output, richly formatted text and images all on one page, usually viewed in a web browser. The idea is that you can cleanly document, using formatted text (headers, bold, lists, images, etc.) what each block of code does, explaining each block's purpose, functionality, etc. This enables you to tell a story with your code and data.
 
 The text uses **IPython notebooks**, which are a slightly older, but mostly compatible, version of what are now more generally referred to a **Jupyter Notebooks**. [Jupyter](https://jupyter.org/) stands for *Ju*lia, *Py*thon and *R*, and indeed, Jupyter supports these and other languages, not just Python, hence the name change as functionality was expanded.
 
@@ -32,7 +32,7 @@ As with Python itself, there are several options for running Jupyter Notebooks. 
 
 ### Jupyter Notebooks via jupyterhub.rc.ufl.edu
 
-Perhaps the easiest method or running Jupyter notebooks on HiPerGator is to use the [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu/) server.
+Perhaps the easiest method for running Jupyter notebooks on HiPerGator is to use the [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu/) server.
 
 {% include important.html content="You must be on the UF network to access jupyterhub.rc.ufl.edu! If you are not on campus, you can use the <a href='https://vpn.ufl.edu'>UF VPN.</a>" %}
 
@@ -40,7 +40,7 @@ After logging in with your GatorLink username and password, you should get to a 
 
 {% include image.html file='jupyter_server_options.png' alt="Screenshot of Server options page at jhub.rc.ufl.edu" %}
 
-The dropdown menu allows you to select different resources, which are used in scheduling your job. [Remember](https://help.rc.ufl.edu/doc/New_user_training#Scheduling_a_Job) that the SLURM scheduler needs information about how many cores, how much memory, how many GPUs and how long you want the resources.
+The dropdown menu allows you to select different resources, which are used in scheduling your job. [Remember](https://help.rc.ufl.edu/doc/New_user_training#Scheduling_a_Job) that the SLURM scheduler needs information about how many cores, how much memory, how many GPUs, and how long you want the resources.
 
 For now, leave the "Teaching - 1 CPU core, 1GB RAM, 2h" selected and click Start. This submits a job to the scheduler, requesting those resources for 2 hours and launches the Jupyter server. This normally only takes a few minutes, and you should get a window similar to the one below, which is annotated to show key portions of the interface.
 
@@ -67,9 +67,8 @@ We will pickup with using the notebook after looking at other methods of running
 Pros | Cons |
 -----|------|
 Easy to use | Limited in resource options
-All Notebook tabs are in one browser window | Always uses your primary group
-Integrates with github | 
-Has several plugins that add new features | 
+ | Always uses your primary group
+
 
 ### Jupyter Notebooks via ood.rc.ufl.edu
 
@@ -91,9 +90,7 @@ After specifying the options you want, click the Launch button. The page that co
 
 {% include image.html file='ood_connect.png' alt="Screenshot of the Connect to Jupyter screen" %}
 
-The Jupyter interface is a little simpler than JupyterHub. Similar to JupyterHub, the main window is your home directory (`/home/<gatorlink>`). Similar to JupyterHub, we need to add a link to the `/blue/zoo6927` directory. You can open a terminal from the last option of the New menu.
-
-{% include image.html file='jupyter_file_explorer.png' alt="Screenshot of the Jupyter file explorer showing New menu options" %}
+The Jupyter interface should looks about the same as the image above for jhub.
 
 As before, if you have not already created a link, open a terminal and type the command: `ln -s /blue/zoo6927 blue_zoo6927`. Click through the folders to get to `blue_zoo6927/share/Jupyter_Content/Intro_to_Jupyter.ipynb` and open that.
 
@@ -104,12 +101,11 @@ We will pickup with using the notebook after looking at other methods of running
 Pros | Cons |
 -----|------|
 Full resource options | Slightly less simple
-Can use secondary groups | Each tab is its own browser tab
-No integration with github | No plugins
+Can use secondary groups | 
 
 ### Jupyter Notebooks via Google Colaboratory
 
-If you find yourself not able or wanting to use HiPerGator, you Google offers a (mostly) free service called the Google Colaboratory at [https://colab.research.google.com/](https://colab.research.google.com/). You do need a Google account, and remember that UF work should be conducted with a UF affiliated Google account. 
+If you find yourself not able or wanting to use HiPerGator, Google offers a (mostly) free service called the Google Colaboratory at [https://colab.research.google.com/](https://colab.research.google.com/). You do need a Google account, and remember that UF work should be conducted with a UF affiliated Google account. 
 
 {% include image.html file='colab_welcome.png' alt="Screenshot of the Google Colaboratory Welcome Screen" %}
 
@@ -133,7 +129,7 @@ Again, there are several options here, I won't go into great detail because, esp
 
 #### Local Notebooks in VSCode
 
-[Microsoft VS Code](https://code.visualstudio.com/) is a very nice, free, cross platform, text editor. There is a [page with detailed instructions](https://code.visualstudio.com/docs/python/jupyter-support) on running Jupyter notebooks within VSCode, but mostly, once setup, if you open a .ipynb file or save a new file with the `.ipynb` extension, VSCode will run it as a Jupyter notebook right in the text editor.
+[Microsoft VS Code](https://code.visualstudio.com/) is a very nice, free, cross platform, text editor. VSCode now runs Jupyter Notebooks natively. You do need to install Python, but that can also be done with a click of a button in VSCode.
 
 {% include image.html file='vscode_jupyter.png' alt="Screenshot of a Jupyter Notebook running in VSCode" %}
 
@@ -143,7 +139,7 @@ The other common way to run notebooks locally is with [Anaconda Python](https://
 
 ## Running Python - Scripts
 
-We likely won't spend much of the semester on writing Python scripts, but this is always an option. Data Science and AI research tends to be somewhat more exploratory and many "production" use cases rely on notebooks as step-by-step evaluation and adjustments are commonly needed.
+We likely won't spend much of the semester on writing Python scripts, but this is always an option. Data Science and AI research tends to be somewhat more exploratory and even many "production" use cases rely on notebooks as step-by-step evaluation and adjustments are commonly needed. That said, after testing and development in notebooks, it is very easy to export your notebook to a script to run on larger datasets.
 
 ## And now onto Jupyter!
 
