@@ -36,7 +36,7 @@ weight: 0.2
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-    <li> Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html"PDSH Ch 5</a></li>
+    <li> Read  <a href="https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html'>PDSH Chapter 1: IPython: Beyond Normal Python</a></li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
@@ -102,8 +102,7 @@ weight: 0.2
   * For Loops
   * Conditionals (if/elif/else)
   * Functions
-* Problem Set 1 will be available in Canvas. It is due {{site.ps_1_due}}.
-
+* Problem Set 1 will be available in Canvas. It is due {{site.ps_1_due}}
 
 {% include custom/office_hours.html %}
 

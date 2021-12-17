@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Jan 25-29"
+title: "Week 3: Jan 17-21"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_03.html
@@ -18,7 +18,7 @@ weight: 0.3
 
 ## What's due by the end of the week?
 
-* 
+* Problem set 1 is due {{site.ps_1_due}}
 
 ## For Monday
 
@@ -31,12 +31,12 @@ weight: 0.3
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html">PDSH Ch 2: Introduction to NumPy</a></li>
+      <li>MLK Holiday, No Class</li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb">Introduction to NymPy</a></li>
+      <li>MLK Holiday, No Class</li>
     </ol>
   </div>
 </div>
@@ -52,16 +52,17 @@ weight: 0.3
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html"PDSH Ch 3: Data Manipulation with Pandas</a></li>
-    </ol>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html">PDSH Ch 2: Introduction to NumPy</a></li>
+    </ul>
   </div>
+ 
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Intro to Pandas</li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb">Introduction to NymPy</a></li>
     </ol>
   </div>
 </div>
-
+    
 ## For Friday
 
 {% include image.html file='friday.png' alt="Calendar icon with Friday" position="right" max-width=75 %}
@@ -73,8 +74,8 @@ weight: 0.3
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
-      </ol>
+        <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html"PDSH Ch 3: Data Manipulation with Pandas</a></li>
+    </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
@@ -93,7 +94,7 @@ weight: 0.3
 * Understand the basics of:
   * Pandas
   * NumPy
-  * Using functions, commenting code, best practices
+  * Using functions, commenting code, best practices in coding
 
 {% include custom/office_hours.html %}
 
