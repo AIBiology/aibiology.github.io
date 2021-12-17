@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Feb 15-19"
+title: "Week 6: Feb 7-11"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_06.html
@@ -13,11 +13,12 @@ weight: 0.6
 
 ## Overview for Week {{page.week_num}}
 
-* Tree-Based Methods
+* Linear regression in an ML framework
+* 
 
 ## What's due by the end of the week?
 
-* 
+* Nothing this week, but problem set 3 is due {{site.ps_3_due}}
 
 ## For Monday
 
@@ -30,14 +31,14 @@ weight: 0.6
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li></li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html">PDSH section 5.06: Linear Regressoin</a></li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
+      <li></li>
       <ul>
-        <li> </li></li>
+        <li> </li>
       </ul> 
     </ol>
   </div>
@@ -54,7 +55,7 @@ weight: 0.6
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li>Nothing, just come to class</li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
@@ -75,7 +76,7 @@ weight: 0.6
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
+        <li>Nothing, just come to class</li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
@@ -90,7 +91,8 @@ weight: 0.6
 
 {% include image.html file='checkmark.png' alt="Check mark icon" position="right" max-width=75 %}
 
-
+* Understand Linear regression methods recast into ML frameworks.
+* Have a good start on Problem Set 3, it's due {{site.ps_3_due}}
 
 {% include custom/office_hours.html %}
 

@@ -1,5 +1,5 @@
 ---
-title: "Week 15: Apr 19-21"
+title: "Week 15: Apr 11-15"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_15.html
@@ -13,11 +13,12 @@ weight: 1.5
 
 ## Overview for Week {{page.week_num}}
 
-* TBD
+* Work on Projects
 
 ## What's due by the end of the week?
 
-* 
+* Problem Set 6 is due {{site.ps_6_due}}
+* Project is due {{site.project_due}}
 
 ## For Monday
 
@@ -35,10 +36,7 @@ weight: 1.5
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> </li></li>
-      </ul> 
+      <li>Work on project</li>
     </ol>
   </div>
 </div>
@@ -59,9 +57,30 @@ weight: 1.5
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li>Work on project</li>
     </ol>
   </div>
+</div>
+
+## For Friday
+
+{% include image.html file='friday.png' alt="Calendar icon with Friday" position="right" max-width=75 %}
+
+<ul id="FridayTabs" class="nav nav-tabs">
+    <li class="active"><a href="#FriBefore" data-toggle="tab">Before Class</a></li>
+    <li><a href="#FriDuring" data-toggle="tab">During Class</a></li>
+</ul>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="FriBefore">
+      <ol>
+        <li> </li>
+      </ol>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="FriDuring">
+      <ol>
+        <li>Work on project</li>
+      </ol>
+    </div>
 </div>
 
 ## By the end of this week you should

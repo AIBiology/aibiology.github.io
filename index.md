@@ -116,7 +116,7 @@ Week | Date | Reading/Assignment |Topic |
 [4](Week_04.html) | Wed, Jan 26 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) |  [Introduction to machine learning and supervised learning](https://github.com/AIBiology/Jupyter_Content/blob/main/intro_to_supervised_learning.ipynb)
 [4](Week_04.html) | Fri, Jan 28 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | Introducing Scikit-Learn
 |||
-[5](Week_05.html) | Mon, Jan 31 |  [![PDSH Image](images/PDSH-cover-small.png) Section 5.03 of PDSH: Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) **Problem Set 2 due** |Bias/variance tradeoff and regularization <br> Model validation, cross-validation, and hyperparameters
+[5](Week_05.html) | Mon, Jan 31 |  [![PDSH Image](images/PDSH-cover-small.png) Section 5.03 of PDSH: Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) <br> **Problem Set 2 due** |Bias/variance tradeoff and regularization <br> Model validation, cross-validation, and hyperparameters
 [5](Week_05.html) | Wed, Feb 2 |  | Bias/variance tradeoff and regularization <br> Model validation, cross-validation, and hyperparameters
 [5](Week_05.html) | Fri, Feb 4 | [![PDSH Image](images/PDSH-cover-small.png) Section 5.04 of PDSH: Feature Engineering](https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html)|  Bias/variance tradeoff and regularization <br> Model validation, cross-validation, and hyperparameters
 |||
@@ -127,8 +127,8 @@ Week | Date | Reading/Assignment |Topic |
 [7](Week_07.html) | Mon, Feb 14 | **Problem Set 3 due**   | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
 [7](Week_07.html) | Wed, Feb 16 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb) 
 [7](Week_07.html) | Fri, Feb 18 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
-[8](Week_08.html) | Mon, Feb 21 |  Problem set 4 available, due {{site.ps_4_due}} | Intro to Artificial Neural Networks
-[8](Week_08.html) | Wed, Feb 23 | | Intro to Artificial Neural Networks
+[8](Week_08.html) | Mon, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests)](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br> Problem set 4 available, due {{site.ps_4_due}} | Intro to Artificial Neural Networks
+[8](Week_08.html) | Wed, Feb 23 | | Decision Trees and Random Forests
 [8](Week_08.html) | Fri, Feb 25 | | Intro to Artificial Neural Networks
 |||
 [9](Week_09.html) | Mon, Feb 28 | **Problem Set 4 due**  | Convolutional Neural Networks

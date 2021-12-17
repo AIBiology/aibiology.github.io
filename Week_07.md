@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Feb 22-26"
+title: "Week 7: Feb 18-23"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_07.html
@@ -30,15 +30,12 @@ weight: 0.7
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li></li>
+      <li>Nothing, just come to class</li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> </li></li>
-      </ul> 
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb">Classification, logistic regression</a></li>
     </ol>
   </div>
 </div>
@@ -54,12 +51,12 @@ weight: 0.7
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html">PDSH Section 5.07: Support Vector Machines</a></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb">Support Vector Machines</a></li>
     </ol>
   </div>
 </div>
@@ -75,12 +72,16 @@ weight: 0.7
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
+        <li>Nothing, just come to class</li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
+        <li>Hands-on SVMs Work through either:
+        <ul>
+            <li><a href="https://kapernikov.com/tutorial-image-classification-with-scikit-learn/">Tutorial: image classification with scikit-learn</a></li>
+            <li><a href="https://github.com/andreybicalho/ExtendedMorphologicalProfiles">
+Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines </a></li>
         </ul>
       </ol>
     </div>
@@ -90,7 +91,7 @@ weight: 0.7
 
 {% include image.html file='checkmark.png' alt="Check mark icon" position="right" max-width=75 %}
 
-
+* Understand the use of Support Vector Machines in ML
 
 {% include custom/office_hours.html %}
 

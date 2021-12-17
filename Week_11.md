@@ -1,5 +1,5 @@
 ---
-title: "Week 11: Mar 22-26"
+title: "Week 11: Mar 14-18"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_11.html
@@ -13,11 +13,12 @@ weight: 1.1
 
 ## Overview for Week {{page.week_num}}
 
-* Symbolic AI
+* Transfer Learning
+* Time Series Analysis with RNNs
 
 ## What's due by the end of the week?
 
-* Problem Set 5 is due {{site.ps_5_due}}
+* Nothing this week, but problem Set 5 is due {{site.ps_5_due}}
 
 ## For Monday
 
@@ -35,10 +36,7 @@ weight: 1.1
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> </li></li>
-      </ul> 
+      <li>Transfer learning</li>
     </ol>
   </div>
 </div>
@@ -59,8 +57,7 @@ weight: 1.1
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
-    </ol>
+      <li>Time series analysis with RNNs</li>
   </div>
 </div>
 
@@ -80,8 +77,7 @@ weight: 1.1
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
-        </ul>
+        <li>Time series analysis with RNNs</li>
       </ol>
     </div>
 </div>

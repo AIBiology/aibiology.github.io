@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Feb 1-5"
+title: "Week 4: Jan 26-28"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_04.html
@@ -18,7 +18,7 @@ weight: 0.4
 
 ## What's due by the end of the week?
 
-* Problem Set 1 is due {{site.ps_1_due}}
+* Problem set 2 should be worked on this week. Some of it will be done in class. It is available starting Monday, and is due {{site.ps_2_due}}
 
 ## For Monday
 
@@ -31,15 +31,12 @@ weight: 0.4
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li></li>
+      <li>Nothing, just come to class!</li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>A general framework for machine learning</li>
-      <ul>
-        <li> data --> features --> prediction function --> loss --> optimization</li>
-      </ul> 
+      <li>More data visualization and analysis</li>
     </ol>
   </div>
 </div>
@@ -55,13 +52,14 @@ weight: 0.4
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li>Read <a href"https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html">PDSH section 5.01 (not the whole chapter, just 5.01)</a></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
-    <ol>
-      <li>Hands onn: Data</li>
-    </ol>
+    <li>A general framework for machine learning</li>
+      <ul>
+        <li> data --> features --> prediction function --> loss --> optimization</li>
+      </ul> 
   </div>
 </div>
 
@@ -76,12 +74,12 @@ weight: 0.4
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
+        <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html">PDSH section 5.02 (again, just that section)</a> </li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li>Hands on: prediction, loss, optimization</li>
+        <li>Introducing Scikit-Learn</li>
         </ul>
       </ol>
     </div>

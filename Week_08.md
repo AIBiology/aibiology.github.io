@@ -1,5 +1,5 @@
 ---
-title: "Week 8: Mar 1-5"
+title: "Week 8: Feb 21-25"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_08.html
@@ -13,7 +13,7 @@ weight: 0.8
 
 ## Overview for Week {{page.week_num}}
 
-* Supervised vs unsupervised learning
+* Intro to Artificial Neural Networks
 
 ## What's due by the end of the week?
 
@@ -35,10 +35,7 @@ weight: 0.8
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> </li></li>
-      </ul> 
+      <li>Intro to Artificial Neural Networks</li> 
     </ol>
   </div>
 </div>
@@ -59,7 +56,7 @@ weight: 0.8
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li>Intro to Artificial Neural Networks</li>
     </ol>
   </div>
 </div>
@@ -80,8 +77,7 @@ weight: 0.8
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
-        </ul>
+        <li> Intro to Artificial Neural Networks</li>
       </ol>
     </div>
 </div>

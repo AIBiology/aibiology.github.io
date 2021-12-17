@@ -1,5 +1,5 @@
 ---
-title: "Week 5: Feb 8-12"
+title: "Week 5: Jan 31-Feb 4"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_05.html
@@ -13,8 +13,9 @@ weight: 0.5
 
 ## Overview for Week {{page.week_num}}
 
-* Statistics refresher
-* Linear regression using ML framework
+* Bias-Variance Tradeoff
+* Hyperparameters and model validation
+* Feature engineering
 
 ## What's due by the end of the week?
 
@@ -96,7 +97,8 @@ weight: 0.5
 
 * Have a general understanding of classical statistical principles
 * Begin to see how these are re-cast in machine learning context
-* Apply machine learning methods to linear regression
+* Understand how to validate machine learning models
+* Understand hyperparameters
 
 {% include custom/office_hours.html %}
 

@@ -1,5 +1,5 @@
 ---
-title: "Week 9: Mar 8-12"
+title: "Week 9: Feb 28-Mar 4"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_09.html
@@ -13,7 +13,7 @@ weight: 0.9
 
 ## Overview for Week {{page.week_num}}
 
-* Neural Networks
+* Convolutional Neural Networks
 
 ## What's due by the end of the week?
 
@@ -35,10 +35,7 @@ weight: 0.9
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> </li></li>
-      </ul> 
+      <li>Convolutional Neural Networks</li>
     </ol>
   </div>
 </div>
@@ -59,7 +56,7 @@ weight: 0.9
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li>Convolutional Neural Networks</li>
     </ol>
   </div>
 </div>
@@ -80,8 +77,7 @@ weight: 0.9
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
-        </ul>
+        <li>Convolutional Neural Networks</li>
       </ol>
     </div>
 </div>

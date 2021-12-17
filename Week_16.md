@@ -1,24 +1,23 @@
 ---
-title: "Week 14: Apr 4-8"
+title: "Week 16: Apr 18-20"
 tags: [week-by-week]
 sidebar: home_sidebar
-permalink: Week_14.html
+permalink: Week_15.html
 toc: false
-week_num: 14
+week_num: 16
 series: "Week-by-week series"
-weight: 1.4
+weight: 1.6
 ---
 
 {% include custom/series_week_by_week.html %}
 
 ## Overview for Week {{page.week_num}}
 
-* Medical Image Analysis
-* Additional Topics TBD
+* Project presentations
 
 ## What's due by the end of the week?
 
-* Not this week, but Problem set 6 is due {{site.ps_6_due}} and the project is due {{site.project_due}}
+* Nothing
 
 ## For Monday
 
@@ -36,7 +35,7 @@ weight: 1.4
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Medical Image Analysis</li>
+      <li>Project presentations</li>
     </ol>
   </div>
 </div>
@@ -57,37 +56,17 @@ weight: 1.4
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Medical Image Analysis </li>
+      <li>Project presentations</li>
     </ol>
   </div>
 </div>
 
-## For Friday
-
-{% include image.html file='friday.png' alt="Calendar icon with Friday" position="right" max-width=75 %}
-
-<ul id="FridayTabs" class="nav nav-tabs">
-    <li class="active"><a href="#FriBefore" data-toggle="tab">Before Class</a></li>
-    <li><a href="#FriDuring" data-toggle="tab">During Class</a></li>
-</ul>
-<div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="FriBefore">
-      <ol>
-        <li> </li>
-      </ol>
-    </div>
-    <div role="tabpanel" class="tab-pane" id="FriDuring">
-      <ol>
-        <li>Topics TBD </li>
-      </ol>
-    </div>
-</div>
 
 ## By the end of this week you should
 
 {% include image.html file='checkmark.png' alt="Check mark icon" position="right" max-width=75 %}
 
-
+* Done with everything for the class!!
 
 {% include custom/office_hours.html %}
 

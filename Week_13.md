@@ -1,5 +1,5 @@
 ---
-title: "Week 13: Apr 5-9"
+title: "Week 13: Mar 28-Apr 1"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_13.html
@@ -13,7 +13,8 @@ weight: 1.3
 
 ## Overview for Week {{page.week_num}}
 
-* TBD
+* More NLP
+* Transformers
 
 ## What's due by the end of the week?
 
@@ -37,8 +38,7 @@ weight: 1.3
     <ol>
       <li>Classical statistics revisited</li>
       <ul>
-        <li> </li></li>
-      </ul> 
+        <li>NLP and Transformers</li>
     </ol>
   </div>
 </div>
@@ -59,7 +59,7 @@ weight: 1.3
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li>Transformers</li>
     </ol>
   </div>
 </div>
@@ -80,8 +80,7 @@ weight: 1.3
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
-        </ul>
+        <li> Transformers</li>
       </ol>
     </div>
 </div>

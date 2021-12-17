@@ -1,5 +1,5 @@
 ---
-title: "Week 12: Mar 29 - Apr 2"
+title: "Week 12: Mar 21 - Mar 25"
 tags: [week-by-week]
 sidebar: home_sidebar
 permalink: Week_12.html
@@ -13,11 +13,12 @@ weight: 1.2
 
 ## Overview for Week {{page.week_num}}
 
-* Symbolic AI
+* Time Series Analysis with RNNs
+* Natural Language Processing
 
 ## What's due by the end of the week?
 
-* 
+* Problem set 5 is due {{site.ps_5_due}}
 
 ## For Monday
 
@@ -35,10 +36,7 @@ weight: 1.2
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> </li></li>
-      </ul> 
+      <li>Time Series Analysis with RNNs</li>
     </ol>
   </div>
 </div>
@@ -59,7 +57,7 @@ weight: 1.2
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li>Natural Language Processing</li>
     </ol>
   </div>
 </div>
@@ -80,8 +78,7 @@ weight: 1.2
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
-        </ul>
+        <li>Natural Language Processing</li>
       </ol>
     </div>
 </div>
