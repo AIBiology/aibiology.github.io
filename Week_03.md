@@ -53,7 +53,7 @@ weight: 0.3
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
       <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html">PDSH Ch 2: Introduction to NumPy</a></li>
-    </ul>
+    </ol>
   </div>
  
   <div role="tabpanel" class="tab-pane" id="WedDuring">
@@ -74,7 +74,7 @@ weight: 0.3
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html"PDSH Ch 3: Data Manipulation with Pandas</a></li>
+        <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html">PDSH Ch 3: Data Manipulation with Pandas</a></li>
     </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">

@@ -36,8 +36,6 @@ weight: 1.3
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
         <li>NLP and Transformers</li>
     </ol>
   </div>

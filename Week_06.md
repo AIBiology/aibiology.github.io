@@ -37,9 +37,6 @@ weight: 0.6
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
       <li></li>
-      <ul>
-        <li> </li>
-      </ul> 
     </ol>
   </div>
 </div>
@@ -82,7 +79,6 @@ weight: 0.6
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
         <li> </li>
-        </ul>
       </ol>
     </div>
 </div>

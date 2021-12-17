@@ -32,7 +32,7 @@ weight: 0.5
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li></li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html">PDSH Section 5.03: Hyperparameters and Model Validation</a></li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
@@ -59,12 +59,13 @@ weight: 0.5
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li> </li>
+      <li>Nothing, just come to class</li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Hands onn: regression analysis</li>
+      <li>Bias/variance tradeoff and regularization</li>
+      <li>Model validation, cross-validation, and hyperparameters</li>
     </ol>
   </div>
 </div>
@@ -80,14 +81,14 @@ weight: 0.5
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li> </li>
+        <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html">PDSH Section 5.04: Feature Engineering</a></li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
-      <ol>
-        <li>Hands on</li>
-        </ul>
-      </ol>
+     <ol>
+      <li>Bias/variance tradeoff and regularization</li>
+      <li>Model validation, cross-validation, and hyperparameters</li>
+    </ol>
     </div>
 </div>
 

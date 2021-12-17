@@ -52,7 +52,7 @@ weight: 0.4
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="WedBefore">
     <ol>
-      <li>Read <a href"https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html">PDSH section 5.01 (not the whole chapter, just 5.01)</a></li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html">PDSH section 5.01 (not the whole chapter, just 5.01)</a></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">

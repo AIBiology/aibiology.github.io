@@ -77,11 +77,10 @@ weight: 0.7
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li>Hands-on SVMs Work through either:
+        <li>Hands-on SVMs Work through either:</li>
         <ul>
             <li><a href="https://kapernikov.com/tutorial-image-classification-with-scikit-learn/">Tutorial: image classification with scikit-learn</a></li>
-            <li><a href="https://github.com/andreybicalho/ExtendedMorphologicalProfiles">
-Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines </a></li>
+            <li><a href="https://github.com/andreybicalho/ExtendedMorphologicalProfiles">Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines</a></li>
         </ul>
       </ol>
     </div>

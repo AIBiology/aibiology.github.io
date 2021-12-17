@@ -58,6 +58,7 @@ weight: 1.1
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
       <li>Time series analysis with RNNs</li>
+    </ol>
   </div>
 </div>
 

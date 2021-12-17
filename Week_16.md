@@ -2,7 +2,7 @@
 title: "Week 16: Apr 18-20"
 tags: [week-by-week]
 sidebar: home_sidebar
-permalink: Week_15.html
+permalink: Week_16.html
 toc: false
 week_num: 16
 series: "Week-by-week series"
