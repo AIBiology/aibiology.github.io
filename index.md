@@ -75,6 +75,8 @@ ___
 
 * I understand that some students will need to miss classes sometimes. That is fine and I will do my best to help you catch up, but regular attendance is the best way to learn.
 
+* While the University has not made any statements about COVID protocols for Spring 2022, I expect that some students will want to participate remotely. At this time, I plan to use Zoom for hybrid presentation of the course and will record all sessions. The links are in Canvas.
+
 ___
 {% include custom/office_hours.html %}
 
