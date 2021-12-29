@@ -107,7 +107,7 @@ Week | Date | Reading/Assignment |Topic |
 [1](Week_01.html) | Fri, Jan 7 | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
 |||
 [2](Week_02.html) | Mon, Jan 10 | [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](hhttps://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
-[2](Week_02.html) | Wed, Jan 12 | | [Introduction to Python]https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
+[2](Week_02.html) | Wed, Jan 12 | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
 [2](Week_02.html) | Fri, Jan 14 |  Problem set 1 available, due {{site.ps_1_due}} | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
 |||
 [3](Week_03.html) | Mon, Jan 17 | | MLK: No Class
