@@ -79,7 +79,7 @@ weight: 0.5
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
       <ol>
-        <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html">PDSH Section 5.04: Feature Engineering</a></li>
+        <li>Read/skim <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html">PDSH Section 5.04: Feature Engineering</a>: This chapter is worth a quick read. We won't cover it in detail though</li>
       </ol>
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
