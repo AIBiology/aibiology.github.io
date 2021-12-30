@@ -58,7 +58,7 @@ weight: 0.3
  
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Numpy_Student.ipynb">Introduction to NymPy</a></li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb">Introduction to NymPy</a></li>
     </ol>
   </div>
 </div>
@@ -79,8 +79,8 @@ weight: 0.3
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Pandas_student.ipynb">Introduction to Pandas</a></li>
-        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Pandas_data_vis.ipynb">Data Visualization in Pandas</a></li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb">Introduction to Pandas</a></li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb">Data Visualization in Pandas</a></li>
       </ol>
     </div>
 </div>

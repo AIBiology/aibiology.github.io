@@ -37,13 +37,10 @@ weight: 0.5
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>Classical statistics revisited</li>
-      <ul>
-        <li> Statistical models as ML</li>
-        <li>Bias/variance tradeoff</li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb">Bias/variance tradeoff</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing">Some slides too</a></li>
         <li>Regularization</li>
         <li>Logistic regression and Classification (Including classification metrics)</li>
-      </ul> 
     </ol>
   </div>
 </div>
@@ -64,7 +61,8 @@ weight: 0.5
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Bias/variance tradeoff and regularization</li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb">Bias/variance tradeoff</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing">Some slides too</a></li>
       <li>Model validation, cross-validation, and hyperparameters</li>
     </ol>
   </div>
@@ -86,8 +84,8 @@ weight: 0.5
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
      <ol>
-      <li>Bias/variance tradeoff and regularization</li>
-      <li>Model validation, cross-validation, and hyperparameters</li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb">Bias/variance tradeoff</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing">Some slides too</a></li>
     </ol>
     </div>
 </div>

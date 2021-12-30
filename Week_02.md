@@ -42,7 +42,7 @@ weight: 0.2
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
         <li><a href="jupyter_intro.html">Intro to Jupyter</a></li>
-        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Jupyter.ipynb">Intro to Jupyter Notebook</a></li>
+        <li><a href="hhttps://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb">Intro to Jupyter Notebook</a></li>
     </ol>
   </div>
 </div>
@@ -63,7 +63,7 @@ weight: 0.2
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb">Intro to Python Notebook</a></li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb">Intro to Python Notebook</a></li>
     </ol>
   </div>
 </div>
@@ -84,7 +84,7 @@ weight: 0.2
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Intro_to_Python_Student.ipynb">Intro to Python Notebook</a></li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb">Intro to Python Notebook</a></li>
       </ol>
     </div>
 </div>

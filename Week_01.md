@@ -37,7 +37,7 @@ weight: 0.1
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li>Intro to the Class</li>
+      <li><a href="https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing">Intro to the Class</a></li>
     </ol>
   </div>
 </div>
@@ -53,12 +53,13 @@ weight: 0.1
 <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="FriBefore">
     <ol>
-      <li> Nothing, just come to class! 😁 </li>
+      <li> Take the <a href="https://help.rc.ufl.edu/doc/New_user_training">HiPerGator Account Training</a> </li>
+      <li>Optional, but fun, reading <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">People's Guid to AI</a></li>
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="FriDuring">
     <ol>
-      <li>Historical Context</li>
+      <li>Historical Context <a href='https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing'>slides</a></li>
       <ul>
         <li>Origins of AI as an academic discipline.</li>
         <li>A repeating pattern: major hype and enthusiasm followed by an AI “winter”</li>
@@ -76,6 +77,8 @@ weight: 0.1
 * Understand the historical context of AI
 * Understand what AI is and is not
 * Have completed the [UFRC HiPerGator Account training](https://mytraining-ufshands.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D50413%26UserMode%3D0)
+   * You can submit the PDF of your certificate for 5 points extra credit (see assignment in Canvas)
+   * You can submit a suggestion for improving the training for another 5 points of extra credit (see assignment in Canvas)S
 
 {% include custom/office_hours.html %}
 

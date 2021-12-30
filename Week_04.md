@@ -36,7 +36,7 @@ weight: 0.4
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li>More data visualization and analysis</li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/06_Python_data_visualization.ipynb">More data visualization and analysis</a></li>
     </ol>
   </div>
 </div>
@@ -56,10 +56,11 @@ weight: 0.4
     </ol>
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
-    <li>A general framework for machine learning</li>
+    <li>A general framework for machine learning <a href="https://docs.google.com/presentation/d/1r-uGjwAc7eaUQ5JFGGKyOlsJ3FEd8aoqMdCydhMLC3Q/edit?usp=sharing">slides</a></li>
       <ul>
         <li> data --> features --> prediction function --> loss --> optimization</li>
       </ul> 
+    <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb">Introduction to Scikit-learn notebook</a></li>
   </div>
 </div>
 
@@ -79,7 +80,7 @@ weight: 0.4
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li>Introducing Scikit-Learn</li>
+        <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb">Introduction to Scikit-learn notebook</a></li>
         </ul>
       </ol>
     </div>
