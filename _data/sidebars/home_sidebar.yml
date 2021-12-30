@@ -29,10 +29,12 @@ entries:
   - title: Machine Learning
     output: web
     folderitems:
-      - title: Introduction to supervised learning
+    - title: Introduction to supervised learning
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb
       output: web
-
+    -title: Bias-Variance Trade-off
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb
+      output: web
     - title: Classification and Logistic Regression
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb
       output: web
