@@ -14,7 +14,7 @@ entries:
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb
       output: web
     - title: Introduction to NumPy
-      external_url:https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb
       output: web
     - title: Introduction to Pandas
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb
@@ -26,13 +26,14 @@ entries:
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/06_Python_data_visualization.ipynb
       output: web
 
+
   - title: Machine Learning
     output: web
     folderitems:
     - title: Introduction to supervised learning
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb
       output: web
-    -title: Bias-Variance Trade-off
+    - title: Bias-Variance Trade-off
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb
       output: web
     - title: Classification and Logistic Regression
