@@ -36,6 +36,9 @@ entries:
     - title: Bias-Variance Trade-off
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb
       output: web
+    - title: Linear Regression and Regularization (Lasso and Ridge)
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/09_linreg_regularization_student.ipynb
+      output: web
     - title: Classification and Logistic Regression
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb
       output: web

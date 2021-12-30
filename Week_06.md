@@ -14,7 +14,7 @@ weight: 0.6
 ## Overview for Week {{page.week_num}}
 
 * Linear regression in an ML framework
-* 
+* Lasso and Reidge Regression
 
 ## What's due by the end of the week?
 
@@ -31,12 +31,12 @@ weight: 0.6
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane active" id="MonBefore">
     <ul>
-      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html">PDSH section 5.06: Linear Regressoin</a></li>
+      <li>Read <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html">PDSH section 5.06: Linear Regression</a></li>
     </ul>
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li></li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/09_linreg_regularization_student.ipynb">Linear Regression and Regularization (Lasso and Ridge)</a></li>
     </ol>
   </div>
 </div>
@@ -57,7 +57,7 @@ weight: 0.6
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li> </li>
+      <li>Hands-on and problem set help </li>
     </ol>
   </div>
 </div>
@@ -78,7 +78,7 @@ weight: 0.6
     </div>
     <div role="tabpanel" class="tab-pane" id="FriDuring">
       <ol>
-        <li> </li>
+        <li>Hands-on and catching up </li>
       </ol>
     </div>
 </div>
@@ -88,6 +88,7 @@ weight: 0.6
 {% include image.html file='checkmark.png' alt="Check mark icon" position="right" max-width=75 %}
 
 * Understand Linear regression methods recast into ML frameworks.
+* Understand Lasso and Ridge regularization methods and how to select when to use
 * Have a good start on Problem Set 3, it's due {{site.ps_3_due}}
 
 {% include custom/office_hours.html %}
