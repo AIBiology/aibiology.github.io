@@ -35,7 +35,7 @@ weight: 0.7
   </div>
   <div role="tabpanel" class="tab-pane" id="MonDuring">
     <ol>
-      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb">Classification, logistic regression</a></li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/10_Classification_student.ipynb">Classification, logistic regression</a></li>
     </ol>
   </div>
 </div>

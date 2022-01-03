@@ -126,7 +126,7 @@ Week | Date | Reading/Assignment |Topic |
 [6](Week_06.html) | Wed, Feb 9 |  | Hands-on data analysis, problem set help
 [6](Week_06.html) | Fri, Feb 11 | | 
 |||
-[7](Week_07.html) | Mon, Feb 14 | **Problem Set 3 due**   | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/Classification.ipynb)
+[7](Week_07.html) | Mon, Feb 14 | **Problem Set 3 due**   | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/10_Classification_student.ipynb)
 [7](Week_07.html) | Wed, Feb 16 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb) 
 [7](Week_07.html) | Fri, Feb 18 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
 [8](Week_08.html) | Mon, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests)](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br> Problem set 4 available, due {{site.ps_4_due}} | Intro to Artificial Neural Networks
