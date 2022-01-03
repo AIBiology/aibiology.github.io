@@ -56,7 +56,7 @@ weight: 0.7
   </div>
   <div role="tabpanel" class="tab-pane" id="WedDuring">
     <ol>
-      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/SupportVectorMachines.ipynb">Support Vector Machines</a></li>
+      <li><a href="https://github.com/AIBiology/Jupyter_Content/blob/main/11_SupportVectorMachines_student.ipynb">Support Vector Machines</a></li>
     </ol>
   </div>
 </div>
