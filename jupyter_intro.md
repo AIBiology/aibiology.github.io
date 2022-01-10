@@ -48,9 +48,9 @@ For now, leave the "Teaching - 1 CPU core, 1GB RAM, 2h" selected and click Start
 
 The first thing to note is that JupyterHub does not know about storage outside of your home directory. In order to navigate to different parts of the cluster, we need to add links to those other places. To do this, scroll down in the Launcher window shown above to the "Other" section and click the Terminal button: {% include inline_image.html file='terminal_button.png' alt="Screenshot of the terminal button in Jupyter Launcher" %}
 
-At the Bash prompt, type the command below to create a symbolic link (kind of like an alias on MacOS or shortcut on Windows) to the `/blue/zoo6927` folder in your home directory and name it `blue_zoo6927`. **Note:** everyone is in the *zoo6927* group whether they are undergraduates or graduates.
+At the Bash prompt, type the command below to create a symbolic link (kind of like an alias on MacOS or shortcut on Windows) to the `/blue/zoo4926` folder in your home directory and name it `blue_zoo6927`. **Note:** everyone is in the *zoo6927* group whether they are undergraduates or graduates.
 
- `ln -s /blue/zoo6927 blue_zoo6927`
+ `ln -s /blue/zoo4926 blue_zoo6927`
 
 It should look similar to the image below:
 
@@ -92,7 +92,7 @@ After specifying the options you want, click the Launch button. The page that co
 
 The Jupyter interface should looks about the same as the image above for jhub.
 
-As before, if you have not already created a link, open a terminal and type the command: `ln -s /blue/zoo6927 blue_zoo6927`. Click through the folders to get to `blue_zoo6927/share/Jupyter_Content/Intro_to_Jupyter.ipynb` and open that.
+As before, if you have not already created a link, open a terminal and type the command: `ln -s /blue/zoo4926 blue_zoo6927`. Click through the folders to get to `blue_zoo6927/share/Jupyter_Content/Intro_to_Jupyter.ipynb` and open that.
 
 We will pickup with using the notebook after looking at other methods of running notebooks.
 
