@@ -129,11 +129,11 @@ Week | Date | Reading/Assignment |Topic |
 [7](Week_07.html) | Mon, Feb 14 |  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/10_Classification_student.ipynb)
 [7](Week_07.html) | Wed, Feb 16 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) <br> **Problem Set 3 due** |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/11_SupportVectorMachines_student.ipynb) 
 [7](Week_07.html) | Fri, Feb 18 | | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
-[8](Week_08.html) | Mon, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests)](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br> Problem set 4 available, due {{site.ps_4_due}} | Decision Trees and Random Forests
-[8](Week_08.html) | Wed, Feb 23 | | Intro to Artificial Neural Networks
-[8](Week_08.html) | Fri, Feb 25 | | Intro to Artificial Neural Networks
+[8](Week_08.html) | Mon, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests)](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br> Problem set 4 available, due {{site.ps_4_due}} | [Decision Trees](https://github.com/AIBiology/Jupyter_Content/blob/main/12_Decision_Trees.ipynb) and Random Forests
+[8](Week_08.html) | Wed, Feb 23 | | [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
+[8](Week_08.html) | Fri, Feb 25 | | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/16hjPsEei4IU9O9HA7jXqeuQLvcgUHEG-CKgNbRgPTQo/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb)
 |||
-[9](Week_09.html) | Mon, Feb 28 | **Problem Set 4 due**  | Convolutional Neural Networks
+[9](Week_09.html) | Mon, Feb 28 | **Problem Set 4 due**  | Multi-Layer Neural Networks
 [9](Week_09.html) | Wed, Mar 2 |  | Convolutional Neural Networks
 [9](Week_09.html) | Fri, Mar 4 |  | Convolutional Neural Networks
 |||
