@@ -133,8 +133,8 @@ Week | Date | Reading/Assignment |Topic |
 [8](Week_08.html) | Wed, Feb 23 | | [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
 [8](Week_08.html) | Fri, Feb 25 | | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/16hjPsEei4IU9O9HA7jXqeuQLvcgUHEG-CKgNbRgPTQo/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb)
 |||
-[9](Week_09.html) | Mon, Feb 28 | **Problem Set 4 due**  | Multi-Layer Neural Networks
-[9](Week_09.html) | Wed, Mar 2 |  | Convolutional Neural Networks
+[9](Week_09.html) | Mon, Feb 28 | **Problem Set 4 due**  | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
+[9](Week_09.html) | Wed, Mar 2 |  | [Convolutional Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/16_CNNs_part1.ipynb) and [Lect_06](https://docs.google.com/presentation/d/1uSk7xHWZ9H6YihUP4OdHpIVws_2py_HBfbby7GpZDCA/edit?usp=sharing)
 [9](Week_09.html) | Fri, Mar 4 |  | Convolutional Neural Networks
 |||
 [10](Week_10.html) | Mon, Mar 7|  | No Class: Spring Break
