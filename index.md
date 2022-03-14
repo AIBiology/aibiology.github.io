@@ -141,7 +141,7 @@ Week | Date | Reading/Assignment |Topic |
 [10](Week_10.html) | Wed, Mar 9 |  |  No Class: Spring Break
 [10](Week_10.html) | Fri, Mar 11 |  | No Class: Spring Break
 |||
-[11](Week_11.html) | Mon, Mar 14 | Problem set 5 available, due {{site.ps_5_due}} | Transfer Learning
+[11](Week_11.html) | Mon, Mar 14 | Problem set 5 available, due {{site.ps_5_due}} | [Transfer Learning](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
 [11](Week_11.html) | Wed, Mar 16 |  | Time Series Analysis with RNNs
 [11](Week_11.html) | Fri, Mar 18 |  | Time Series Analysis with RNNs
 |||
