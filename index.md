@@ -145,17 +145,17 @@ Week | Date | Reading/Assignment |Topic |
 [11](Week_11.html) | Wed, Mar 16 |  | Time Series Analysis with RNNs
 [11](Week_11.html) | Fri, Mar 18 |  | Time Series Analysis with RNNs
 |||
-[12](Week_12.html) | Mon, Mar 21 | **Problem Set 5 due** | Time Series Analysis with RNNs
+[12](Week_12.html) | Mon, Mar 21 || Time Series Analysis with RNNs: work through [this tutorial](https://www.kaggle.com/code/saraivaufc/soybean-time-series-forecast/notebook) (data and notebook located at `blue_zoo4926/share/SoyBean_TS/` or work on assignment 5.
 [12](Week_12.html) | Wed, Mar 23 |  | Natural Language Processing
-[12](Week_12.html) | Fri, Mar 25 |   | Natural Language Processing
+[12](Week_12.html) | Fri, Mar 25 |  **Problem Set 5 due**  | Natural Language Processing
 |||
 [13](Week_13.html) | Mon, Mar 28 |  | NLP and Transformers
 [13](Week_13.html) | Wed, Mar 30 |  | Transformers
-[13](Week_13.html) | Fri, Apr 1 |  | Transformers
+[13](Week_13.html) | Fri, Apr 1 |  | No Class today work on project ideas
 |||
-[14](Week_14.html) | Mon, Apr 4 | Problem set 6 available, due {{site.ps_6_due}} | Medical Image Analysis
-[14](Week_14.html) | Wed, Apr 6 |  | Medical Image Analysis
-[14](Week_14.html) | Fri, Apr 8 |  | Topics TBD
+[14](Week_14.html) | Mon, Apr 4 | Problem set 6 available, due {{site.ps_6_due}} | Topic TBD
+[14](Week_14.html) | Wed, Apr 6 |  | Topic TBD
+[14](Week_14.html) | Fri, Apr 8 |  | Topic TBD
 |||
 [15](Week_15.html) | Mon, Apr 11 | **Problem Set 6 due**  | Project time
 [15](Week_15.html) | Wed, Apr 13 |  | Project time
