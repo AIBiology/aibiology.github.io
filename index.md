@@ -146,8 +146,8 @@ Week | Date | Reading/Assignment |Topic |
 [11](Week_11.html) | Fri, Mar 18 |  | Time Series Analysis with RNNs
 |||
 [12](Week_12.html) | Mon, Mar 21 || Time Series Analysis with RNNs: work through [this tutorial](https://www.kaggle.com/code/saraivaufc/soybean-time-series-forecast/notebook) (data and notebook located at `blue_zoo4926/share/SoyBean_TS/` or work on assignment 5.
-[12](Week_12.html) | Wed, Mar 23 |  | Natural Language Processing
-[12](Week_12.html) | Fri, Mar 25 |  **Problem Set 5 due**  | Natural Language Processing
+[12](Week_12.html) | Wed, Mar 23 |  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
+[12](Week_12.html) | Fri, Mar 25 |  **Problem Set 5 due**  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
 |||
 [13](Week_13.html) | Mon, Mar 28 |  | NLP and Transformers
 [13](Week_13.html) | Wed, Mar 30 |  | Transformers
