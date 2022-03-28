@@ -46,7 +46,40 @@ entries:
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/11_SupportVectorMachines_student.ipynb
       output: web
   
-  
+  - title: Artificial Intelligence
+    output: web
+    folderitems:
+    - title: Introduction to Artificial Neural Networks lecture
+      external_url: https://docs.google.com/presentation/d/16hjPsEei4IU9O9HA7jXqeuQLvcgUHEG-CKgNbRgPTQo/edit?usp=sharing
+      output: web
+    - title: Introduction to artificial neural networks
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb
+      output: web
+    - title: Multi-Layer Neural Networks
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb
+      output: web
+    - title: Convolutional Neural Networks lecture
+      external_url: https://docs.google.com/presentation/d/1uSk7xHWZ9H6YihUP4OdHpIVws_2py_HBfbby7GpZDCA/edit?usp=sharing
+      output: web
+    - title: Convolutional Neural Networks Notebook
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/16_CNNs_part1.ipynb
+      output: web
+    - title: Transfer Learning
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb
+      output: web
+    - title: Natural Language Processing
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/19_Natural_Language_Processing.ipynb
+      output: web
+    - title: NLP and Transformers
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb
+      output: web
+    - title:  Vision Transformers 1
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb
+      output: web
+    - title: Vision Transformers 2
+      external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb
+      output: web
+      
   - title: Week-by-Week Pages
     output: web
     folderitems:
@@ -103,6 +136,9 @@ entries:
     output: web
     folderitems:
 
+    - title: Making a Mamba environment for ViT
+      url: /vit_mamba_setup.html
+      output: web
     - title: Additional Resources
       url: /resources.html
       output: web
