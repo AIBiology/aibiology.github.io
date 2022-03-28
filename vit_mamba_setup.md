@@ -1,4 +1,11 @@
-# Making a Mamba environment for ViT
+---
+title: "Making a Mamba environment for ViT"
+tags: [python,jupyter,mamba,kernels]
+sidebar: home_sidebar
+permalink: vit_mamba_setup.html
+summary: How to make conda/mamba environment and custom Jupyter kernels on HiPerGator
+keywords: jupyter, python, notebooks, mamba, conda, kernel, hipergator
+---
 
 So far, we have used the Jupyter Kernels pre-installed and maintained by UFRC. Those have generally worked for most of what we've needed. We had some issues with `seaborn` and I changed a few things here and there to avoid having to install new stuff...but, we've reached a point where we need a combination of Python modules that aren't available in any one kernel.
 
