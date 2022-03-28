@@ -149,7 +149,7 @@ Week | Date | Reading/Assignment |Topic |
 [12](Week_12.html) | Wed, Mar 23 |  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
 [12](Week_12.html) | Fri, Mar 25 |  **Problem Set 5 due**  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
 |||
-[13](Week_13.html) | Mon, Mar 28 |  | NLP and Transformers
+[13](Week_13.html) | Mon, Mar 28 |  | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> VisionTransformers
 [13](Week_13.html) | Wed, Mar 30 |  | Transformers
 [13](Week_13.html) | Fri, Apr 1 |  | No Class today work on project ideas
 |||
