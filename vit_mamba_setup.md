@@ -1,5 +1,5 @@
 ---
-title: "Making a Mamba environment for ViT"
+title: Making a Mamba environment for ViT
 tags: [python,jupyter,mamba,kernels]
 sidebar: home_sidebar
 permalink: vit_mamba_setup.html
