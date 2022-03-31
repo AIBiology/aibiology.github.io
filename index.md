@@ -149,12 +149,12 @@ Week | Date | Reading/Assignment |Topic |
 [12](Week_12.html) | Wed, Mar 23 |  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
 [12](Week_12.html) | Fri, Mar 25 |  **Problem Set 5 due**  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
 |||
-[13](Week_13.html) | Mon, Mar 28 |  | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> VisionTransformers
-[13](Week_13.html) | Wed, Mar 30 |  | Transformers
+[13](Week_13.html) | Mon, Mar 28 |  | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> [Vision Transformers intro and option 1](https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb) [Vision Transformers on Casava diseases](https://github.com/AIBiology/Jupyter_Content/blob/main/21b_vit-fine-tuning.ipynb)
+[13](Week_13.html) | Wed, Mar 30 |  | Review of past couple weeks
 [13](Week_13.html) | Fri, Apr 1 |  | No Class today work on project ideas
 |||
-[14](Week_14.html) | Mon, Apr 4 | Problem set 6 available, due {{site.ps_6_due}} | Topic TBD
-[14](Week_14.html) | Wed, Apr 6 |  | Topic TBD
+[14](Week_14.html) | Mon, Apr 4 | Problem set 6 available, due {{site.ps_6_due}} | [AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)
+[14](Week_14.html) | Wed, Apr 6 |  | AlphaFold hands on
 [14](Week_14.html) | Fri, Apr 8 |  | Topic TBD
 |||
 [15](Week_15.html) | Mon, Apr 11 | **Problem Set 6 due**  | Project time
