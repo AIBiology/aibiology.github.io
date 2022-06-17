@@ -189,11 +189,30 @@ ___
 ### Assignment Values
 
 See also the [List of Graded Work page](Grading.html).
-Item | Undergraduate Points | Graduate Points
------|----------------------|-----------------
-**Problem Sets** | 5 @ 20 points each: 100 points (77%) | 6 @ 30 points each: 180 points (75%)
-**Class Project** | 20 points (15%) |  40 points (17%) 
-**Project presentation**|  10 points (8%) | 20 points (8%)
+
+<table>
+  <th>
+    <td>Item</td>
+    <td>Undergraduate Points</td>
+    <td>Graduate Points</td>
+  </th>
+  <tr>
+    <td><b>Problem Sets</b></td>
+    <td>5 @ 20 points each: 100 points (77%)</td>
+    <td>6 @ 30 points each: 180 points (75%)</td>
+  </tr>
+  <tr>
+  <tr>
+    <td><b>Class Project</b></td>
+    <td>20 points (15%)</td>
+    <td>40 points (17%)</td>
+  </tr> 
+  <tr>
+    <td><b>Project presentation</b></td>
+    <td>10 points (8%)</td>
+    <td>20 points (8%)</td>
+  </tr>
+</table>
 
 Undergraduates will have 5 problem sets worth 20 points each and slightly less weighting on the project. Graduates will have one extra question for each problem set (making each worth 30 points), one extra problem set and slightly higher weighting on the project.
 
