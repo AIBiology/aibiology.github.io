@@ -189,10 +189,13 @@ ___
 ### Assignment Values
 
 See also the [List of Graded Work page](Grading.html).
-* **Problem Sets**: 6 @ 30 points each: 180 points (75%)
-* **Class Project**: 40 points (17%)
-* **Project presentation**: 20 points (8%)
+Item | Undergraduate Points | Graduate Points
+-----|----------------------|-----------------
+**Problem Sets** | 5 @ 20 points each: 100 points (77%) | 6 @ 30 points each: 180 points (75%)
+**Class Project** | 20 points (15%) |  40 points (17%) 
+**Project presentation**|  10 points (8%) | 20 points (8%)
 
+Undergraduates will have 5 problem sets worth 20 points each and slighly less weighting on the project. Graduates will have one extra question for each problem set (making each worth 30 points), one extra problem set and slighly higher weighting on the project.
 
 Grading in this class is consistent with UF policies available at: [https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/]( https://catalog.ufl.edu/UGRD/academic-regulations/grades-grading-policies/)
 
