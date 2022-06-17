@@ -189,6 +189,7 @@ ___
 ### Assignment Values
 
 See also the [List of Graded Work page](Grading.html).
+
 Item | Undergraduate Points | Graduate Points
 -----|----------------------|-----------------
 **Problem Sets** | 5 @ 20 points each: 100 points (77%) | 6 @ 30 points each: 180 points (75%)
