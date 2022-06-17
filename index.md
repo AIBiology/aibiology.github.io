@@ -146,7 +146,7 @@ Week | Date | Reading/Assignment |Topic |
 [11](Week_11.html) | Fri, Mar 18 |  | Time Series Analysis with RNNs
 |||
 [12](Week_12.html) | Mon, Mar 21 || Time Series Analysis with RNNs: work through [this tutorial](https://www.kaggle.com/code/saraivaufc/soybean-time-series-forecast/notebook) (data and notebook located at `blue_zoo4926/share/SoyBean_TS/` or work on assignment 5.
-[12](Week_12.html) | Wed, Mar 23 |  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
+[12](Week_12.html) | Wed, Mar 23 |  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/19_Natural_Language_Processing.ipynb)
 [12](Week_12.html) | Fri, Mar 25 |  **Problem Set 5 due**  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
 |||
 [13](Week_13.html) | Mon, Mar 28 |  | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> [Vision Transformers intro and option 1](https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb) [Vision Transformers on Casava diseases](https://github.com/AIBiology/Jupyter_Content/blob/main/21b_vit-fine-tuning.ipynb)
@@ -273,6 +273,26 @@ Grading in this class is consistent with UF policies available at: [https://cata
     <!-- /.panel-default -->
 </div>
 <!-- /.panel-group -->
+
+___
+
+## Learning Outcomes
+
+1. Students will be able to summarize major events in the history of AI from the 1950s to present.
+1. Students will be comfortable launching Jupyter Notebooks on HiPerGator, requesting appropriate resources for the task.
+1. Students will be able to analyze and visualize complex tabular data with NumPy, Pandas, and matplotlib
+1. Students will be able to calculate linear regression using machine learning approaches using Scikit-learn
+1. Students will be able to explain the bias/variance tradeoff
+1. Students will be able to assess ML/AI models, conduct cross-validation and tune hyperparameters
+1. Students will be able to use support vector machines, decision trees, random forests and ensemble methods to analyze data
+1. Students will be able to code a simple single-neuron perceptron from scratch
+1. Students will code multi-layer neural networks
+1. Students will conduct computer vision experiments using convolutional neural networks
+1. Students will explore times series data with recurrent neural networks
+1. Students will understand the need for and utility of transfer learning
+1. Students will gain a basic understanding of natural language processing, including tokenization, word embeddings, and the rise of transformer architectures.
+1. Students will apply transformers to computer vision tasks
+1. Students will explore protein folding prediction
 
 ___
 ## Course Policies
