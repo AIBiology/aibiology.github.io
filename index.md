@@ -103,76 +103,76 @@ For readings, there may be links to pages with my notes and additional explanati
 
 Week | Reading/Assignment |Topic |
 -----|--------------------|------|
-Week 1: Intro and Python review
+<td colspan=3>Week 1: Intro and Python review
 [1](Week_01.html) |  **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))
 [1](Week_01.html) |  [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
 |||
-Week 2: More Python review, including Pandas. Git and Github.com
+<td colspan=3>Week 2: More Python review, including Pandas. Git and Github.com
 [2](Week_02.html) |  [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
 [2](Week_02.html) | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
 [2](Week_02.html) | | Git and Github <br> Finishing [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
 |||
-Week 3: Git and Github.com and NumPy
+<td colspan=3>Week 3: Git and Github.com and NumPy
 [3](Week_03.html) |  | MLK: No Class
 [3](Week_03.html) |  [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)
 [3](Week_03.html) | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)  |   [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb)
 |||
-Week 4: Machine Leaning Introduction
+<td colspan=3>Week 4: Machine Leaning Introduction
 [4](Week_04.html) | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | What is Machine Learning [slides](https://docs.google.com/presentation/d/1r-uGjwAc7eaUQ5JFGGKyOlsJ3FEd8aoqMdCydhMLC3Q/edit?usp=sharing)<br>[Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb) 
 [4](Week_04.html) | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb)
 [4](Week_04.html) |  [![PDSH Image](images/PDSH-cover-small.png) Section 5.03 of PDSH: Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing)
 |||
-Week 5: Bias-variance trade-off, linear regression
+<td colspan=3>Week 5: Bias-variance trade-off, linear regression
 [5](Week_05.html) |  |  [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing)
 [5](Week_05.html) |  Skim [![PDSH Image](images/PDSH-cover-small.png) Section 5.04 of PDSH: Feature Engineering](https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html)|   [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing)
 [5](Week_05.html) |  [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) <br> Problem set 3 available, due {{site.ps_3_due}}  | [Linear Regression--Lasso and Ridge Regression](https://github.com/AIBiology/Jupyter_Content/blob/main/09_linreg_regularization_student.ipynb) 
 |||
-Week 6: Classification, logistic regression, SVMs
+<td colspan=3>Week 6: Classification, logistic regression, SVMs
 [6](Week_06.html) | | Hands-on data analysis, problem set help
 [6](Week_06.html) |  | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/10_Classification_student.ipynb)
 [6](Week_06.html) |  [![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines)](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)  |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/11_SupportVectorMachines_student.ipynb) 
 |||
-Week 7: SVMs continued, Random Forests
+<td colspan=3>Week 7: SVMs continued, Random Forests
 [7](Week_07.html) |  | Hands-on SVMs<br>Work through either: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>[Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>
 [7](Week_07.html) |  [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests)](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br> Problem set 4 available, due {{site.ps_4_due}} | [Decision Trees](https://github.com/AIBiology/Jupyter_Content/blob/main/12_Decision_Trees.ipynb) and Random Forests
 [7](Week_07.html) | | [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
 |||
-Week 8: More Ensemble methods, XGBoost. Intro to neural networks
+<td colspan=3>Week 8: More Ensemble methods, XGBoost. Intro to neural networks
 [8](Week_08.html) |  [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
 [8](Week_08.html) | | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/16hjPsEei4IU9O9HA7jXqeuQLvcgUHEG-CKgNbRgPTQo/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb) 
 [8](Week_08.html) |  | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
 |||
-Week 9: Computer vision with Convolutional Neural Networks
+<td colspan=3>Week 9: Computer vision with Convolutional Neural Networks
 [9](Week_09.html) |   | [Convolutional Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/16_CNNs_part1.ipynb) and [Lect_06](https://docs.google.com/presentation/d/1uSk7xHWZ9H6YihUP4OdHpIVws_2py_HBfbby7GpZDCA/edit?usp=sharing)
 [9](Week_09.html) |   | Convolutional Neural Networks
 [9](Week_09.html) |   | [Transfer Learning](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
 |||
-Week 10: Time series analysis with RNNs
+<td colspan=3>Week 10: Time series analysis with RNNs
 [10](Week_10.html) |  | Time Series Analysis with RNNs: work through [this tutorial](https://www.kaggle.com/code/saraivaufc/soybean-time-series-forecast/notebook) (data and notebook located at `blue_zoo4926/share/SoyBean_TS/` or work on assignment 5.
 [10](Week_10.html) |   | Time Series Analysis with RNNs
 [10](Week_10.html) |   | Time Series Analysis with RNNs
 |||
-Week 11: Natural language processing and the rise of Transformers
+<td colspan=3>Week 11: Natural language processing and the rise of Transformers
 [11](Week_11.html) | | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/19_Natural_Language_Processing.ipynb)
 [11](Week_11.html) |  | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
 [11](Week_11.html) |  | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> [Vision Transformers intro and option 1](https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb) [Vision Transformers on Casava diseases](https://github.com/AIBiology/Jupyter_Content/blob/main/21b_vit-fine-tuning.ipynb)
 |||
-Week 12: Transformer architecture in depth
+<td colspan=3>Week 12: Transformer architecture in depth
 [12](Week_12.html) |  | Transformers
 [12](Week_12.html) |   | [AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)
 [12](Week_12.html) |   | Transformers
 |||
-Week 13: Transformers and what's new in AI?
+<td colspan=3>Week 13: Transformers and what's new in AI?
 [13](Week_13.html) |   | Transformers
 [13](Week_13.html) |   | Topic TBD
 [13](Week_13.html) |   | Topic TBD
 |||
-Week 14: Finish up projects
+<td colspan=3>Week 14: Finish up projects
 [14](Week_14.html) |  | Project time
 [14](Week_14.html) |  | Project time
 [14](Week_14.html) | | Project time
 |||
-Week 15: Present projects
+<td colspan=3>Week 15: Present projects
 [15](Week_15.html) |   | Project Presentations
 [15](Week_15.html) |   | Project Presentations
 
