@@ -10,6 +10,10 @@ toc: false
 
 ## Course Description
 
+> Examines how AI has rapidly become ubiquitous in daily life and been applied to diverse areas of Biology. Focuses on machine learning approaches as well as deep learning methods, including transformers. Covers machine learning methods for tabular data, computer vision, transfer learning, natural language processing, and transformer-based architectures. Classes typically applied coding with Jupyter Notebooks on HiPerGator. Prior Python coding experience required.
+
+## Expanded Description
+
 {% include image.html max-width=400 file='ai_bio_cover.png' alt="Image of futuristic AI and Biological specimens" position="right" %}
 
 Artificial Intelligence (AI) as a field of research has existed since at least the 1950s. After initial enthusiasm, the gains of early years slowed and AI entered what has been referred to as an AI winter. Modern computing hardware, rapid growth in data collection and availability, and advances in algorithms have renewed interest in AI and revolutionized the field. AI is rapidly becoming ubiquitous in daily life and in diverse academic fields. This course will examine the applications of AI with particular focus on applications in biology. We will address the topics of what AI is, how intelligent computers really are and may become, where limitations still exist, and how AI technologies can be used to advance biological research.
@@ -39,7 +43,10 @@ In addition to this course, Matt teaches
 Matt enjoys spending time outdoors, hiking, backpacking and kayaking.
 
 ___
+
 ## Prerequisites
+
+BSC4452 or BSC6451 or BSC2891 or permission of instructor based on demonstration of prior Python programming experience. (These formal prerequisites will be effective once the course is officially listed with it's own catalog number).
 
 ### Computer programming
 
@@ -47,6 +54,7 @@ The course assumes a **basic understanding of computer programming** in general,
 
 If you have not taken a programming course or are new to Python, there are several LinkedIn Learning courses that will give you sufficient background to be ready for this course (these are free for UF Students):
   {% include note.html content="Note, you do not need to do all of these. Any **one** would get you at a good place to start the semester. We will review the basics of Python in the first weeks." %}
+
 * [Programming Foundations: Fundamentals](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-fundamentals-3%3Ftrk%3Dshare_ent_url&account=41282748)
   * This course is best for people with no coding experience.
   * Most of the hands-on examples are in Python
@@ -54,9 +62,6 @@ If you have not taken a programming course or are new to Python, there are sever
   * A good review or introduction for people who know some programming but not Python
 * [Learning Python](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python%3Ftrk%3Dshare_ent_url&account=41282748)
   * Another option for those with some coding experience
-
-
-
 
 ### Math
 
