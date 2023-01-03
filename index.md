@@ -10,7 +10,7 @@ toc: false
 
 ## Course Description
 
-> Examines how AI has rapidly become ubiquitous in daily life and been applied to diverse areas of Biology. Focuses on machine learning approaches as well as deep learning methods, including transformers. Covers machine learning methods for tabular data, computer vision, transfer learning, natural language processing, and transformer-based architectures. Classes typically applied coding with Jupyter Notebooks on HiPerGator. Prior Python coding experience required.
+> Examines how Artificial Intelligence has rapidly become ubiquitous in daily life and been applied to diverse areas of Biology. Focuses on machine learning approaches as well as deep learning methods, including transformers. Covers machine learning methods for tabular data, computer vision, transfer learning, natural language processing, and transformer-based architectures. Classes are typically applied coding with Jupyter Notebooks on HiPerGator. Prior Python coding experience required.
 
 ## Expanded Description
 
@@ -93,7 +93,7 @@ While we will not use any one text for the course, we will use sections of these
 
 * [{% include inline_image.html file='PDSH-cover-small.png' alt="PDSH textbook icon" %} Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-* [{% include inline_image.html file='D2DL_cover.png' alt="D2DL textbook icon"  %} Dive into Deep Learning by Aston Zhang, Zachary Lipton, Mu Li and Alexander Smola](https://d2l.ai/)
+*We likely won't use this much, but another good resource is: [{% include inline_image.html file='D2DL_cover.png' alt="D2DL textbook icon"  %} Dive into Deep Learning by Aston Zhang, Zachary Lipton, Mu Li and Alexander Smola](https://d2l.ai/)
 
 ___
 ## Course Calendar
@@ -104,19 +104,21 @@ ___
 
 For readings, there may be links to pages with my notes and additional explanations on the content from the texts.
 
-Week | Reading/Assignment |Topic |
------|--------------------|------|
-|Week 1: Intro and Python review
-[1](Week_01.html) |  **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))
-[1](Week_01.html) |  [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
+Reading/Assignment |Topic |
+-------------------|------|
+|Jan 9-13, 2023: Week 1| Intro and Python review
+**Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))
+[Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
+ | [GitHub setup]
 |||
-|Week 2: More Python review, including Pandas. Git and Github.com
-[2](Week_02.html) |  [![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
-[2](Week_02.html) | | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
-[2](Week_02.html) | | Git and Github <br> Finishing [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
+|Jan 18-21, 2023 Week 2| Python review, including Pandas. Git and Github.com
+No class on Jan 16th: MLK Holiday
+[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html) | [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
+ | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)
 |||
-|Week 3: Git and Github.com and NumPy
-[3](Week_03.html) |  | MLK: No Class
+Jan 23-27, 2023: Week 3: Git and Github.com and NumPy
+
+
 [3](Week_03.html) |  [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)
 [3](Week_03.html) | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)  |   [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb)
 |||
@@ -182,23 +184,21 @@ Week | Reading/Assignment |Topic |
 ___
 ## Software and Hardware
 
-Participants will need a computer with internet connection, webcam and microphone for all classes.
+* Participants will need a computer with internet connection for all classes.
+* Several free/open source software packages will be used throughout the course, and students will be required to install some of these.
+* Students will use a (free) Research Computing account to access HiPerGator for coursework.
+* Students will be required to apply for a (free) Github.com account for coursework.
+* If you have technical difficulties with Canvas, please contact the UF Helpdesk at:
+  * http://helpdesk.ufl.edu
+  * (352) 392-HELP (4357)
+  * Walk-in: HUB 132
 
-Several free/open source software packages will be used throughout the course, and students will be required to install some of these.
-Students will use a (free) Research Computing account to access HiPerGator for coursework.
-Students will be required to apply for a (free) Github.com account for coursework.
+  Any requests for make-ups due to technical issues should be accompanied by the ticket number received from the Help Desk when the problem was reported to them. The ticket number will document the time and date of the problem. Please e-mail the instructor within 24 hours of the technical difficulty if you wish to request a make-up.
 
-If you have technical difficulties with Canvas, please contact the UF Helpdesk at:
-
-* http://helpdesk.ufl.edu
-* (352) 392-HELP (4357)
-* Walk-in: HUB 132
-
-Any requests for make-ups due to technical issues should be accompanied by the ticket number received from the Help Desk when the problem was reported to them. The ticket number will document the time and date of the problem. Please e-mail the instructor within 24 hours of the technical difficulty if you wish to request a make-up.
-
-All faculty, staff and student of the University are required and expected to obey the laws and legal agreements governing software use. Failure to do so can lead to monetary damages and/or criminal penalties for the individual violator. Because such violations are also against University policies and rules, disciplinary action will be taken as appropriate.
+>All faculty, staff and student of the University are required and expected to obey the laws and legal agreements governing software use. Failure to do so can lead to monetary damages and/or criminal penalties for the individual violator. Because such violations are also against University policies and rules, disciplinary action will be taken as appropriate.
 
 ___
+
 ## Grading
 
 ### Assignment Values
@@ -227,7 +227,7 @@ Grading in this class is consistent with UF policies available at: [https://cata
                 <BR><BR>
                 The dispute should clearly set out the grade that the student believes the assignment should have received as well as why they believe that they should have received such a grade.
                 <BR><BR>
-                Some assignments may be resubmitted for revision. I may suggest a resubmission, or a student may ask for the opportunity to resubmit. My goal in allowing resubmission is to give students a chance to learn the material. As meeting to discuss the material is generally expected prior to resubmission.
+                Some assignments may be resubmitted for revision. I may suggest a resubmission, or a student may ask for the opportunity to resubmit. My goal in allowing resubmission is to give students a chance to learn the material. A meeting to discuss the material is generally expected prior to resubmission.
             </div>
             <!-- /.panel-body -->
         </div>
@@ -311,6 +311,7 @@ ___
 1. Conduct protein folding folding prediction using transformer architectures
 
 ___
+
 ## Course Policies
 
 ### Class Attendance and Makeup Policy
@@ -330,16 +331,19 @@ All assignments are "open book, open internet", you may use whatever resources y
 Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. All assignments are designed for both your own learning and my assessment of your efforts. Much of the course builds on previous sections and falling behind on assignments will make it harder to keep up. If you need help, please ask! **My goal is for all students to learn the material** and I understand that some students will need more help than others. The grade is based on the end product, not the amount of time and help needed to get there.
 
 ___
+
 ## Students Requiring Accommodations
 
 Students with disabilities requesting accommodations should first register with the Disability Resource Center (352-392-8565, [https://disability.ufl.edu/students/get-started/](https://disability.ufl.edu/students/get-started/)) by providing appropriate documentation. Once registered, students will receive an accommodation letter which must be presented to the instructor when requesting accommodation. Students with disabilities should follow this procedure as early as possible in the semester.
 
 ___
+
 ## Course Evaluation
 
 Students are expected to provide professional and respectful feedback on the quality of instruction in this course by completing course evaluations online via GatorEvals. Guidance on how to give feedback in a professional and respectful manner is available at [gatorevals.aa.ufl.edu/students/](https://gatorevals.aa.ufl.edu/students/). Students will be notified when the evaluation period opens, and can complete evaluations through the email they receive from GatorEvals, in their Canvas course menu under GatorEvals, or via [ufl.bluera.com/ufl/](https://ufl.bluera.com/ufl/). Summaries of course evaluation results are available to students at [gatorevals.aa.ufl.edu/public-results/](https://gatorevals.aa.ufl.edu/public-results/).
 
 ___
+
 ## Class Demeanor and Netiquette
 
 Students are expected to be in class on time and behave in a manner that is respectful to the instructors and to fellow students.
@@ -353,6 +357,7 @@ Students should be working on course content during class.
 The [GitHub discussion boards](https://github.com/AIBiology/aibiology.github.io/discussions) can be used to ask for and provide help by all. Students should be supportive and considerate of others at all times. Rude or inappropriate comments will be removed and the poster will be warned.
 
 ___
+
 ## University Honesty Policy
 
 UF students are bound by The Honor Pledge which states:
@@ -401,16 +406,19 @@ This course embraces the University of Florida’s Non-Discrimination Policy, wh
 If you have questions or concerns about your rights and responsibilities for inclusive learning environment, please see the instructor or refer to the Office of Multicultural & Diversity Affairs website: [http://multicultural.ufl.edu](http://multicultural.ufl.edu).
 
 ___
+
 ## Privacy
 
 There are federal laws protecting your privacy with regards to grades earned in courses and on individual assignments. For more information, please see: [https://registrar.ufl.edu/ferpa.html](https://registrar.ufl.edu/ferpa.html)
 
 ___
+
 ## Statement Regarding Course Recording
 
 Our class sessions may be audio visually recorded for students in the class to refer back to and for use of enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate verbally are agreeing to have their voices recorded.  If you are unwilling to consent to have your voice recorded during class, you will need to keep your mute button activated.  As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
 
 ___
+
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
