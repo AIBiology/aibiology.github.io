@@ -146,7 +146,7 @@ Fri Feb 24 | **Problem set 3 is due**<br>Problem set 4 available, due {{site.ps_
 **Week 8** || **More Ensemble methods, XGBoost. Intro to neural networks**
 Mon, Feb 27 |  [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
  Wed, Mar 1 | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/16hjPsEei4IU9O9HA7jXqeuQLvcgUHEG-CKgNbRgPTQo/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb) 
- Fri, Mar 3 | | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
+ Fri, Mar 3 | **Problem set 4 due** | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
 |||
 **Week 9** || **Computer vision with Convolutional Neural Networks**
 Mon, Mar 5 |   | [Convolutional Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/16_CNNs_part1.ipynb) and [Lect_06](https://docs.google.com/presentation/d/1uSk7xHWZ9H6YihUP4OdHpIVws_2py_HBfbby7GpZDCA/edit?usp=sharing)
