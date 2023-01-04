@@ -80,58 +80,6 @@ entries:
       external_url: https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb
       output: web
       
-  - title: Week-by-Week Pages
-    output: web
-    folderitems:
-
-    - title: Week 1 - Jan 5 - 7
-      url: /Week_01.html
-      output: web
-    - title: Week 2 - Jan 10 - 14
-      url: /Week_02.html
-      output: web
-    - title: Week 3 - Jan 17 - 21
-      url: /Week_03.html
-      output: web
-    - title: Week 4 - Jan 24 - 28
-      url: /Week_04.html
-      output: web
-    - title: Week 5 -Jan 31 - Feb 4
-      url: /Week_05.html
-      output: web
-    - title: Week 6 - Feb 7 - 11
-      url: /Week_06.html
-      output: web
-    - title: Week 7 - Feb 14 - 18
-      url: /Week_07.html
-      output: web
-    - title: Week 8 - Feb 21 - 25
-      url: /Week_08.html
-      output: web
-    - title: Week 9 - Feb 28 - Mar 4
-      url: /Week_09.html
-      output: web
-    - title: Week 10 - Spring Break
-    - title: Week 11 - Mar 14 - 18
-      url: /Week_11.html
-      output: web
-    - title: Week 12 - Mar 21 - 25
-      url: /Week_12.html
-      output: web
-    - title: Week 13 - Mar 28 - Apr 1
-      url: /Week_13.html
-      output: web
-    - title: Week 14 - Apr 4 - 8
-      url: /Week_14.html
-      output: web    
-    - title: Week 15 - Apr 11 - 15
-      url: /Week_15.html
-      output: web
-    - title: Week 16 - Apr 18 - 20
-      url: /Week_16.html
-      output: web
-
-
   - title: Additional Resources
     output: web
     folderitems:

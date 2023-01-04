@@ -28,17 +28,18 @@ ___
 **Matt Gitzendanner**<br>
 **Email:** <a href="mailto:magitz@ufl.edu">magitz@ufl.edu</a><br>
 **Office:** Dickinson Hall, stop at front desk and they will call me
- 
+**Phone:** 352-273-1960
 **About:**  Dr Gitzendanner's background is in plant evolutionary genetics and genomics where he uses genetic tools to study the conservation, evolution, and diversity of plants. The field is generally computationally intensive, and Matt has worked for 10 years training users how to use HiPerGator and other high-performance computing systems to do the amazing research that is done across the University of Florida campus.
 
-The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb).
+The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb). Previous versions of the course are archived in GitHub branches in the [website's repository](https://github.com/AIBiology/aibiology.github.io).
 
-In addition to this course, Matt teaches
-  * [Computational Tools for Research in Biology (BSC4452/6451)](https://comptoolsres.github.io/)
-  * Frontiers in AI (EGN1935, Fall 2021. Will likely be offered in Fall 2022 as an IDS class!)
-  * [Practicum AI](https://practicumai.org/)
-  * [Research Computing Trainings](https://help.rc.ufl.edu/doc/Training)
-  * [NVIDIA DLI Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) certified instructor
+In addition to this course, Matt also teaches:
+
+* [Computational Tools for Research in Biology (BSC4452/6451)](https://comptoolsres.github.io/)
+* Frontiers in AI (EGN1935, Fall 2021. Will likely be offered in Fall 2022 as an IDS class!)
+* [Practicum AI](https://practicumai.org/)
+* [Research Computing Trainings](https://help.rc.ufl.edu/doc/Training)
+* [NVIDIA DLI Fundamentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) certified instructor
 
 Matt enjoys spending time outdoors, hiking, backpacking and kayaking.
 
@@ -46,7 +47,7 @@ ___
 
 ## Prerequisites
 
-BSC4452 or BSC6451 or BSC2891 or permission of instructor based on demonstration of prior Python programming experience. (These formal prerequisites will be effective once the course is officially listed with it's own catalog number).
+BSC4452 or BSC6451 or BSC2891 or permission of instructor based on demonstration of prior Python programming experience. (*These formal prerequisites will be effective once the course is officially listed with it's own catalog number*).
 
 ### Computer programming
 
@@ -93,9 +94,10 @@ While we will not use any one text for the course, we will use sections of these
 
 * [{% include inline_image.html file='PDSH-cover-small.png' alt="PDSH textbook icon" %} Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-* We likely won't use this much, but another good resource is: [{% include inline_image.html file='D2DL_cover.png' alt="D2DL textbook icon"  %} Dive into Deep Learning by Aston Zhang, Zachary Lipton, Mu Li and Alexander Smola](https://d2l.ai/)
+* We likely won't use this much, but another good resource--especially if you want more of the mathematical background--is: [{% include inline_image.html file='D2DL_cover.png' alt="D2DL textbook icon"  %} Dive into Deep Learning by Aston Zhang, Zachary Lipton, Mu Li and Alexander Smola](https://d2l.ai/)
 
 ___
+
 ## Course Calendar
 
 {% include image.html file='calendar.png' alt="calendar icon" position="right" max-width=75 %}
@@ -195,7 +197,7 @@ ___
 
   Any requests for make-ups due to technical issues should be accompanied by the ticket number received from the Help Desk when the problem was reported to them. The ticket number will document the time and date of the problem. Please e-mail the instructor within 24 hours of the technical difficulty if you wish to request a make-up.
 
->All faculty, staff and student of the University are required and expected to obey the laws and legal agreements governing software use. Failure to do so can lead to monetary damages and/or criminal penalties for the individual violator. Because such violations are also against University policies and rules, disciplinary action will be taken as appropriate.
+  All faculty, staff and student of the University are required and expected to obey the laws and legal agreements governing software use. Failure to do so can lead to monetary damages and/or criminal penalties for the individual violator. Because such violations are also against University policies and rules, disciplinary action will be taken as appropriate.
 
 ___
 
@@ -334,7 +336,7 @@ ___
 
 ## Students Requiring Accommodations
 
-Students with disabilities requesting accommodations should first register with the Disability Resource Center (352-392-8565, [https://disability.ufl.edu/students/get-started/](https://disability.ufl.edu/students/get-started/)) by providing appropriate documentation. Once registered, students will receive an accommodation letter which must be presented to the instructor when requesting accommodation. Students with disabilities should follow this procedure as early as possible in the semester.
+Students with disabilities who experience learning barriers and would like to request academic accommodations should connect with the disability Resource Center. [Click here to get started with the Disability Resource Center](https://disability.ufl.edu/get-started/). It is important for students to share their accommodation letter with their instructor and discuss their access needs, as early as possible in the semester.
 
 ___
 
@@ -362,10 +364,10 @@ ___
 
 UF students are bound by The Honor Pledge which states:
 >We, the members of the University of Florida community, pledge to hold ourselves and our peers to the highest standards of honor and integrity by abiding by the Honor Code. On all work submitted for credit by students at the University of Florida, the following pledge is either required or implied: “On my honor, I have neither given nor received unauthorized aid in doing this assignment.”
-
-[The Honor Code](https://sccr.dso.ufl.edu/policies/student-honor-code-student-conduct-code/) specifies a number of behaviors that are in violation of this code and the possible sanctions. Furthermore, you are obligated to report any condition that facilitates academic misconduct to appropriate personnel. If you have any questions or concerns, please consult with the instructor or TAs in this class
+The Conduct Code specifies a number of behaviors that are in violation of this code and the possible sanctions. [Click here to read the Conduct Code](https://sccr.dso.ufl.edu/process/student-conduct-code/). If you have any questions or concerns, please consult with the instructor.  
 
 ___
+
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -382,11 +384,12 @@ ___
                   <li>Many students experience test anxiety and other stress related problems. “A Self Help Guide for Students” is available through the Counseling Center (301 Peabody Hall, 392-1575) and at their web site: <a href="https://counseling.ufl.edu/">https://counseling.ufl.edu/</a>.</li>
                   <li>U Matter, We Care: If you or a friend is in distress, please contact umatter@ufl.edu or 352 392-1575 so that a team member can reach out to the student.</li>
                 </ul>
-                <li><b>Career Connections Center</b>, Reitz Union, 392-1601, CareerCenterMarketing@ufsa.ufl.edu, connects job seekers with employers and offers guidance to enrich your collegiate experience and prepare you for life after graduation.</li>
                 <li><b>University Police Department</b>: 392-1111 or 9-1-1 for emergencies. <a href="http://www.police.ufl.edu/">https://www.police.ufl.edu/</a></li>
                 <li><b>Sexual Assault Recovery Services (SARS)</b>: Student Health Care Center, 392-1161.</li>
                 <li><b>Student Health Care Center</b>: Call 352-392-1161 for 24/7 information to help you find the care you need, or visit <a href="https://shcc.ufl.edu">https://shcc.ufl.edu/</a></li>
                 <li><b>Food insecurity</b>: The Pantry is a resource on the University of Florida campus committed to supporting students, staff, and faculty who are experiencing food insecurity. These individuals do not have reliable access to nutritious foods for themselves and their families. If you, or anyone you know, is experiencing food insecurity, the Pantry is a resource to visit. We offer non-perishable food, toiletries and fresh produce grown at the Field and Fork Gardens during certain times of the year. There is no proof of need required in order to shop at the Pantry; you must only bring in your valid UFID card. At the Pantry, we know that a good meal makes for a good student, and we work to support all Gators who are experiencing food insecurity. <a href="https://pantry.fieldandfork.ufl.edu/">Field & Fork Food Pantry</a>.</li>
+                <li><b>UF Health Shands Emergency Room / Trauma Center</b>: For immediate medical care call 352-733-0111 or go to the emergency room at 1515 SW Archer Road, Gainesville, FL 32608; <a href="https://ufhealth.org/emergency-room-trauma-center">Visit the UF Health Emergency Room and Trauma Center website</a>.</li>
+                <li><b>GatorWell Health Promotion Services</b>: For prevention services focused on optimal wellbeing, including Wellness Coaching for Academic Success, visit the <a href="https://gatorwell.ufsa.ufl.edu/">GatorWell website</a> or call 352-273-4450.
               </ul>
             </div>
             <!-- /.panel-body -->
@@ -417,6 +420,11 @@ ___
 
 Our class sessions may be audio visually recorded for students in the class to refer back to and for use of enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate verbally are agreeing to have their voices recorded.  If you are unwilling to consent to have your voice recorded during class, you will need to keep your mute button activated.  As in all courses, unauthorized recording and unauthorized sharing of recorded materials is prohibited.
 
+Students are allowed to record video or audio of class lectures. However, the purposes for which these recordings may be used are strictly controlled.  The only allowable purposes are (1) for personal educational use, (2) in connection with a complaint to the university, or (3) as evidence in, or in preparation for, a criminal or civil proceeding.  All other purposes are prohibited.  Specifically, students may not publish recorded lectures without the written consent of the instructor.
+
+A “class lecture” is an educational presentation intended to inform or teach enrolled students about a particular subject, including any instructor-led discussions that form part of the presentation, and delivered by any instructor hired or appointed by the University, or by a guest instructor, as part of a University of Florida course. A class lecture does not include lab sessions, student presentations, clinical presentations such as patient history, academic exercises involving solely student participation, assessments (quizzes, tests, exams), field trips, private conversations between students in the class or between a student and the faculty or guest lecturer during a class session.
+
+Publication without permission of the instructor is prohibited. To “publish” means to share, transmit, circulate, distribute, or provide access to a recording, regardless of format or medium, to another person (or persons), including but not limited to another student within the same class section. Additionally, a recording, or transcript of a recording, is considered published if it is posted on or uploaded to, in whole or in part, any media platform, including but not limited to social media, book, magazine, newspaper, leaflet, or third party note/tutoring services. A student who publishes a recording without written consent may be subject to a civil cause of action instituted by a person injured by the publication and/or discipline under UF Regulation 4.040 Student Honor Code and Student Conduct Code.
 ___
 
 <div class="panel-group" id="accordion">
@@ -450,9 +458,19 @@ ___
                 <ul>
                   <li><a href="https://dso.ufl.edu/resources/student-handbook/">Student Handbook</a></li>
                   <li><a href="https://catalog.ufl.edu/UGRD/student-responsibilities/">Student Responsibilities</a>, including academic honesty and student conduct code</li>
+                </ul>
+                <h3>Academic Resources</h3>
+                <ul>
                   <li><a href="https://elearning.ufl.edu/supported-services/">e-Learning Supported Services Policies</a> includes links to relevant policies including Acceptable Use, Privacy, and many more</li>
                   <li><a href="https://accessibility.ufl.edu/">Accessibility</a>, including the Electronic Information Technology Accessibility Policy and ADA Compliance</li>
                   <li><a href="https://it.ufl.edu/policies/student-computing-requirements/">Student Computing Requirements</a>, including minimum and recommended technology requirements and competencies</li>
+                  <li><b>E-learning technical support</b>: Contact the <a href="http://helpdesk.ufl.edu/">UF Computing Help Desk</a> at 352-392-4357 or via e-mail at helpdesk@ufl.edu.</li>
+                  <li><b><a href="https://career.ufl.edu/">Career Connections Center</a></b>: Reitz Union Suite 1300, 352-392-1601. Career assistance and counseling services. 
+                  <li><b><a href="https://cms.uflib.ufl.edu/ask">Library Support</a></b>: Various ways to receive assistance with respect to using the libraries or finding resources.</li> 
+                  <li><b><a href="https://teachingcenter.ufl.edu/">Teaching Center</a></b>: Broward Hall, 352-392-2010 or to make an appointment 352- 392-6420. General study skills and tutoring.</li>
+                  <li><b><a href="https://writing.ufl.edu/writing-studio/">Writing Studio</a></b>: 2215 Turlington Hall, 352-846-1138. Help brainstorming, formatting, and writing papers. </li>
+                  <li><b>Student Complaints On-Campus</b>: <a href="https://sccr.dso.ufl.edu/policies/student-honor-%20code-student-conduct-code/">Visit the Student Honor Code and Student Conduct Code webpage</a> for more information.  
+                  <li><b>On-Line Students Complaints</b>: <a href="https://distance.ufl.edu/getting-help/student-complaint-process/">View the Distance Learning Student Complaint Process</a>.</li>  
                 </ul>
                 <h3>Procedure for Conflict Resolution</h3>
                   Any classroom issues, disagreements or grade disputes should be discussed first between the instructor and the student. If the problem cannot be resolved, please contact the (Under)Graduate Coordinator or the Department Chair. Be prepared to provide documentation of the problem, as well as all graded materials for the semester. Issues that cannot be resolved departmentally will be referred to the University Ombuds Office (<a href="http://www.ombuds.ufl.edu">http://www.ombuds.ufl.edu</a>; 392-1308) or the Dean of Students Office (<a href="http://www.dso.ufl.edu">http://www.dso.ufl.edu</a>; 392-1261). For further information refer to <a href="https://www.dso.ufl.edu/documents/UF_Complaints_policy.pdf">https://www.dso.ufl.edu/documents/UF_Complaints_policy.pdf</a> (for residential classes) or <a href=" http://www.distance.ufl.edu/student-complaintprocess">http://www.distance.ufl.edu/student-complaintprocess</a> (for online classes).
