@@ -298,6 +298,8 @@ ___
 
 ## Student Learning Outcomes
 
+By the end of the course, students will be able to:
+
 1. Summarize major events in the history of AI from the 1950s to present.
 1. Proficiently launching Jupyter Notebooks on HiPerGator, requesting appropriate resources for the task.
 1. Analyze and visualize complex tabular data with NumPy, Pandas, and matplotlib
