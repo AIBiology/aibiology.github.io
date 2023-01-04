@@ -24,25 +24,27 @@ By working together in a group, my hope is that different members will think of 
 
 Assignment  | Points | Due date
 ------------|--------|---------
+GitHub Assignment | 5| {{site.gh_1_due}}
 Problem set 1 | 20   | {{site.ps_1_due}}
 Problem set 2 | 20   | {{site.ps_2_due}}
 Problem set 3 | 20   | {{site.ps_3_due}}
 Problem set 4 | 20   | {{site.ps_4_due}}
 Problem set 5 | 20   | {{site.ps_5_due}}
 
-**Total Problem Sets** | **100**
+**Total Problem Sets** | **105**
 
 ### For Graduate students
 
 Assignment  | Points | Due date
 ------------|--------|---------
+GitHub Assignment | 5| {{site.gh_1_due}}
 Problem set 1 | 30   | {{site.ps_1_due}}
 Problem set 2 | 30   | {{site.ps_2_due}}
 Problem set 3 | 30   | {{site.ps_3_due}}
 Problem set 4 | 30   | {{site.ps_4_due}}
 Problem set 5 | 30   | {{site.ps_5_due}}
 Problem set 6 | 30   | {{site.ps_6_due}}
-**Total Problem Sets** | **180**
+**Total Problem Sets** | **185**
 
 ## Project
 
@@ -70,7 +72,7 @@ Project presentation | 20 | Last week of class
 
 Category | Undergraduate Total points | Graduate Total Points
 ---------|-------------|----
-Problem sets | 100 points | 180 points
+Problem sets | 105 points | 185 points
 Project | 20 points | 40 points
 Project presentation | 10 points |  20 points
-**Total** | **130 points** | **240 points**
+**Total** | **135 points** | **245 points**
