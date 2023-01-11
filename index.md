@@ -114,17 +114,17 @@ Jan 11, Wed | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc
 Jan 13, Fri | [GitHub Assignment](https://classroom.github.com/a/Zz0ysnwO)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
 |||
 **Week 2** || **Python review, including Pandas.**
- |No class on Jan 16th: MLK Holiday
-Wed, Jan18 |**GitHub Assignment due**<br>[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)| [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
- Fri, Jan 20 | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb) <br>Problem set 1 available, due {{site.ps_1_due}} | In class, ask questions
+ . |No class on Jan 16th: MLK Holiday
+Wed, Jan 18 |**GitHub Assignment due**<br>[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)| [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
+Fri, Jan 20 | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb) <br>Problem set 1 available, due {{site.ps_1_due}} | In class, ask questions
 |||
 **Week 3** || **More Python and NumPy**
-Mon, Jan 23 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)
-Wed, Jan 25 | [![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)  |   [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb)
-Fri, Jan 27 | **Problem set 1 is due**<br>Catch up | Catch up
+Mon, Jan 23 | | More Python
+Wed, Jan 25 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)
+Fri, Jan 27 |[![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)  |   [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb)
 |||
 **Week 4** || **Machine Leaning Introduction**
-Mon, Jan 30 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | What is Machine Learning [slides](https://docs.google.com/presentation/d/1r-uGjwAc7eaUQ5JFGGKyOlsJ3FEd8aoqMdCydhMLC3Q/edit?usp=sharing)<br>[Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb) 
+Mon, Jan 30 | **Problem set 1 is due**<br> [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | What is Machine Learning [slides](https://docs.google.com/presentation/d/1r-uGjwAc7eaUQ5JFGGKyOlsJ3FEd8aoqMdCydhMLC3Q/edit?usp=sharing)<br>[Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb) 
 Wed, Feb 1 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb)
 Fri, Feb 3 | [![PDSH Image](images/PDSH-cover-small.png) Section 5.03 of PDSH: Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1V6F2ZcYfosgc0HD8HF3aVkkIxGkAuNFa1dUGPMLNIro/edit?usp=sharing)
 |||
