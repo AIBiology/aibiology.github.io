@@ -111,7 +111,7 @@ Week |Reading/Assignment |Topic         |
 **Week 1**||**Intro and Python review**|
 Jan 9, Mon | **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/10_t6BSQsqlYv5FPHprm_Pm3jomdfEnmIJV_Il1MH4Q4/edit?usp=sharing))
 Jan 11, Wed | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1llDoXHknVQo6D9r8oWlRbSSQlIqmfKWA0LvrZsBqtcw/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
-Jan 13, Fri | [GitHub Assignment](https://classroom.github.com/a/Zz0ysnwO)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
+Jan 13, Fri | [GitHub Assignment](https://classroom.github.com/a/NZ0QO2Uu)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
 |||
 **Week 2** || **Python review, including Pandas.**
  . |No class on Jan 16th: MLK Holiday
