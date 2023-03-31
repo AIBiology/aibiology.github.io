@@ -20,7 +20,7 @@ You will likely have seen (and may have run) suggestions to `pip install`, or wi
 
 `conda` and the newer, faster, drop-in replacement `mamba`, were written to solve some of these issues. They allow you to have different environments and switch between environments when needed. They also make it much easier to report the exact configuration of modules that are needed to run some code, facilitating reproducibility. 
 
-Check out the [UFRC Help page on conda](https://help.rc.ufl.edu/doc/Conda)
+Check out the [UFRC Help page on conda, mamba and Jupyter kernels](https://help.rc.ufl.edu/doc/Managing_Python_environments_and_Jupyter_kernels)
 
 I've setup a `vit` environment for the `21_Vision_Transformers.ipynb` notebook.
 
@@ -43,8 +43,9 @@ show_channel_urls: false
 
 Then I ran:
 
-`mamba create -n vit`
+`mamba create -p /blue/zoo4926/share/conda/envs/vit`
 
+And then activate it: `conda activate /blue/zoo4926/share/conda/envs/vit`
 Then to get the tensorflow compiled with the latest CUDA for the A100s:
 
 `mamba install tensorflow==2.7.0=cuda112*`
