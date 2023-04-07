@@ -166,7 +166,7 @@ Wed, Mar 24 | **Problem set 5 due** | Time Series Analysis with RNNs
 **Week 12** ||  **Transformer architecture in depth**
  Mon, Apr 3 | | Transformers
  Wed, Apr 5  | [AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)
- Fri, Apr 7  |Problem set 6 (graduate students only) available, due {{site.ps_6_due}} | Transformers
+ Fri, Apr 7  |Problem set 6 (graduate students only) available, due {{site.ps_6_due}} | [Alphafold in Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 |||
 **Week 13** || **Transformers and what's new in AI?**
 Mon, Apr 10 |  | Transformers
