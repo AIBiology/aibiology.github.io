@@ -25,17 +25,17 @@ Classes will have some lecture, though most classes will consist of live coding 
 ___
 ## Instructors
 
-**Matt Gitzendanner**<br>
-**Email:** <a href="mailto:magitz@ufl.edu">magitz@ufl.edu</a><br>
-**Office:** Dickinson Hall, stop at front desk and they will call me
-**Phone:** 352-273-1960
-**About:**  Dr Gitzendanner's background is in plant evolutionary genetics and genomics where he uses genetic tools to study the conservation, evolution, and diversity of plants. The field is generally computationally intensive, and Matt has worked for 10 years training users how to use HiPerGator and other high-performance computing systems to do the amazing research that is done across the University of Florida campus.
+### Matt Gitzendanner
+* **Email:** <a href="mailto:magitz@ufl.edu">magitz@ufl.edu</a><br>
+* **Office:** Dickinson Hall, stop at front desk and they will call me
+* **Phone:** 352-273-1960
+* **About:**  Dr Gitzendanner's background is in plant evolutionary genetics and genomics where he uses genetic tools to study the conservation, evolution, and diversity of plants. The field is generally computationally intensive, and Matt has worked for 10 years training users how to use HiPerGator and other high-performance computing systems to do the amazing research that is done across the University of Florida campus.
 
-**Arthur Porto**<br>
-**Email:** 
-**Office:** Dickinson Hall, stop at front desk and they will call me
-**Phone:** 
-**About:** 
+### Arthur Porto**
+* **Email:** 
+* **Office:** Dickinson Hall, stop at front desk and they will call me
+* **Phone:** 
+* **About:** 
 
 The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb). Previous versions of the course are archived in GitHub branches in the [website's repository](https://github.com/AIBiology/aibiology.github.io).
 
