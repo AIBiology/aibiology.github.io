@@ -23,21 +23,24 @@ The course will attempt to provide sufficient background and foundations so that
 Classes will have some lecture, though most classes will consist of live coding demos and hands-on exercises.
 
 ___
+
 ## Instructors
 
 ### Matt Gitzendanner
+
 * **Email:** <a href="mailto:magitz@ufl.edu">magitz@ufl.edu</a><br>
 * **Office:** Dickinson Hall, stop at front desk and they will call me
 * **Phone:** 352-273-1960
 * **About:**  Dr Gitzendanner's background is in plant evolutionary genetics and genomics where he uses genetic tools to study the conservation, evolution, and diversity of plants. The field is generally computationally intensive, and Matt has worked for 10 years training users how to use HiPerGator and other high-performance computing systems to do the amazing research that is done across the University of Florida campus.
 
-### Arthur Porto**
+### Arthur Porto
+
 * **Email:** 
 * **Office:** Dickinson Hall, stop at front desk and they will call me
 * **Phone:** 
 * **About:** 
 
-The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb). Previous versions of the course are archived in GitHub branches in the [website's repository](https://github.com/AIBiology/aibiology.github.io).
+**Note:** The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb). Previous versions of the course are archived in GitHub branches in the [website's repository](https://github.com/AIBiology/aibiology.github.io).
 
 ___
 
@@ -69,6 +72,7 @@ Knowledge of basic calculus and, to a lesser extent, linear algebra, can be help
 If you are unsure, contact the instructor.
 
 ___
+
 ## Meeting Times
 
 * **Mon, Wed, Fri from 1:55pm - 2:45pm in Bartram 211**
@@ -83,6 +87,7 @@ ___
  {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. <br>**I expect that you will need help. You should expect that you will need help.** <br>I want to help you! I cannot always help if you do not ask for the help you need. ***Please ask for help!***" %}
 
 ___
+
 ## Course Textbooks
 
 {% include image.html file='textbook.png' alt="textbook icon" position="right" max-width=75 %}
