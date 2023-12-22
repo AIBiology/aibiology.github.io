@@ -35,10 +35,10 @@ ___
 
 ### Arthur Porto
 
-* **Email:** 
+* **Email:** <a href="mailto:arthur.porto@ufl.edu">arthur.porto@ufl.edu</a><br>
 * **Office:** Dickinson Hall, stop at front desk and they will call me
 * **Phone:** 
-* **About:** 
+* **About:** Dr Porto is a computational biologist with strong focus on applied computer vision. You can find more about his research at the [BioVisionLab](https://biovisionlab.com) website. 
 
 **Note:** The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb). Previous versions of the course are archived in GitHub branches in the [website's repository](https://github.com/AIBiology/aibiology.github.io).
 
