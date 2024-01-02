@@ -30,19 +30,13 @@ The text uses **IPython notebooks**, which are a slightly older, but mostly comp
 
 As with Python itself, there are several options for running Jupyter Notebooks. For this class, we'll focus on two options, both using HiPerGator. We'll go over launching notebooks with each of these methods and why you may want to use one or the other, and then come back to alternatives, like running notebooks on your computer or on Google.
 
-### Jupyter Notebooks via jupyterhub.rc.ufl.edu
+### Jupyter Notebooks via [ood.rc.ufl.edu](https://ood.rc.ufl.edu/)
 
-Perhaps the easiest method for running Jupyter notebooks on HiPerGator is to use the [jupyterhub.rc.ufl.edu](https://jupyterhub.rc.ufl.edu/) server.
-
-{% include important.html content="You must be on the UF network to access jupyterhub.rc.ufl.edu! If you are not on campus, you can use the <a href='https://vpn.ufl.edu'>UF VPN.</a>" %}
+Perhaps the easiest method for running Jupyter notebooks on HiPerGator is to use the [ood.rc.ufl.edu](https://ood.rc.ufl.edu/) server.
 
 After logging in with your GatorLink username and password, you should get to a page that looks like the image below.
 
-{% include image.html file='jupyter_server_options.png' alt="Screenshot of Server options page at jhub.rc.ufl.edu" %}
 
-The dropdown menu allows you to select different resources, which are used in scheduling your job. [Remember](https://help.rc.ufl.edu/doc/New_user_training#Scheduling_a_Job) that the SLURM scheduler needs information about how many cores, how much memory, how many GPUs, and how long you want the resources.
-
-For now, leave the "Teaching - 1 CPU core, 1GB RAM, 2h" selected and click Start. This submits a job to the scheduler, requesting those resources for 2 hours and launches the Jupyter server. This normally only takes a few minutes, and you should get a window similar to the one below, which is annotated to show key portions of the interface.
 
 {% include image.html file='jupyter_lab_overview.png' alt="Annotated screenshot of JupyterLab interface" %}
 

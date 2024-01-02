@@ -119,7 +119,7 @@ github: [metadata]
 # Matt's additions
 # Due date variables. Can be included in pages using {{site.variable}}
 
-gh_1_due: "Wednesday, January 18"
+gh_1_due: "Wednesday, January 17"
 
 ps_1_due: "Monday, January 30"
 ps_2_due: "Friday, February 17"
