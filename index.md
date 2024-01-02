@@ -112,7 +112,7 @@ Week |Reading/Assignment |Topic         |
 **Week 1**||**Intro and Python review**|
 Jan 8, Mon | **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/1cgKoBMRM3X3SjJ7sDpS3YL35HP6IR_BYDnG9yp-bAxA/edit?usp=sharing))
 Jan 10, Wed | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1gsiiniYlYEic7Xe9II2PA1DwzQd3HVEwulChQId1jBE/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
-Jan 12, Fri | [GitHub Assignment](https://classroom.github.com/a/NZ0QO2Uu)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
+Jan 12, Fri | [GitHub Assignment](https://classroom.github.com/a/GgkY043v)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
 **Week 2** || **Python review, including Pandas. AI for Coding.**
  . |No class on Jan 15th: MLK Holiday
 Wed, Jan 17 |**GitHub Assignment due**<br>[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)| [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
