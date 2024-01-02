@@ -38,7 +38,7 @@ After logging in with your GatorLink username and password, you should get to a 
 
 * **Click on the Jupyter Notebook App card** on the main page of OOD. Alternatively, you can use the Interactive Apps menu, scroll all the way to the bottom, and select Jupyter Notebook.
 
-{% include image.html file='ood_jupyter_app.png' alt='Screenshot of the OOD landing page highlighting the Jupyter application card to use" %}
+{% include image.html file='ood_jupyter_app.png' alt='Screenshot of the OOD landing page highlighting the Jupyter application card to use' %}
 
 * The next screen allows you to request resources to run a job on HiPerGator.
 * The suggested resource request for the first half of the courses is:
