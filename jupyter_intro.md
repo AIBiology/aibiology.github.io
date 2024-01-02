@@ -36,66 +36,42 @@ Perhaps the easiest method for running Jupyter notebooks on HiPerGator is to use
 
 After logging in with your GatorLink username and password, you should get to a page that looks like the image below.
 
+* **Click on the Jupyter Notebook App card** on the main page of OOD. Alternatively, you can use the Interactive Apps menu, scroll all the way to the bottom, and select Jupyter Notebook.
 
+{% include image.html file='ood_jupyter_app.png' alt='Screenshot of the OOD landing page highlighting the Jupyter application card to use" %}
+
+* The next screen allows you to request resources to run a job on HiPerGator.
+* The suggested resource request for the first half of the courses is:
+   * **Number of CPUs**: 2
+   * **Maximum Memory**: 15GB
+   * **SLURM Account and QOS**: Group name as needed (`bsc4892`).
+   * **Time Requested**: 1
+   * **Cluster Partition**: default
+
+Note that later in the semester, we will use a GPU, but for now, it is not really needed.
+
+* Click the **Launch** button, which will submit your job.
+
+{% include image.html file='hpg_connect_to_jupyter.png' alt='The cards seen as an SLURM job launches.' %}
+
+* Clicking the “**Connect to Jupyter**” button will open a new tab and should open with a window like what is pictured below—on future connections, it will normally open with the documents you had opened last time.
 
 {% include image.html file='jupyter_lab_overview.png' alt="Annotated screenshot of JupyterLab interface" %}
 
-The first thing to note is that JupyterHub does not know about storage outside of your home directory. In order to navigate to different parts of the cluster, we need to add links to those other places. To do this, scroll down in the Launcher window shown above to the "Other" section and click the Terminal button: {% include inline_image.html file='terminal_button.png' alt="Screenshot of the terminal button in Jupyter Launcher" %}
+### Create a Symlink to `/blue/bsc4892`
 
-At the Bash prompt, type the command below to create a symbolic link (kind of like an alias on MacOS or shortcut on Windows) to the `/blue/zoo4926` folder in your home directory and name it `blue_zoo4926`. **Note:** everyone is in the *zoo6927* group whether they are undergraduates or graduates.
+The first thing to note is that Jupyter does not know about storage outside of your home directory. In order to navigate to different parts of the cluster, we need to add links to those other places. To do this, scroll down in the Launcher window shown above to the "Other" section and click the Terminal button: {% include inline_image.html file='terminal_button.png' alt="Screenshot of the terminal button in Jupyter Launcher" %}
 
- `ln -s /blue/zoo4926 blue_zoo4926`
+At the Bash prompt, type the command below to create a symbolic link (kind of like an alias on MacOS or shortcut on Windows) to the `/blue/bsc4892` folder in your home directory and name it `blue_bsc4892`. **Note:** everyone is in the *bsc4892* group whether they are undergraduates or graduates.
 
-It should look similar to the image below:
+ `ln -s /blue/bsc4892 blue_bsc4892`
 
-{% include image.html file='terminal_symlink.png' alt="Screenshot of creating a symbolic link" %}
+Once you hit enter, you should see a folder named `blue_bsc4892` in the left-hand panel with your home directory contents (orange shaded region above).
 
-Once you hit enter, you should see a folder named `blue_zoo4926` in the left-hand panel with your home directory contents (orange shaded region above).
-
-Click through the folders to get to `blue_zoo4926/share/Jupyter_Content/Intro_to_Jupyter.ipynb` and open that.
+Click through the folders to get to `blue_bsc4892/share/Jupyter_Content/Intro_to_Jupyter.ipynb` and open that.
 
 We will pickup with using the notebook after looking at other methods of running notebooks.
 
-#### Pros and Cons of JupyterHub
-
-Pros | Cons |
------|------|
-Easy to use | Limited in resource options
- | Always uses your primary group
-
-
-### Jupyter Notebooks via ood.rc.ufl.edu
-
-A second, somewhat more flexible, option for running Jupyter Notebooks on HiPerGator is using the Open On Demand service at: [ood.rc.ufl.edu](https://ood.rc.ufl.edu/).
-
-{% include important.html content="You must be on the UF network to access ood.rc.ufl.edu! If you are not on campus, you can use the <a href='https://vpn.ufl.edu'>UF VPN.</a>" %}
-
-After logging in with your GatorLink username and password, you should get to a page with menus like the image below.
-
-{% include image.html file='ood_menus.png' alt="Screenshot of Open On Demand menus" %}
-
-From the **Interactive Apps** menu, select Jupyter Notebook from the bottom of the menu: {% include inline_image.html file='ood_Jupyter.png' alt="Screenshot of the Jupyter Notebook option" %}
-
-That will take you to the job options form, where you can specify job resources and other things, including the SLURM Account and QOS to use. This is similar to the drop down menu when launching servers via the jupyterhub.rc.ufl.edu site, but rather than selecting from pre-set options, you have full control over resources.
-
-{% include important.html content="By specifying the SLURM Account <b>and</b> QOS, you can submit the job to a secondary group (e.g. zoo6927). JupyterHub is limited to using your primary group for jobs. Open On Demand provides more flexibility here and is a good option if you are in multiple groups." %}
-
-After specifying the options you want, click the Launch button. The page that comes up will show you your job waiting to be scheduled and then provide a Connect to Jupyter Button.
-
-{% include image.html file='ood_connect.png' alt="Screenshot of the Connect to Jupyter screen" %}
-
-The Jupyter interface should looks about the same as the image above for jhub.
-
-As before, if you have not already created a link, open a terminal and type the command: `ln -s /blue/zoo4926 blue_zoo4926`. Click through the folders to get to `blue_zoo4926/share/Jupyter_Content/Intro_to_Jupyter.ipynb` and open that.
-
-We will pickup with using the notebook after looking at other methods of running notebooks.
-
-#### Pros and Cons of Jupyter via Open on Demand
-
-Pros | Cons |
------|------|
-Full resource options | Slightly less simple
-Can use secondary groups | 
 
 ### Jupyter Notebooks via Google Colaboratory
 
