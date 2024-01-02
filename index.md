@@ -77,14 +77,14 @@ ___
 
 * **Mon, Wed, Fri from 1:55pm - 2:45pm in Bartram 211**
 
-    {% include important.html content="You should make every effort to attend class synchronously. While I will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
+    {% include important.html content="You should make every effort to attend class synchronously. While we will record class sessions, **during class is the best opportunity to ask questions and get help from the instructors and others in the class.**" %}
 
-* I understand that some students will need to miss classes sometimes. That is fine and I will do my best to help you catch up, but regular attendance is the best way to learn.
+* I understand that some students will need to miss classes sometimes. That is fine and we will do our best to help you catch up, but regular attendance is the best way to learn.
 
 ___
 {% include custom/office_hours.html %}
 
- {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. <br>**I expect that you will need help. You should expect that you will need help.** <br>I want to help you! I cannot always help if you do not ask for the help you need. ***Please ask for help!***" %}
+ {% include tip.html content="Coding is not always easy. Simple solutions are not always obvious. There will be some frustration. <br>**We expect that you will need help. You should expect that you will need help.** <br>We want to help you! We cannot always help if you do not ask for the help you need. ***Please ask for help!***" %}
 
 ___
 
@@ -215,11 +215,11 @@ Grading in this class is consistent with UF policies available at: [https://cata
         <!-- /.panel-heading--> 
         <div id="collapseA" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                Should a student wish to dispute any grade received in this class (other than simple addition errors), the dispute must be in writing (via email) and be submitted to the instructor within a week of receiving the grade.
+                Should a student wish to dispute any grade received in this class (other than simple addition errors), the dispute must be in writing (via email) and be submitted to the instructors within a week of receiving the grade.
                 <BR><BR>
                 The dispute should clearly set out the grade that the student believes the assignment should have received as well as why they believe that they should have received such a grade.
                 <BR><BR>
-                Some assignments may be resubmitted for revision. I may suggest a resubmission, or a student may ask for the opportunity to resubmit. My goal in allowing resubmission is to give students a chance to learn the material. A meeting to discuss the material is generally expected prior to resubmission.
+                Some assignments may be resubmitted for revision. We may suggest a resubmission, or a student may ask for the opportunity to resubmit. Our goal in allowing resubmission is to give students a chance to learn the material. A meeting to discuss the material is generally expected prior to resubmission.
             </div>
             <!-- /.panel-body -->
         </div>
@@ -312,7 +312,7 @@ ___
 
 Requirements for class attendance and makeup assignments, and other work in this course are consistent with university policies that can be found in the online catalog at: [https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/](https://catalog.ufl.edu/UGRD/academic-regulations/attendance-policies/)
 
-In general, I do not take attendance. You are all adults and I assume you are taking the class the learn. **The best way to learn is to regularly attend class.** I are sure students will miss class for various reasons. I am happy to help you catch up. If you regularly miss class and fall behind, I may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. I will make every effort to record and post all classes to help those that miss classes.
+In general, we do not take attendance. You are all adults and we assume you are taking the class the learn. **The best way to learn is to regularly attend class.** We are sure students will miss class for various reasons. We are happy to help you catch up. If you regularly miss class and fall behind, we may ask that you hold questions on content you have missed until after class, or ask that you coordinate a time to go over the content. We will make every effort to record and post all classes to help those that miss classes.
 
 ### Assignment Policy
 
@@ -322,7 +322,7 @@ All assignments are "open book, open internet", you may use whatever resources y
 
 ### Makeup and Late policy
 
-Please notify the instructor of circumstances that lead to late work or missed classes. I will generally work with you and accept late work. All assignments are designed for both your own learning and my assessment of your efforts. Much of the course builds on previous sections and falling behind on assignments will make it harder to keep up. If you need help, please ask! **My goal is for all students to learn the material** and I understand that some students will need more help than others. The grade is based on the end product, not the amount of time and help needed to get there.
+Please notify the instructors of circumstances that lead to late work or missed classes. We will generally work with you and accept late work. All assignments are designed for both your own learning and my assessment of your efforts. Much of the course builds on previous sections and falling behind on assignments will make it harder to keep up. If you need help, please ask! **Our goal is for all students to learn the material** and we understand that some students will need more help than others. The grade is based on the end product, not the amount of time and help needed to get there.
 
 ___
 
