@@ -140,7 +140,7 @@ Fri Feb 23 | **Problem set 3 is due**<br>Problem set 4 available, due {{site.ps_
 **Week 8** || **More Ensemble methods, XGBoost. Clustering Algorithms.**
 Mon, Feb 26 |  [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
 Wed, Feb 28 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) | Clustering algorithms – K-means and Hierarchical clustering
-Fri, Mar 1 | [[![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)| Clustering algorithms – K-means and Hierarchical clustering
+Fri, Mar 1 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)| Clustering algorithms – K-means and Hierarchical clustering
 **Week 9** || **Intro to Artificial Neural Networks**
 Mon, Mar 4 | | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/1tXBz3DC_KH4cnodH-oKm7kri6dHRgsBgetDUhMuW5c8/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb) 
 Wed, Mar 6 |  | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
