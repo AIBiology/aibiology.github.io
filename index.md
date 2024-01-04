@@ -37,7 +37,7 @@ ___
 
 * **Email:** <a href="mailto:arthur.porto@ufl.edu">arthur.porto@ufl.edu</a><br>
 * **Office:** Dickinson Hall, stop at front desk and they will call me
-* **Phone:** 
+* **Phone:** 352-273-1939
 * **About:** Dr Porto is a computational biologist with strong focus on applied computer vision. You can find more about his research at the [BioVisionLab](https://biovisionlab.com) website. 
 
 **Note:** The initial version of this course, taught in Spring 2021, was co-developed with [Brian Stucky](https://github.com/stuckyb). Previous versions of the course are archived in GitHub branches in the [website's repository](https://github.com/AIBiology/aibiology.github.io).
@@ -139,8 +139,8 @@ Wed, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: 
 Fri Feb 23 | **Problem set 3 is due**<br>Problem set 4 available, due {{site.ps_4_due}}| [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
 **Week 8** || **More Ensemble methods, XGBoost. Clustering Algorithms.**
 Mon, Feb 26 |  [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
-Wed, Feb 28 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) | Clustering algorithms – K-means and Hierarchical clustering
-Fri, Mar 1 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)| Clustering algorithms – K-means and Hierarchical clustering
+Wed, Feb 28 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) | [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
+Fri, Mar 1 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)| [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
 **Week 9** || **Intro to Artificial Neural Networks**
 Mon, Mar 4 | | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/1tXBz3DC_KH4cnodH-oKm7kri6dHRgsBgetDUhMuW5c8/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb) 
 Wed, Mar 6 |  | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
