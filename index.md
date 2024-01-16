@@ -115,8 +115,8 @@ Jan 10, Wed | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc
 Jan 12, Fri | [GitHub Assignment](https://classroom.github.com/a/GgkY043v)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
 **Week 2** || **Python review, including Pandas. AI for Coding.**
  . |No class on Jan 15th: MLK Holiday
-Wed, Jan 17 |**GitHub Assignment due**<br>[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)| [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
-Fri, Jan 21 | [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb) <br>Problem set 1 available, due {{site.ps_1_due}} | Intro Python and Coding Assistants
+Wed, Jan 17 |[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)| [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
+Fri, Jan 19 |**GitHub Assignment due**<br> [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb) <br>Problem set 1 available, due {{site.ps_1_due}} | Intro Python and Coding Assistants
 **Week 3** || **More AI for Coding, and NumPy**
 Mon, Jan 22 | | Intro Python and Coding Assistants
 Wed, Jan 24 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)
