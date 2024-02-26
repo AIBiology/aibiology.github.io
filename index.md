@@ -138,7 +138,7 @@ Mon, Feb 19 | | Hands-on SVMs<br>Work through one of these: <br>- [Tutorial: ima
 Wed, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html) | [Decision Trees](https://github.com/AIBiology/Jupyter_Content/blob/main/12_Decision_Trees.ipynb) and Random Forests
 Fri Feb 23 | **Problem set 3 is due**<br>Problem set 4 available, due {{site.ps_4_due}}| [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
 **Week 8** || **More Ensemble methods, XGBoost. Clustering Algorithms.**
-Mon, Feb 26 |  [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
+Mon, Feb 26 | Papers with\[out\] code: [Kumar *et al.* Sustainability 2022, 14(21), 13998; https://doi.org/10.3390/su142113998](https://doi.org/10.3390/su142113998)| Discuss and implement the paper.
 Wed, Feb 28 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) | [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
 Fri, Mar 1 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)| [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
 **Week 9** || **Intro to Artificial Neural Networks**
