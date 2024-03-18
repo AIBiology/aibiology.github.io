@@ -148,7 +148,7 @@ Friday, Mar 8 | **Problem set 4 due** | [Convolutional Neural Networks](https://
 Mar 11-15 |**SPRING BREAK** |
 **Week 10** || **Computer vision with Convolutional Neural Networks**
 Mon, Mar 18 | | More CNNs
-Wed, Mar 20 || [Transfer Learning](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)
+Wed, Mar 20 || [Transfer Learning](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb) <br> [Slides](https://docs.google.com/presentation/d/1iYvYdNzhCQ25ji6VK6lAKiWNCIaakr90_Ywu7qDwTuY/edit#slide=id.g1f411951e55_0_675)
 Fri, Mar 22 | Problem set 5 available, due {{site.ps_5_due}} | Generative AI – (e.g., Denoising, novel discovery)
 **Week 11** || **Natural language processing and the rise of Transformers**
  Mon, Mar 25 || [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/19_Natural_Language_Processing.ipynb)
