@@ -155,7 +155,7 @@ Fri, Mar 22 | Problem set 5 available, due {{site.ps_5_due}} | [Generative AI](h
  Wed, Mar 27 | | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
  Fri, Mar 29 | **Problem Set 5 due** | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> [Vision Transformers intro and option 1](https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb) [Vision Transformers on Casava diseases](https://github.com/AIBiology/Jupyter_Content/blob/main/21b_vit-fine-tuning.ipynb)
 **Week 12** ||  **Transformer architecture in depth**
- Mon, Apr 1 | | Transformers
+ Mon, Apr 1 | | [Modern Transformers](https://github.com/AIBiology/Jupyter_Content/blob/main/21c_Vision_transformers.ipynb) and [Lecture slides](https://docs.google.com/presentation/d/1Qt_zCAb0BDXT18aCV162z1iNLvwpi_gAbSqYeTXEa8w)
  Wed, Apr 3  | [AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)
  Fri, Apr 5  |Problem set 6 (graduate students only) available, due {{site.ps_6_due}} | [Alphafold in Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 **Week 13** || **Transformers and what's new in AI?**
