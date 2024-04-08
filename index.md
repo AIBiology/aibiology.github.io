@@ -159,9 +159,9 @@ Fri, Mar 22 | Problem set 5 available, due {{site.ps_5_due}} | [Generative AI](h
  Wed, Apr 3  | [AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)
  Fri, Apr 5  |Problem set 6 (graduate students only) available, due {{site.ps_6_due}} | [Alphafold in Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 **Week 13** || **Transformers and what's new in AI?**
-Mon, Apr 8 |  | Transformers
-Wed, Apr 10 |  | Multimodal AI
-Fri, Apr 12 | **Problem set 6 due (graduate students only)** <br> Project available, due {{site.project_due}} | Multimodal AI
+Mon, Apr 8 |  | [MultiModal AI](https://github.com/AIBiology/Jupyter_Content/blob/main/22_multi-modal-ai.ipynb) and [Lecture slides](https://docs.google.com/presentation/d/1VqDCSGXmif8Zh8_BeiCW3w8fGdVW9T8kic9oSwvig4E/edit#slide=id.p1)
+Wed, Apr 10 |  | Multimodal AI (if needed) and Project time
+Fri, Apr 12 | **Problem set 6 due (graduate students only)** <br> Project available, due {{site.project_due}} | Project time
 **Week 14** || **Finish up projects**
 Mon, Apr 15 |  | Project time
 Wed, Apr 17 |  | Project time
