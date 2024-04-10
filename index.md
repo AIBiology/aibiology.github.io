@@ -165,7 +165,7 @@ Fri, Apr 12 | **Problem set 6 due (graduate students only)** <br> Project availa
 **Week 14** || **Finish up projects**
 Mon, Apr 15 |  | Project time
 Wed, Apr 17 |  | Project time
-Fri, Apr 29 |  | Project time
+Fri, Apr 19 |  | Project time
 **Week 15** ||  **Present projects**
 Mon, Apr 22 |  | Project Presentations
 Wed, Apr 24 | **Project due** | Project Presentations
