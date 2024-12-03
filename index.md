@@ -132,6 +132,7 @@ ___
 
 For readings, there may be links to pages with my notes and additional explanations on the content from the texts.
 
+
 Week |AI-Related Topic |# Contact Hours of AI-related Content| AI-related readings, projects, assignments, etc.
 -----|-----------------|--------------------------------------|---------------------------------------------------
 **Week 1**|**Intro and Python review**|3 hours| **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) <br><br> Course introduction ([slides](https://docs.google.com/presentation/d/1cgKoBMRM3X3SjJ7sDpS3YL35HP6IR_BYDnG9yp-bAxA/edit?usp=sharing))<br><br>[Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training)<br><br> Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1gsiiniYlYEic7Xe9II2PA1DwzQd3HVEwulChQId1jBE/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!<br><br>GitHub setup

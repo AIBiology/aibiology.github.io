@@ -11,52 +11,88 @@ So far, we have used the Jupyter Kernels pre-installed and maintained by UFRC. T
 
 You will likely have seen (and may have run) suggestions to `pip install`, or within Jupyter `!pip install`, this package or that package. That will generally work...up to a point. There are a few issues with doing `pip install`:
 
-1. If you install a version of a module that is also installed in by UFRC (either now or in the future), your version will take precedence. Your version appears in the the `PYTHON_PATH` before the UFRC installed version. That may be fine *now*, but some time down the road there may be a newer version installed by UFRC for compatibility with something else and your older version still takes precedence and breaks the other module. This can be hard to diagnose when things start failing as you have likely forgotten that you installed the module in the first place.
-1. You may want to install something that needs a different version of a module. Sometimes, the unfortunate reality is that two modules cannot co-exist because they require different versions of dependencies. This becomes a challenge to manage with `pip` as there isn't a method to swap active versions.
+1. If you install a version of a package that is also installed in by UFRC (either now or in the future), your version will take precedence. Your version appears in the the `PYTHON_PATH` before the UFRC installed version. That may be fine *now*, but some time down the road there may be a newer version installed by UFRC for compatibility with something else and your older version still takes precedence and breaks the other module. This can be hard to diagnose when things start failing as you have likely forgotten that you installed the module in the first place.
+1. You may want to install something that needs a different version of a package. Sometimes, the unfortunate reality is that two packages cannot co-exist because they require different versions of dependencies. This becomes a challenge to manage with `pip` as there isn't a method to swap active versions.
 
 ## Conda and Mamba to the rescue!
 
 <img src='https://mamba.readthedocs.io/en/latest/_static/logo.png' alt='Mamba logo' width='200' align='right'>
 
-`conda` and the newer, faster, drop-in replacement `mamba`, were written to solve some of these issues. They allow you to have different environments and switch between environments when needed. They also make it much easier to report the exact configuration of modules that are needed to run some code, facilitating reproducibility. 
+`conda` and the newer, faster, drop-in replacement `mamba`, were written to solve some of these issues. They allow you to have different environments and switch between environments when needed. They also make it much easier to report the exact configuration of modules that are needed to run some code, facilitating reproducibility.
 
 Check out the [UFRC Help page on conda, mamba and Jupyter kernels](https://help.rc.ufl.edu/doc/Managing_Python_environments_and_Jupyter_kernels)
 
 I've setup a `vit` environment for the `21_Vision_Transformers.ipynb` notebook.
 
-To do so, I setup my `~/.condarc` to use `/blue/zoo4926/share/conda/` both to get it out of my home directory and to make it shared with everyone in the group:
 
-```bash
-channels:
-  - conda-forge
-  - bioconda
-  - defaults
-envs_dirs:
-  - /blue/zoo4926/share/conda/envs
-pkgs_dirs:
-  - /blue/zoo4926/share/conda/pkgs
-auto_activate_base: false
-auto_update_conda: false
-always_yes: false
-show_channel_urls: false
-```
+### Steps to setup the `vit` environment
 
-Then I ran:
+**I have done these steps for you, so you do not need to do them.** They are here as a template for you to follow in the future.
 
-`mamba create -p /blue/zoo4926/share/conda/envs/vit`
+1. Configure your `~/.condarc` to use `/blue/bsc4892/share/conda/` both to get it out of my home directory and to make it shared with everyone in the group. You could use your own `/blue` directory or where ever you want to store the conda environments.
 
-And then activate it: `conda activate /blue/zoo4926/share/conda/envs/vit`
-Then to get the tensorflow compiled with the latest CUDA for the A100s:
+    ```bash
+    channels:
+      - conda-forge
+      - bioconda
+      - defaults
+    envs_dirs:
+      - /blue/zbsc4892/share/conda/envs
+    pkgs_dirs:
+      - /blue/bsc4892/share/conda/pkgs
+    auto_activate_base: false
+    auto_update_conda: false
+    always_yes: false
+    show_channel_urls: false
+    ```
 
-`mamba install tensorflow==2.7.0=cuda112*`
+1. Create the conda environment:
+ 
+    ````bash
+    module load conda # Needed on HiPerGator to load conda
+    mamba create -p /blue/bsc4892/share/conda/envs/vit
+    ```
 
-> **Note:** if you just `mamba install tensorflow`, you will get a version compiled with an older CUDA, which will be ***extremely*** slow...ask me how I know 🤦
+1. Activate the new environment:
 
-Then add in other stuff:
+    ```bash
+    mamba activate /blue/zoo4926/share/conda/envs/vit
+    ```
+ 
+1. Start by installing python into the environment. We'll specify python 3.10. This will take some time.
 
-`mamba install jupyterlab transformers huggingface_hub tensorboard ipywidgets datasets pillow matplotlib scikit-learn seaborn kaggle opencv`
+    ```bash
+    mamba install python==3.10
+    ```
 
-And...of course...`tensorflow-addons` is not in conda yet, so I had to `pip install tensorflow-addons`. Same with `vit-keras`. The good thing is, if you `mamba activate vit` and then run `pip install tensorflow-addons` that is installed in the virtual environment.
+1. When you run a mamba command, it will figure out what needs to be installed, and then ask you to confirm the changes. Then it makes the changes.
+
+1. I'm not sure why, but Tensorflow has stopped using `conda`, so we need to use `pip` to install newer versions. To install Tensoflow with GPU support, run:
+
+    ```bash
+    python3 -m pip install tensorflow[and-cuda]
+    ```
+
+   * This also takes a bit of time.
+
+1. Install other things via `mamba`:
+
+    ```
+    mamba install jupyterlab transformers huggingface_hub tensorboard ipywidgets datasets pillow matplotlib scikit-learn seaborn kaggle opencv
+    ```
+
+1. There are some other required packages not distributed via `conda`. Install those with `pip` as well.
+
+    ```
+    pip install tensorflow-addons vit-keras
+    ```
+
+1. Looks like there's a compatability layer needed for newer Keras...
+
+    ```
+    pip install tf-keras
+    ```
+    
 
 ## Adding the `vit` environment as a Jupyter kernel
 
@@ -70,11 +106,11 @@ I have prepared the kernel and it's in the `kernels` folder of the `Jupyter_Cont
 
 In addition to the global kernels, Jupyter will look in your directory `~/.local/share/jupyter/kernels/` for personal kernels.
 
-After pulling the latest version of the repo, open a terminal and run these commands (or use the repo at `/blue/zoo4926/share/Jupyter_Content` as below)
+After pulling the latest version of the repo, open a terminal and run these commands (or use the repo at `/blue/bsc4892/share/Jupyter_Content` as below)
 
 ```bash
 # Change to the path where you have the Jupyter_Content repo
-cd /blue/zoo4926/share/Jupyter_Content/kernels
+cd /blue/bsc4892/share/Jupyter_Content/kernels
 # Copy the vit folder to ~/.local/share/jupyter/kernels/
 cp -r vit ~/.local/share/jupyter/kernels/
 ```
