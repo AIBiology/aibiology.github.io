@@ -22,6 +22,12 @@ The course will attempt to provide sufficient background and foundations so that
 
 Classes will have some lecture, though most classes will consist of live coding demos and hands-on exercises.
 
+## AI Content
+
+**Build-AI**: Evaluate & Create AI: Higher-order thinking skills (e.g., evaluate, appraise, predict, design) with AI applications. AI course content is over 50%.
+
+*This course accomplishes the AI Designation objectives of the subject areas listed above. The course explores the application of AI to biological data. Students build AI systems using Python code and evaluate the performance of these on data.*
+
 ___
 
 ## Instructors
@@ -99,6 +105,25 @@ While we will not use any one text for the course, we will use sections of these
 
 ___
 
+## Student Learning Outcomes
+
+| **Note:** For each SLO listed, topics are addressed in lectures and hands-on, interactive coding exercises in class throughout the semester. Assessment of SLOs is noted in the corresponding assignments in the calendar.
+
+**Know-AI: Know & Understand**  
+
+* **SLO1.** Identify, describe, and/or explain the components, requirements, and/or characteristics of AI.  
+* **SLO2.** Recognize, identify, describe, define, and/or explain applications of AI in multiple domains.
+
+**Use-AI: Use & Apply**
+
+* **SLO3.** Select and/or utilize AI tools and techniques appropriate to a specific context and application.   
+
+**Build-AI: Evaluate & Create**
+
+* **SLO5.** Assess the context-specific value or quality of AI tools and applications.  
+* **SLO6.** Conceptualize and/or develop tools, hardware, data, and/or algorithms utilized in AI solutions.  
+___
+
 ## Course Calendar
 
 {% include image.html file='calendar.png' alt="calendar icon" position="right" max-width=75 %}
@@ -107,68 +132,25 @@ ___
 
 For readings, there may be links to pages with my notes and additional explanations on the content from the texts.
 
-Week |Reading/Assignment |Topic         |
------|--------------|-------------------|
-**Week 1**||**Intro and Python review**|
-Jan 8, Mon | **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) | Course introduction ([slides](https://docs.google.com/presentation/d/1cgKoBMRM3X3SjJ7sDpS3YL35HP6IR_BYDnG9yp-bAxA/edit?usp=sharing))
-Jan 10, Wed | [Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training) | Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1gsiiniYlYEic7Xe9II2PA1DwzQd3HVEwulChQId1jBE/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!
-Jan 12, Fri | [GitHub Assignment](https://classroom.github.com/a/GgkY043v)<br>GitHub Assignment available, due {{site.gh_1_due}}|  GitHub setup
-**Week 2** || **Python review, including Pandas. AI for Coding.**
- . |No class on Jan 15th: MLK Holiday
-Wed, Jan 17 |[![PDHS Image](images/PDSH-cover-small.png) Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)| [Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)
-Fri, Jan 19 |**GitHub Assignment due**<br> [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb) <br>Problem set 1 available, due {{site.ps_1_due}} | Intro Python and [Coding Assistants](https://github.com/AIBiology/Jupyter_Content/blob/main/02_2_Coding_Assistants_Tutorial.ipynb)
-**Week 3** || **More AI for Coding, and NumPy**
-Mon, Jan 22 | | Intro Python and [Coding Assistants](https://github.com/AIBiology/Jupyter_Content/blob/main/02_2_Coding_Assistants_Tutorial.ipynb)
-Wed, Jan 24 | [![PDHS Image](images/PDSH-cover-small.png) Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)
-Fri, Jan 26 |[![PDHS Image](images/PDSH-cover-small.png) Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)  |   [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb)
-**Week 4** || **Machine Leaning Introduction**
-Mon, Jan 29 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) | What is Machine Learning [slides](https://docs.google.com/presentation/d/1SDsBlVdvaQRMeW7G_AJ4MB6T2uqJVj6am1BaWbnbDMw/edit?usp=sharing)<br>[Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb) 
-Wed, Jan 31 | **Problem set 1 is due**<br> [![PDHS Image](images/PDSH-cover-small.png) Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html) | [Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb)
-Fri, Feb 2 | [![PDSH Image](images/PDSH-cover-small.png) Section 5.03 of PDSH: Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) | [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1WmVVNN_YaTHhnlt1Hu4ZbCXabACqsb4QZoUEFUKt39o/edit?usp=sharing)
-**Week 5** || **Bias-variance trade-off, linear regression**
- Mon, Feb 5 |  [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1WmVVNN_YaTHhnlt1Hu4ZbCXabACqsb4QZoUEFUKt39o/edit?usp=sharing)
-Wed, Feb 7 | Skim [![PDSH Image](images/PDSH-cover-small.png) Section 5.04 of PDSH: Feature Engineering](https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html)|   [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1WmVVNN_YaTHhnlt1Hu4ZbCXabACqsb4QZoUEFUKt39o/edit?usp=sharing)
-Fri, Feb 9 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html) <br> Problem set 2 available, due {{site.ps_2_due}}  | [Linear Regression--Lasso and Ridge Regression](https://github.com/AIBiology/Jupyter_Content/blob/main/09_linreg_regularization_student.ipynb) 
-**Week 6** || **Classification, logistic regression, SVMs**
-Mon, Feb 12 | | Hands-on data analysis, problem set help
-Wed, Feb 14 | | [Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/10_Classification_student.ipynb)
-Fri, Feb 16 | **Problem set 2 is due**<br>[![PDHS Image](images/PDSH-cover-small.png) Section 5.07 of PDSH: In-Depth: Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) <br>Problem set 3 available, due {{site.ps_3_due}} |  [Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/11_SupportVectorMachines_student.ipynb) 
-**Week 7** || **SVMs continued, Random Forests**
-Mon, Feb 19 | | Hands-on SVMs<br>Work through one of these: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>- [Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>- [Image Classification Using Machine Learning-Support Vector Machine(SVM)](https://medium.com/analytics-vidhya/image-classification-using-machine-learning-support-vector-machine-svm-dc7a0ec92e01)
-Wed, Feb 21 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.08 of PDSH: Decision Trees and Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html) | [Decision Trees](https://github.com/AIBiology/Jupyter_Content/blob/main/12_Decision_Trees.ipynb) and Random Forests
-Fri Feb 23 | **Problem set 3 is due**<br>Problem set 4 available, due {{site.ps_4_due}}| [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
-**Week 8** || **More Ensemble methods, XGBoost. Clustering Algorithms.**
-Mon, Feb 26 | Papers with\[out\] code: [Kumar *et al.* Sustainability 2022, 14(21), 13998; https://doi.org/10.3390/su142113998](https://doi.org/10.3390/su142113998)| Discuss and implement the paper.
-Wed, Feb 28 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) | [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
-Fri, Mar 1 | [![PDHS Image](images/PDSH-cover-small.png) Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)| [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
-**Week 9** || **Intro to Artificial Neural Networks**
-Mon, Mar 4 | | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/1tXBz3DC_KH4cnodH-oKm7kri6dHRgsBgetDUhMuW5c8/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb) 
-Wed, Mar 6 |  | [Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)
-Friday, Mar 8 | **Problem set 4 due** | [Convolutional Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/16_CNNs_part1.ipynb) and [Lect_06](https://docs.google.com/presentation/d/1GryS5q3jAY-rpVOgHgTkHWitmuyVJ5-7mSA5slMU0zE/edit?usp=sharing)
-Mar 11-15 |**SPRING BREAK** |
-**Week 10** || **Computer vision with Convolutional Neural Networks**
-Mon, Mar 18 | | More CNNs
-Wed, Mar 20 || [Transfer Learning](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb) <br> [Slides](https://docs.google.com/presentation/d/1iYvYdNzhCQ25ji6VK6lAKiWNCIaakr90_Ywu7qDwTuY/edit#slide=id.g1f411951e55_0_675)
-Fri, Mar 22 | Problem set 5 available, due {{site.ps_5_due}} | [Generative AI](https://github.com/AIBiology/Jupyter_Content/blob/main/18_2_Generative_AI.ipynb) – (e.g., Denoising, novel discovery)
-**Week 11** || **Natural language processing and the rise of Transformers**
- Mon, Mar 25 || [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/19_Natural_Language_Processing.ipynb)
- Wed, Mar 27 | | [Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)
- Fri, Mar 29 | **Problem Set 5 due** | [Mamba and Custom Kernels](vit_mamba_setup.md) <br> [Vision Transformers intro and option 1](https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb) [Vision Transformers on Casava diseases](https://github.com/AIBiology/Jupyter_Content/blob/main/21b_vit-fine-tuning.ipynb)
-**Week 12** ||  **Transformer architecture in depth**
- Mon, Apr 1 | | [Modern Transformers](https://github.com/AIBiology/Jupyter_Content/blob/main/21c_Vision_transformers.ipynb) and [Lecture slides](https://docs.google.com/presentation/d/1Qt_zCAb0BDXT18aCV162z1iNLvwpi_gAbSqYeTXEa8w)
- Wed, Apr 3  | [AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)
- Fri, Apr 5  |Problem set 6 (graduate students only) available, due {{site.ps_6_due}} | [Alphafold in Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
-**Week 13** || **Transformers and what's new in AI?**
-Mon, Apr 8 |  | [MultiModal AI](https://github.com/AIBiology/Jupyter_Content/blob/main/22_multi-modal-ai.ipynb) and [Lecture slides](https://docs.google.com/presentation/d/1VqDCSGXmif8Zh8_BeiCW3w8fGdVW9T8kic9oSwvig4E/edit#slide=id.p1)
-Wed, Apr 10 |  | Multimodal AI (if needed) and Project time
-Fri, Apr 12 | **Problem set 6 due (graduate students only)** <br> Project available, due {{site.project_due}} | Project time
-**Week 14** || **Finish up projects**
-Mon, Apr 15 |  | Project time
-Wed, Apr 17 |  | Project time
-Fri, Apr 19 |  | Project time
-**Week 15** ||  **Present projects**
-Mon, Apr 22 |  | Project Presentations
-Wed, Apr 24 | **Project due** | Project Presentations
+
+Week |AI-Related Topic |# Contact Hours of AI-related Content| AI-related readings, projects, assignments, etc.
+-----|-----------------|--------------------------------------|---------------------------------------------------
+**Week 1**|**Intro and Python review**|3 hours| **Not required** reading, but a fun intro to AI: [People's Guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai) by Mimi Ọnụọha and Mother Cyborg (Diana Nucera) <br><br> Course introduction ([slides](https://docs.google.com/presentation/d/1cgKoBMRM3X3SjJ7sDpS3YL35HP6IR_BYDnG9yp-bAxA/edit?usp=sharing))<br><br>[Take the HiPerGator Account training](https://help.rc.ufl.edu/doc/New_user_training)<br><br> Brief intro and history of AI [slides](https://docs.google.com/presentation/d/1gsiiniYlYEic7Xe9II2PA1DwzQd3HVEwulChQId1jBE/edit?usp=sharing)<br>* Origins of AI as an academic discipline.<br>* A repeating pattern: major hype and enthusiasm followed by an AI “winter”.<br>* Where are we now?<br>* Constant need to question!<br><br>GitHub setup
+**Week 2** |**Python review, including Pandas. AI for Coding.**|3 hours |[Ch 1 of PDSH: IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)<br><br>[Introduction to Jupyter](jupyter_intro.md) and the notebook [Introduction to Jupyter](https://github.com/AIBiology/Jupyter_Content/blob/main/01_Intro_to_Jupyter.ipynb)<br><br>**GitHub Assignment due** (SLO6.)<br> [Introduction to Python](https://github.com/AIBiology/Jupyter_Content/blob/main/02_Intro_to_Python_Student.ipynb)<br><br> Intro Python and [Coding Assistants](https://github.com/AIBiology/Jupyter_Content/blob/main/02_2_Coding_Assistants_Tutorial.ipynb)
+**Week 3** |**More AI for Coding, and NumPy**|3 hours |Intro Python and [Coding Assistants](https://github.com/AIBiology/Jupyter_Content/blob/main/02_2_Coding_Assistants_Tutorial.ipynb)<br><br>[Ch 2 of PDSH: Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)<br><br>[Introduction to NumPy](https://github.com/AIBiology/Jupyter_Content/blob/main/03_Intro_to_Numpy_Student.ipynb)<br><br>[Ch 3 of PDSH: Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) <br><br> [Introduction to Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/04_Intro_to_Pandas_student.ipynb) <br> [Data Visualization in Pandas](https://github.com/AIBiology/Jupyter_Content/blob/main/05_Pandas_data_vis.ipynb)
+**Week 4** | **Machine Leaning Introduction**| 3 hours|[Section 5.01 of PDSH: What is Machine Learning?](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html)<br><br>What is Machine Learning [slides](https://docs.google.com/presentation/d/1SDsBlVdvaQRMeW7G_AJ4MB6T2uqJVj6am1BaWbnbDMw/edit?usp=sharing)<br>[Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb)<br><br> **Problem set 1 is due** Basic Python coding assessment (SLO3, SLO6.)<br> [Section 5.02 of PDSH: Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)<br><br>[Introducing Scikit-Learn](https://github.com/AIBiology/Jupyter_Content/blob/main/07_Intro_sklearn_student.ipynb)<br><br> [Section 5.03 of PDSH: Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html) <br><br> [Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1WmVVNN_YaTHhnlt1Hu4ZbCXabACqsb4QZoUEFUKt39o/edit?usp=sharing)
+**Week 5** | **Bias-variance trade-off, linear regression**| 3 hours |[Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1WmVVNN_YaTHhnlt1Hu4ZbCXabACqsb4QZoUEFUKt39o/edit?usp=sharing)<br><br>Skim [Section 5.04 of PDSH: Feature Engineering](https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html)<br><br>[Bias/variance tradeoff, model validation, cross-validation, and hyperparameters](https://github.com/AIBiology/Jupyter_Content/blob/main/08_Bias_variance_tradeoff_student.ipynb) <br> See also [slides](https://docs.google.com/presentation/d/1WmVVNN_YaTHhnlt1Hu4ZbCXabACqsb4QZoUEFUKt39o/edit?usp=sharing)<br><br>[Section 5.06 of PDSH: In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html)<br><br>[Linear Regression--Lasso and Ridge Regression](https://github.com/AIBiology/Jupyter_Content/blob/main/09_linreg_regularization_student.ipynb) 
+**Week 6** | **Classification, logistic regression, SVMs**|3 hours|Hands-on data analysis, problem set help<br><br>[Classification, logistic regression](https://github.com/AIBiology/Jupyter_Content/blob/main/10_Classification_student.ipynb)<br><br>**Problem set 2 is due** Linear and Logistic regression (SLO1, SLO2, SLO3, SLO5, SLO6)<br>[Section 5.07 of PDSH: In-Depth: Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) <br><br>[Support vector machines](https://github.com/AIBiology/Jupyter_Content/blob/main/11_SupportVectorMachines_student.ipynb) 
+**Week 7** | **SVMs continued, Random Forests**| 3 hours|Hands-on SVMs<br>Work through one of these: <br>- [Tutorial: image classification with scikit-learn](https://kapernikov.com/tutorial-image-classification-with-scikit-learn/)<br>- [Remote Sensed Hyperspectral Image Classification With The Extended Morphological Profiles and Support Vector Machines](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)<br>- [Image Classification Using Machine Learning-Support Vector Machine(SVM)](https://medium.com/analytics-vidhya/image-classification-using-machine-learning-support-vector-machine-svm-dc7a0ec92e01)<br><br>[Section 5.08 of PDSH: Decision Trees and Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)<br><br> [Decision Trees](https://github.com/AIBiology/Jupyter_Content/blob/main/12_Decision_Trees.ipynb) and Random Forests<br><br> **Problem set 3 is due** Support Vector Machines (SLO1, SLO2, SLO3, SLO5, SLO6)<br>Problem set 4 available, due {{site.ps_4_due}}<br><br> [Random Forests and Ensemble Methods](https://github.com/AIBiology/Jupyter_Content/blob/main/13_Ensemble_methods.ipynb)
+**Week 8** | **More Ensemble methods, XGBoost. Clustering Algorithms.**| 3 hours |Papers with\[out\] code: [Kumar *et al.* Sustainability 2022, 14(21), 13998; https://doi.org/10.3390/su142113998](https://doi.org/10.3390/su142113998)<br><br> Discuss and implement the paper.<br><br> [Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) <br><br> [Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)<br><br>[Section 5.11 of PDSH:  k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)<br><br>[Clustering algorithms – K-means](https://github.com/AIBiology/Jupyter_Content/blob/main/13_2_Intro_clustering_student.ipynb)
+**Week 9** | **Intro to Artificial Neural Networks** | 3 hours | Intro to Artificial Neural Networks: [Lecture 05](https://docs.google.com/presentation/d/1tXBz3DC_KH4cnodH-oKm7kri6dHRgsBgetDUhMuW5c8/edit?usp=sharing) and [Notebook](https://github.com/AIBiology/Jupyter_Content/blob/main/14_neural_nets-intro.ipynb)<br><br>[Multi-Layer Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/15_neural_networks.ipynb)<br><br> **Problem set 4 due** CLustering methods (SLO1, SLO2, SLO3, SLO5, SLO6)<br><br>[Convolutional Neural Networks](https://github.com/AIBiology/Jupyter_Content/blob/main/16_CNNs_part1.ipynb) and [Lect_06](https://docs.google.com/presentation/d/1GryS5q3jAY-rpVOgHgTkHWitmuyVJ5-7mSA5slMU0zE/edit?usp=sharing)
+**Week 10** | **Computer vision with Convolutional Neural Networks** |3 hours |More CNNs<br><br>[Transfer Learning](https://github.com/AIBiology/Jupyter_Content/blob/main/18_Transfer_Learning.ipynb)<br><br> Generative AI – (e.g., Denoising, novel discovery)
+**Week 11** | **Natural language processing and the rise of Transformers** | 3 hours |[Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/19_Natural_Language_Processing.ipynb)<br><br>[Natural Language Processing](https://github.com/AIBiology/Jupyter_Content/blob/main/20_NLP_Transformers.ipynb)<br><br> **Problem Set 5 due** CNN application (SLO1, SLO2, SLO3, SLO5, SLO6)<br><br>[Mamba and Custom Kernels](vit_mamba_setup.md) <br> [Vision Transformers intro and option 1](https://github.com/AIBiology/Jupyter_Content/blob/main/21_Vision_Transformers.ipynb) [Vision Transformers on Casava diseases](https://github.com/AIBiology/Jupyter_Content/blob/main/21b_vit-fine-tuning.ipynb)
+**Week 12** |  **Transformer architecture in depth** | 3 hours |Transformers<br><br>[AlphaFold background](https://theaisummer.com/deep-learning-biology-alphafold/)<br><br> [Alphafold in Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
+**Week 13** | **Transformers and what's new in AI?** | 3 hours | Transformers<br><br> Multimodal AI<br><br> **Problem set 6 due (graduate students only)** Transformer exercise (SLO1, SLO2, SLO3, SLO5, SLO6)<br><br> Multimodal AI
+**Week 14** | **Finish up projects** | 3 hours | Project time (team designed AI project) (SLO1, SLO2, SLO3, SLO5, SLO6)
+**Week 15** |  **Present projects** | 2 hours | Project Presentations (SLO1, SLO2, SLO3, SLO5, SLO6)
+
 
 ___
 
