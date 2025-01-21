@@ -316,8 +316,13 @@ ___
 
 ## Course Evaluation
 
-Students are expected to provide professional and respectful feedback on the quality of instruction in this course by completing course evaluations online via GatorEvals. Guidance on how to give feedback in a professional and respectful manner is available at [gatorevals.aa.ufl.edu/students/](https://gatorevals.aa.ufl.edu/students/). Students will be notified when the evaluation period opens, and can complete evaluations through the email they receive from GatorEvals, in their Canvas course menu under GatorEvals, or via [ufl.bluera.com/ufl/](https://ufl.bluera.com/ufl/). Summaries of course evaluation results are available to students at [gatorevals.aa.ufl.edu/public-results/](https://gatorevals.aa.ufl.edu/public-results/).
+Students are expected to provide professional and respectful feedback on the quality of instruction in this course by completing course evaluations online. Students can complete evaluations in three ways:
 
+1. The email they receive from GatorEvals,
+1. Their Canvas course menu under GatorEvals, or
+1. The central portal at [https://my-ufl.bluera.com](https://my-ufl.bluera.com)
+
+Guidance on how to provide constructive feedback is available at [https://gatorevals.aa.ufl.edu/students/](https://gatorevals.aa.ufl.edu/students/). Students will be notified when the evaluation period opens. Summaries of course evaluation results are available to students at[ https://gatorevals.aa.ufl.edu/public-results/( https://gatorevals.aa.ufl.edu/public-results/)].
 ___
 
 ## Class Demeanor and Netiquette
