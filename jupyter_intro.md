@@ -28,7 +28,11 @@ Notebooks are part of what is often referred to as "literate programming". They 
 
 The text uses **IPython notebooks**, which are a slightly older, but mostly compatible, version of what are now more generally referred to a **Jupyter Notebooks**. [Jupyter](https://jupyter.org/) stands for *Ju*lia, *Py*thon and *R*, and indeed, Jupyter supports these and other languages, not just Python, hence the name change as functionality was expanded.
 
-As with Python itself, there are several options for running Jupyter Notebooks. For this class, we'll focus on two options, both using HiPerGator. We'll go over launching notebooks with each of these methods and why you may want to use one or the other, and then come back to alternatives, like running notebooks on your computer or on Google.
+As with Python itself, there are several options for running Jupyter Notebooks.
+
+### Jupyter Notebooks via GitHub Codespaces
+
+It can sometimes take some time for HiPerGator accounts to be created. So that we can dive into the content of the class, we will start by using GitHub Codespaces. The main limitation, and why we will certainly want HiPerGator later in the semester, is that Codespaces are CPU-only. When we get to the deep learning portions of the course, a GPU will become more and more important!
 
 ### Jupyter Notebooks via [ood.rc.ufl.edu](https://ood.rc.ufl.edu/)
 
